@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SW9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "567073328e51969086c83d37d7dcc6e7512f8887c8c76095d3dae1239335bbd6",
+  "coordinate_bytes": 331064,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sw9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

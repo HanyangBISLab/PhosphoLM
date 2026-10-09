@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YOO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4c1f95891756bb4202429a15497ee34d17690db499ced376bd02da6f446c2e2a",
+  "coordinate_bytes": 625353,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yoo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

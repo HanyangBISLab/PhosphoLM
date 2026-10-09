@@ -1,0 +1,38 @@
+{
+  "pdb_id": "9EHD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "960c767000b0325238b96bce0a022ec956f8d9e1baf1791ef38485560d16bb09",
+  "coordinate_bytes": 357800,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ehd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9EHD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 39,
+      "phospho_atom_count": 23,
+      "min_distance_A": "5.322",
+      "token_chain_id": "A",
+      "token_residue_start": "39",
+      "token_residue_end": "41",
+      "token_residue_start_number": 39,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 41,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

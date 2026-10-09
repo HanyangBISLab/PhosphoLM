@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9REG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f9aec684459d219762dad0ee53d7fbb97e5eb4ee05736c16ec90b3a581085851",
+  "coordinate_bytes": 773627,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9reg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

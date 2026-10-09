@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3IDB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a9f02a2631b2198afd6700af546e8f9fb27110d7dfa1dbd750153cb6a673444d",
+  "coordinate_bytes": 523529,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3idb.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3IDB",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 14,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.954",
+      "token_chain_id": "B",
+      "token_residue_start": "121",
+      "token_residue_end": "123",
+      "token_residue_start_number": 121,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 123,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6HC1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d58d2bac80c84d35189479273095f5d7763ff93e17c10814d48ca2a9f53fe5e7",
+  "coordinate_bytes": 406947,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6HC1.cif",
+    "resolved_url": "https://files.rcsb.org/download/6HC1.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

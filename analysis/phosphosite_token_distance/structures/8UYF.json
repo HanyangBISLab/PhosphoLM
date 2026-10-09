@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8UYF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "20d53bd69b23ceabefa5f378bc29aaca48e0a8bb1d7c0877f0d17bc6d4d68931",
+  "coordinate_bytes": 690308,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8uyf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

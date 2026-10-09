@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5CF4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "65c9d08ad4fb41519952be435bb08e97b1465f64953106ac5e5ab612b3174d87",
+  "coordinate_bytes": 573243,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5cf4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

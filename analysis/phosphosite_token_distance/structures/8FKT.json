@@ -1,0 +1,69 @@
+{
+  "pdb_id": "8FKT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ae757eefcc6a9c2a79e0451e6013dfb9fbf5dabd57fb3eef6416019e6b948a2e",
+  "coordinate_bytes": 16441760,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8fkt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8FKT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 213,
+      "phospho_atom_count": 20,
+      "min_distance_A": "7.523",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8FKT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 122,
+      "phospho_atom_count": 20,
+      "min_distance_A": "1.328",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 12,
+    "outside_cutoff": 37,
+    "no_phospho_atoms": 78,
+    "within_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "WK",
+      "monomer": "SEP",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    },
+    {
+      "token": "DEE",
+      "monomer": "SEP",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

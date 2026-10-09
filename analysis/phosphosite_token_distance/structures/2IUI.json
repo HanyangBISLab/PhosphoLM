@@ -1,0 +1,20 @@
+{
+  "pdb_id": "2IUI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0b1778f1c652d10e8c0bbfcbe53c15f6966080d60d1edc002edd4caedbd60d5c",
+  "coordinate_bytes": 261122,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2IUI.cif",
+    "resolved_url": "https://files.rcsb.org/download/2IUI.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

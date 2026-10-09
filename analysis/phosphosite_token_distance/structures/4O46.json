@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4O46",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0a12af01ac23903d01fc1184f94aec38c04618695108bac558bd88f34279f612",
+  "coordinate_bytes": 2096427,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4o46.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4O46",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 162,
+      "phospho_atom_count": 60,
+      "min_distance_A": "2.850",
+      "token_chain_id": "D",
+      "token_residue_start": "55",
+      "token_residue_end": "57",
+      "token_residue_start_number": 55,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 57,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

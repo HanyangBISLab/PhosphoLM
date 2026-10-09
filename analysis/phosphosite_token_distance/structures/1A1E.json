@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1A1E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "771ea82f3527ed3567b25909a9d04b1e9d99954b6851bb7860905e7b1bf5d7ef",
+  "coordinate_bytes": 287493,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1a1e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

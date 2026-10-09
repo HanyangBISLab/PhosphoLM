@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1OL5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a525f90dba2c1859f31535552aa2ff1ef384672b1f894b6fe0a3c0a47b47975",
+  "coordinate_bytes": 343203,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ol5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

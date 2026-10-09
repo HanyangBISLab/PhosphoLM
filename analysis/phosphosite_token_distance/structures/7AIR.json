@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7AIR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8be3ed8f78be6e3009dad0ca1ed5f3507a042f9f548358822403e8f134026c23",
+  "coordinate_bytes": 1680103,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7air.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 75,
+    "outside_cutoff": 18,
+    "no_phospho_atoms": 36
+  },
+  "location_warnings": []
+}

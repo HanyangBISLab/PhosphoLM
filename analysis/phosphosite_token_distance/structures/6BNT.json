@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6BNT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "57ea64f75bc6e50df506869ee7c46c2d998374540f44801fcdbce3a87b43f55c",
+  "coordinate_bytes": 278697,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6bnt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

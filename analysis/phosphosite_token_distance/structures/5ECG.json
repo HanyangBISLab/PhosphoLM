@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ECG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "95340248e54c9ecb69da128005448c873c19514411e876808ce1f4781c6cc2f2",
+  "coordinate_bytes": 1278230,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ecg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

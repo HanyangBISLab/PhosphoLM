@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9LZ0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a3cc803aa5619da113f28aecccccf7a03a62a4cd93334a4e0c0a442b283e893b",
+  "coordinate_bytes": 626843,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9lz0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 12,
+    "no_token_atoms": 93
+  },
+  "location_warnings": []
+}

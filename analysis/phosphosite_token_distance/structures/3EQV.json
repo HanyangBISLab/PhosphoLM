@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3EQV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e5a81390f7254de4c37052102b49083f6fc4de2f257984b1d910b9854344eca0",
+  "coordinate_bytes": 726826,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3eqv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

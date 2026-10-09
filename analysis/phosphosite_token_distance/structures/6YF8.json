@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6YF8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dfb976de6a6fc54875e5d811af60c55342b74b57fc613598b6ea72c26b281395",
+  "coordinate_bytes": 2098857,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6yf8.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6YF8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 64,
+      "min_distance_A": "3.198",
+      "token_chain_id": "C",
+      "token_residue_start": "232",
+      "token_residue_end": "233",
+      "token_residue_start_number": 232,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 233,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

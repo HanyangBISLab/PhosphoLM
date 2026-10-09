@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6F3F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0c8567c19391810d6480b69a9ccd10c4689709381a8cda403f7b8e0e92c5368a",
+  "coordinate_bytes": 1217375,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6f3f.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6F3F",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 28,
+      "phospho_atom_count": 23,
+      "min_distance_A": "9.676",
+      "token_chain_id": "A",
+      "token_residue_start": "238",
+      "token_residue_end": "239",
+      "token_residue_start_number": 238,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 239,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

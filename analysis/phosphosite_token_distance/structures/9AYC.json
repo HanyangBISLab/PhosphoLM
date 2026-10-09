@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9AYC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b983b050eb82673c4b4f6590c5e154ed87b05adc4dc0dc83f13c3c5d8def824c",
+  "coordinate_bytes": 2406090,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ayc.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9AYC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 42,
+      "min_distance_A": "9.877",
+      "token_chain_id": "A",
+      "token_residue_start": "918",
+      "token_residue_end": "920",
+      "token_residue_start_number": 918,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 920,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 90,
+    "outside_cutoff": 25,
+    "no_phospho_atoms": 13,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

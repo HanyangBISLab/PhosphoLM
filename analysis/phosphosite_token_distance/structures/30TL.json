@@ -1,0 +1,60 @@
+{
+  "pdb_id": "30TL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7438e022eb29ab4d2b241782d149c640795a188a25cad402d8a5476fcae16060",
+  "coordinate_bytes": 559297,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/30TL.cif",
+    "resolved_url": "https://files.rcsb.org/download/30TL.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "30TL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.146",
+      "token_chain_id": "A",
+      "token_residue_start": "179",
+      "token_residue_end": "181",
+      "token_residue_start_number": 179,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 181,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "AAA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "30TL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 15,
+      "phospho_atom_count": 11,
+      "min_distance_A": "1.325",
+      "token_chain_id": "B",
+      "token_residue_start": "-2",
+      "token_residue_end": "0",
+      "token_residue_start_number": -2,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 0,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 2,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3VS4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c622027560fd3680b436ae85cc6c8eb81d8ae234667b6fc8eca2c1e9cb3608ae",
+  "coordinate_bytes": 776738,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3vs4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

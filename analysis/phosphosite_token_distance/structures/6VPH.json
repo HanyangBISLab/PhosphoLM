@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6VPH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f2b547886a9b5038e2909c592ff746ad43429e7b9ea29fc854cc79b9052b48ec",
+  "coordinate_bytes": 555626,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6vph.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

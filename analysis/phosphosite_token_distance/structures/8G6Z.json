@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8G6Z",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e80ac08c934f071accce4d4efe10e5fe12a420371d12d1663a2cfdf1bf673138",
+  "coordinate_bytes": 568347,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8g6z.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6QTM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8756d96084d55ea34b6b33f74d6bad703d28957328e932d3a2fef9155ad3cd59",
+  "coordinate_bytes": 620053,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6QTM.cif",
+    "resolved_url": "https://files.rcsb.org/download/6QTM.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

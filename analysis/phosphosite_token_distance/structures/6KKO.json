@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6KKO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5948e424dc175dbf85e10a489a5259b60dd68463af53a2d5aa25287215de4183",
+  "coordinate_bytes": 1046083,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6kko.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

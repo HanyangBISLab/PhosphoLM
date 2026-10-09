@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9T94",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7ee60dcf59219eba64d2244746012f996d7df6e125eb45924f19e9ee6fec282b",
+  "coordinate_bytes": 2903537,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9t94.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 48,
+    "no_token_atoms": 57
+  },
+  "location_warnings": []
+}

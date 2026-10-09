@@ -1,0 +1,41 @@
+{
+  "pdb_id": "11SE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d1878a23967efc8e2266d623a72c64be6c1e86cdaae47f96b8ee3a29c96fd9bd",
+  "coordinate_bytes": 815073,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/11SE.cif",
+    "resolved_url": "https://files.rcsb.org/download/11SE.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "11SE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 22,
+      "min_distance_A": "3.287",
+      "token_chain_id": "C",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

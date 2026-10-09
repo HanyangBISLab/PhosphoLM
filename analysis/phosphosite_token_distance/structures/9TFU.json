@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9TFU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "16068525e5ee4c4e7c0021d5cd5408748c720d1b6d36c03428250cbdec694e63",
+  "coordinate_bytes": 363247,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9tfu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2N8T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1cb9a8b3e32f88bc0d776d25d6e597197c4de2f42e8392f5b16e8c1ce243c240",
+  "coordinate_bytes": 772636,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2n8t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

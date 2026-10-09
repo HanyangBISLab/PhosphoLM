@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2b49d3fdbfa5ae50dd0b93b1956d72d74c79fbf33fd7dd1c31b137d7e5c6a778",
+  "coordinate_bytes": 1761437,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eoq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

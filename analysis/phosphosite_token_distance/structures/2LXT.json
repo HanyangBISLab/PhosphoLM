@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2LXT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9ffb8b28523efedd64799dd0e25b28dbeebced48a44d35b323735539c784efca",
+  "coordinate_bytes": 4200093,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2lxt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3A7H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cd83dae19322ff00abd6cef7a8a5ba8f94b85bd56fe146b7f037619aaa8b75ef",
+  "coordinate_bytes": 591817,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3a7h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

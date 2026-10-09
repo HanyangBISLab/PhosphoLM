@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2OVQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c1a5e8ed58185430b4ec998eb988156cf25f7817e4a317317e89496475a549bd",
+  "coordinate_bytes": 550487,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2ovq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

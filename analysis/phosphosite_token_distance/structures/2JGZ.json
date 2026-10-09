@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2JGZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "714ccc25d1c341f912f709476ec825ab3c623da15942403ecd3cf1dbb24d320c",
+  "coordinate_bytes": 490737,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2jgz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

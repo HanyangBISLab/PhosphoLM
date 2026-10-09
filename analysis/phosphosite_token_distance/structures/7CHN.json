@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7CHN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4264d90e18c6e5a56858193cc34c9e1591d89c636b117ef81556ba6c1ea3226f",
+  "coordinate_bytes": 319493,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7chn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

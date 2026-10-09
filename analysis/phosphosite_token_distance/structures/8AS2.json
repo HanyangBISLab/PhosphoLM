@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8AS2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6d74b5e6abf11521a6177b70eac1895104e5ab9643aded964762bfa6eaa9dda3",
+  "coordinate_bytes": 1196614,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8as2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14,
+    "no_token_atoms": 108
+  },
+  "location_warnings": []
+}

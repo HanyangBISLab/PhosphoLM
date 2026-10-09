@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1CDK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4a1a51862157a2f8a64189bae368fbd3ce81e92f1d2d5c3f8866da25be97831b",
+  "coordinate_bytes": 742506,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1cdk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

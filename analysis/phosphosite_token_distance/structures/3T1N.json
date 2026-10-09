@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3T1N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "851baeb40b5cadddd67aed2148689810e56438451cfb430f2ad117df5eebbbee",
+  "coordinate_bytes": 910833,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3t1n.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

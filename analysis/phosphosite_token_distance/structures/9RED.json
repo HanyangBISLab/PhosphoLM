@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RED",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "16c4fac48af1755b70ef7b3b5555715adc17da417223e2210a9411b1da2ce557",
+  "coordinate_bytes": 786788,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9red.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3KK9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8cadb58c88f0186bd234654bd17790fc142dfbf3c0a1a68a4711f1a335e6635d",
+  "coordinate_bytes": 459893,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3kk9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

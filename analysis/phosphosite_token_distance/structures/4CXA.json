@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4CXA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "95322a5a1f176edf2ea70d7b6bf8b953c9bde92b95169bb92c79af31d40b6643",
+  "coordinate_bytes": 983477,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4cxa.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

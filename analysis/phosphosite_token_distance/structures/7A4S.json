@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7A4S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2b72f310a7f3d13275c072e8501f73d09e2ec70bfcc4d870e6d22360f70ecc21",
+  "coordinate_bytes": 346272,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7a4s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

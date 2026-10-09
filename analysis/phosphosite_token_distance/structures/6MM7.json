@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6MM7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "57951c5a0680321e4c1de053bd7f14a3bb0743870c52fd07a449e6da9a9c5b8d",
+  "coordinate_bytes": 1856875,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6mm7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

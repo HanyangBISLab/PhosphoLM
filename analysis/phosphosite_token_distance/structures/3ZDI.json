@@ -1,0 +1,64 @@
+{
+  "pdb_id": "3ZDI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8765559cbb3b6681edc2411598cdae3ca1179f61b5d09f360d54c40276234909",
+  "coordinate_bytes": 618762,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3zdi.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "3ZDI",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 16,
+      "min_distance_A": "9.620",
+      "token_chain_id": "A",
+      "token_residue_start": "182",
+      "token_residue_end": "184",
+      "token_residue_start_number": 182,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 184,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "VEP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "3ZDI",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 16,
+      "phospho_atom_count": 16,
+      "min_distance_A": "9.380",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 3,
+    "within_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "VEP",
+      "monomer": "PTR",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

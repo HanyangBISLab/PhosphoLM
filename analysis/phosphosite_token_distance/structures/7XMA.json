@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7XMA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "81d4b2af5838dd227a09a84c3e883f83772c402e501e3ed36388b5829bbf0c2d",
+  "coordinate_bytes": 6699643,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7xma.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7XMB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b2cd336436fc0bf059fe76bee00f8a8c87163d598a1801dd7eb1e74cde33511d",
+  "coordinate_bytes": 6764334,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7xmb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

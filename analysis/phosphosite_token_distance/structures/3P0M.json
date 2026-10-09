@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3P0M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eb4071dcabacaa57b8ab282cbc3d2d7cdc96a432ad77edd9bd51cc3c4fb0716d",
+  "coordinate_bytes": 616900,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3p0m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

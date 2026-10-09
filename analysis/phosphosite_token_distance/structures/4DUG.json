@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DUG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e2e66dda5f036649b8de8102ee2eacb5c6f2914b11a4a4eb7c20cefdc79fd111",
+  "coordinate_bytes": 2601658,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dug.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

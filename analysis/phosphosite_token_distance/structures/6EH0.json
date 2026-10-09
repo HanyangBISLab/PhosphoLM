@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6EH0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9965c381a31819e74a702bf50e6278bee37f44810813cf28dbd6ab421a547866",
+  "coordinate_bytes": 876703,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6eh0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

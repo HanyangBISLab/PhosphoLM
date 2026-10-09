@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "18698ef1ac79acd2a6e55c39885831a9e02d29f5ec907f923babf90717c28c5a",
+  "coordinate_bytes": 981559,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

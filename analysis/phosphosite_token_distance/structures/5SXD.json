@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SXD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "75c16ab22ce35219c72e68aa2b8451630db9da3525107372e9a28633d1b1315a",
+  "coordinate_bytes": 1163069,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sxd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

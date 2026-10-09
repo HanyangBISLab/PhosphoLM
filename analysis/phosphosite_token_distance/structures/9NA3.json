@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9NA3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "47eb93e67aca0c9dea71b6086c9990dfdcf6b0f5494b8b4f64112f012c9530e7",
+  "coordinate_bytes": 1045012,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9na3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9NA3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 52,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.783",
+      "token_chain_id": "H0A0",
+      "token_residue_start": "405",
+      "token_residue_end": "407",
+      "token_residue_start_number": 405,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 407,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

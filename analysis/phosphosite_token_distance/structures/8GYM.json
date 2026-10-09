@@ -1,0 +1,102 @@
+{
+  "pdb_id": "8GYM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "62d884cef82edbbbf51df2b629375b214633a1031bb0474af2a62b3dd33974bf",
+  "coordinate_bytes": 68503930,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8gym.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8GYM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 2360,
+      "phospho_atom_count": 22,
+      "min_distance_A": "5.367",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "LEA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8GYM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 352,
+      "phospho_atom_count": 22,
+      "min_distance_A": "3.339",
+      "token_chain_id": "vb",
+      "token_residue_start": "389",
+      "token_residue_end": "391",
+      "token_residue_start_number": 389,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 391,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 5,
+      "token_occurrence_count": 16
+    },
+    {
+      "token": "LDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8GYM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 378,
+      "phospho_atom_count": 40,
+      "min_distance_A": "6.691",
+      "token_chain_id": "7C",
+      "token_residue_start": "123",
+      "token_residue_end": "125",
+      "token_residue_start_number": 123,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 125,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 14
+    },
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8GYM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 558,
+      "phospho_atom_count": 40,
+      "min_distance_A": "2.498",
+      "token_chain_id": "vb",
+      "token_residue_start": "456",
+      "token_residue_end": "458",
+      "token_residue_start_number": 456,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 458,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 18
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 76,
+    "no_phospho_atoms": 40,
+    "no_token_atoms": 9,
+    "within_cutoff": 4
+  },
+  "location_warnings": [
+    {
+      "token": "NH",
+      "monomer": "TPO",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

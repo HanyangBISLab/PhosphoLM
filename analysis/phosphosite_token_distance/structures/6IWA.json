@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6IWA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "533dea86805c9a6fc8da63b85be30a4b252fc20742edfeb45391219d6eba6e46",
+  "coordinate_bytes": 790177,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6iwa.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

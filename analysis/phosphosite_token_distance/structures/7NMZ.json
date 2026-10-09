@@ -1,0 +1,83 @@
+{
+  "pdb_id": "7NMZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a3ff6b0f216e7a5f36536d4e9ab69645d868f32aae8573cbdfae4ab114bd8280",
+  "coordinate_bytes": 509541,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7nmz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7NMZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 20,
+      "min_distance_A": "3.300",
+      "token_chain_id": "BA",
+      "token_residue_start": "179",
+      "token_residue_end": "181",
+      "token_residue_start_number": 179,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 181,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "RPR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7NMZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 12,
+      "phospho_atom_count": 20,
+      "min_distance_A": "6.693",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7NMZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.612",
+      "token_chain_id": "BA",
+      "token_residue_start": "57",
+      "token_residue_end": "59",
+      "token_residue_start_number": 57,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 59,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "within_cutoff": 3,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "RPR",
+      "monomer": "SEP",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3MK1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c4726123ee7eb294e5311e4c5a6014d5580711beb2018a5f37cbe30d9f22f3fd",
+  "coordinate_bytes": 938025,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3mk1.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3MK1",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 31,
+      "phospho_atom_count": 10,
+      "min_distance_A": "7.169",
+      "token_chain_id": "A",
+      "token_residue_start": "428",
+      "token_residue_end": "430",
+      "token_residue_start_number": 428,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 430,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 16,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

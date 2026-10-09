@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3HRC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "32383cebce9b1046e87782e4a5fc5465509087e84b8c8ff2d0c22885118caf16",
+  "coordinate_bytes": 324316,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3hrc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

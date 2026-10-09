@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OOG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "67cea65c77a09d7b4a4a6371a63417704b44bbcbd64118fe14d1726f99c47a04",
+  "coordinate_bytes": 353825,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3oog.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5TR5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4aad582ec21aff31a1d02e3c9d5d31c3982833f62a123328afa7eec8c29c3e0c",
+  "coordinate_bytes": 2866826,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5tr5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1XH8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "29bf937f825acc05bad6a3c73fef814350146621868b424d2a5377c47fa387e4",
+  "coordinate_bytes": 399198,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1xh8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

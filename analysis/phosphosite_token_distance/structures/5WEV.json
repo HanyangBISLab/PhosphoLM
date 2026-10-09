@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5WEV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "28dbfcf4e87633178666bc9faee2bb0dccea38f70c037873f0a9d09507903a09",
+  "coordinate_bytes": 343381,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5wev.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

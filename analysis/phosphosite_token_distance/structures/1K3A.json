@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1K3A",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fbfdbbf31d1f157d1d994632b2bc481d43e002d791f9d96b1c6bd92e8c5e5cb3",
+  "coordinate_bytes": 324666,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1k3a.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

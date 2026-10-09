@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4NTT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5f007486fff2c787d740478ac6386f4a181a24973d2dc30259dd9b213e73a935",
+  "coordinate_bytes": 1104853,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ntt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

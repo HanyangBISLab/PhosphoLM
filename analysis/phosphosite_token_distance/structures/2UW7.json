@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2UW7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "abf1b8d0502acdad766f72b0b929fa9f20bafc2c0092cc81a122c393c3bd565e",
+  "coordinate_bytes": 400329,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2uw7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

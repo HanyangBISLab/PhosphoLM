@@ -1,0 +1,38 @@
+{
+  "pdb_id": "5J7J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3ed00734ad75ad1fa8bf235078ac5e15bff256a654b569c533d12b421de1557e",
+  "coordinate_bytes": 1007070,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5j7j.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5J7J",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 17,
+      "min_distance_A": "3.546",
+      "token_chain_id": "A",
+      "token_residue_start": "118",
+      "token_residue_end": "120",
+      "token_residue_start_number": 118,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 120,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7CHT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e92da63ea772d2f6ce8d7b2846d415bbf12a43bc6cd04fc29236578d37ca2a05",
+  "coordinate_bytes": 323297,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7cht.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

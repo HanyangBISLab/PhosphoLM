@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4B8M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dcf6c6d8b415e12bfdb540dc5f8dbaed2af395b5f8b3bc136167fe97f5952130",
+  "coordinate_bytes": 580189,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4b8m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

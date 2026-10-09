@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6XKB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2cd1bcdf82c768a8508ac97e087fd87467f4e1e49984115e957f3a2ba0c36379",
+  "coordinate_bytes": 743931,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6XKB.cif",
+    "resolved_url": "https://files.rcsb.org/download/6XKB.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7MX1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e5fda362e41dce9d0ac58a6c1f93bd392f51f7819379af3e01313cf60bcd7ff8",
+  "coordinate_bytes": 1161035,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7mx1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

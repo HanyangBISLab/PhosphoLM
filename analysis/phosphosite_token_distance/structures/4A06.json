@@ -1,0 +1,16 @@
+{
+  "pdb_id": "4A06",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3b97ae2a579290ebceba8f47b4e1db6e2866fcb6fc67a95d8c088fe47a543ed8",
+  "coordinate_bytes": 518579,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4a06.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

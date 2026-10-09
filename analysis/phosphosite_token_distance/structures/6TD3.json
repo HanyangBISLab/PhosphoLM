@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6TD3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ee7ac239e1c623b6693127758586d312b5da32a879ecb4e88e4996d36c8064c7",
+  "coordinate_bytes": 13403058,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6td3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

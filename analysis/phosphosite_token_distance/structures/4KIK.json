@@ -1,0 +1,45 @@
+{
+  "pdb_id": "4KIK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7b386bcfadefd88bfa60dea60880af16c9bb358e9118dba3ccdcc2bca490d2d3",
+  "coordinate_bytes": 1988278,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4kik.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4KIK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 17,
+      "phospho_atom_count": 30,
+      "min_distance_A": "3.726",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "ELD",
+      "monomer": "SEP",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

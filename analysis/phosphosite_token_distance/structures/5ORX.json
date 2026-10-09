@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ORX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a8f8107ef408a441e7283e8e631dc5d272970d46b92fd2a4d2330a56430e0ce6",
+  "coordinate_bytes": 322132,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5orx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

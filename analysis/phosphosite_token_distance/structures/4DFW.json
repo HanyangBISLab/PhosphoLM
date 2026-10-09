@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DFW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9fbc8954af2bd28a82aac6ca95ca2a97303e0410b089eada73e8ec4d8d1db6af",
+  "coordinate_bytes": 460544,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dfw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

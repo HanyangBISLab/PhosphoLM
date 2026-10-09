@@ -1,0 +1,79 @@
+{
+  "pdb_id": "9T00",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dc0e85646a9f5124db0aeb1a3fab74bdeec1ebe4103be960d0e21fcb18e9b71c",
+  "coordinate_bytes": 601234,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9T00.cif",
+    "resolved_url": "https://files.rcsb.org/download/9T00.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9T00",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 64,
+      "min_distance_A": "9.449",
+      "token_chain_id": "A",
+      "token_residue_start": "429",
+      "token_residue_end": "431",
+      "token_residue_start_number": 429,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 431,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "AAA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9T00",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 30,
+      "phospho_atom_count": 64,
+      "min_distance_A": "4.523",
+      "token_chain_id": "D",
+      "token_residue_start": "703",
+      "token_residue_end": "705",
+      "token_residue_start_number": 703,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 705,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9T00",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 26,
+      "phospho_atom_count": 64,
+      "min_distance_A": "6.062",
+      "token_chain_id": "B",
+      "token_residue_start": "689",
+      "token_residue_end": "691",
+      "token_residue_start_number": 689,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 691,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 2,
+    "within_cutoff": 3
+  },
+  "location_warnings": []
+}

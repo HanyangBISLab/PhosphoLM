@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1OHE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1089ac4620acc3261b1c238a50e9a509c489f18da7a99322a7adbc71dabe9bf1",
+  "coordinate_bytes": 339070,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ohe.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

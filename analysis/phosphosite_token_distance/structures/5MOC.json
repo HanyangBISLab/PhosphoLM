@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5MOC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "63806f920946176c1c8355a2c2cc1282ae6ec31db4ee648d7600b001d6ecad8a",
+  "coordinate_bytes": 697604,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5moc.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5MOC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 53,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.550",
+      "token_chain_id": "A",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8FE2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a369ea42f3bebc8d730114321141e9741ebb0e97e5abaa666438879c540689f5",
+  "coordinate_bytes": 822195,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8fe2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

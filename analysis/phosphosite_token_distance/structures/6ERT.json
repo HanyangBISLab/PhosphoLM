@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ERT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "76d79eb692f9b4dc39495a4d7363451a64ad67240491fc5ee59f40e25b922311",
+  "coordinate_bytes": 854850,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ert.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

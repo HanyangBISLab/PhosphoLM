@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7VUW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0bc43ed895b09d1514f9580a3909d4fea770134d4307b64bb91ca3609240f0c9",
+  "coordinate_bytes": 6179929,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7vuw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3MV5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "13b4fb7daf1c645f64fb5f6badf2824aeac78cb9bfe751a9492b29ca3386e6d7",
+  "coordinate_bytes": 330743,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3mv5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

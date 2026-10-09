@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6RFI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e60ac18248001246de1952a2172f250d46ff66da2a0d33f4c08a350cb0c8c40d",
+  "coordinate_bytes": 910715,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6rfi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

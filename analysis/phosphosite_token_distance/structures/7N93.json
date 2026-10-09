@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7N93",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6e3737a54bc2120c9966a3de27cc493e23bd50814cd9fee8180863a36ab926a4",
+  "coordinate_bytes": 587339,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7n93.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

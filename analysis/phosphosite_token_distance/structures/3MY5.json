@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3MY5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "aa264a45ac99bd39f78c257f7d99230b85c2b62022b8fdc15367d5b579de88c0",
+  "coordinate_bytes": 1882978,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3my5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

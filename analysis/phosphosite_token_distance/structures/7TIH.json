@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7TIH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5185dba3635e57ae3f5d407b86e76a1600ce6055d25f4633834293915794445a",
+  "coordinate_bytes": 3648507,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7tih.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7TIH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 22,
+      "min_distance_A": "7.869",
+      "token_chain_id": "P",
+      "token_residue_start": "154",
+      "token_residue_end": "156",
+      "token_residue_start_number": 154,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 156,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 13,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

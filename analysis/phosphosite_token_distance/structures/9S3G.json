@@ -1,0 +1,17 @@
+{
+  "pdb_id": "9S3G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6105a47d9542954ddfefb0cc424efff5d745859e1d16cb621744753862e6d46d",
+  "coordinate_bytes": 8957744,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9s3g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 117,
+    "no_token_atoms": 12
+  },
+  "location_warnings": []
+}

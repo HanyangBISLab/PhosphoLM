@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6CZ2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a09981c425c1bb2fe837d5a7071e84125a87bb933f07802b7c867f1821c41597",
+  "coordinate_bytes": 274241,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6cz2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6CZ2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 20,
+      "phospho_atom_count": 16,
+      "min_distance_A": "7.115",
+      "token_chain_id": "A",
+      "token_residue_start": "203",
+      "token_residue_end": "205",
+      "token_residue_start_number": 203,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 205,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 7,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

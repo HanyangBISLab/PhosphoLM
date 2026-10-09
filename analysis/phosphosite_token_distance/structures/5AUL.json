@@ -1,0 +1,38 @@
+{
+  "pdb_id": "5AUL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "563dec2882c51bda0b66a8e631bd71ed2130acdc20a7a1e4374a31de88b5b4bf",
+  "coordinate_bytes": 315383,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5aul.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5AUL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 26,
+      "phospho_atom_count": 32,
+      "min_distance_A": "8.193",
+      "token_chain_id": "A",
+      "token_residue_start": "665",
+      "token_residue_end": "667",
+      "token_residue_start_number": 665,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 667,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

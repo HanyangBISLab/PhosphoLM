@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9GYE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e1420c950840dabb71d59bbdb5ac02393745dbcece9f79a0db1ca585ba6772e6",
+  "coordinate_bytes": 607579,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9gye.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9GYE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.264",
+      "token_chain_id": "A",
+      "token_residue_start": "119",
+      "token_residue_end": "120",
+      "token_residue_start_number": 119,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 120,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

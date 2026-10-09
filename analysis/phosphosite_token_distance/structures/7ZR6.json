@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7ZR6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c0cee08371c8e174bfb3471118af3b6a8d4ffcd35a6d7e330e2f6ffcfab1a79",
+  "coordinate_bytes": 1959245,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7zr6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 13,
+    "no_phospho_atoms": 26,
+    "no_token_atoms": 90
+  },
+  "location_warnings": []
+}

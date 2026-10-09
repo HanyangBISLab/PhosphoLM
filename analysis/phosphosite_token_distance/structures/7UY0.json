@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7UY0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "919c09041fa26878c9bcf0660ce3d8e0614a84fd9a042ceb7fe87e3b646ccbf5",
+  "coordinate_bytes": 1421560,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7uy0.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7UY0",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 32,
+      "min_distance_A": "2.409",
+      "token_chain_id": "B",
+      "token_residue_start": "173",
+      "token_residue_end": "175",
+      "token_residue_start_number": 173,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 175,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

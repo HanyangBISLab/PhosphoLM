@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5TQ1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "22a944fe14ca0451a5a3e573c29f4f9494fcc20afb81d882cd5b25fc006fcc4f",
+  "coordinate_bytes": 266461,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5TQ1.cif",
+    "resolved_url": "https://files.rcsb.org/download/5TQ1.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

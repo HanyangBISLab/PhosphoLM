@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8CZ9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2db8f639f81f1930ca0286d4dc952204db38e8ae221e548878a4475f697f3fd1",
+  "coordinate_bytes": 175705,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/8CZ9.cif",
+    "resolved_url": "https://files.rcsb.org/download/8CZ9.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

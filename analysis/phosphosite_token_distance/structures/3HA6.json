@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3HA6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "479e547bc8ebd61b8b4503008904de6423a9fec78f8d528bbfa8db8b5755623a",
+  "coordinate_bytes": 524062,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ha6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

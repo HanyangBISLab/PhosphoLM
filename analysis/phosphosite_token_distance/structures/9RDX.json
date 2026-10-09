@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RDX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b14882be242bee40571a0f9c3f63718b20cd826133af175c206ff3b9860cb366",
+  "coordinate_bytes": 439729,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rdx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6dbedcbdec0197e0254113daa8e64e703299bd96ce4faed3105aa605d4d9b6ea",
+  "coordinate_bytes": 983806,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

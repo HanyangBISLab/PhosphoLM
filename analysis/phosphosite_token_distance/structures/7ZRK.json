@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7ZRK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "07b4e52464bcb5d7691438bc3ae29f482661cc4be19d951c30753d31d6fbb616",
+  "coordinate_bytes": 1222049,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7zrk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

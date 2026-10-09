@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7T4V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "20a999a8e95620b3e549f8f2089bd042fe1174798e0ce276e81bda6eb48adbc1",
+  "coordinate_bytes": 842705,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7t4v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1NEX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5bf98a9025e7e307b63c5372d69c46fa7589bc6a3c6845018b1bff9bacb68bb9",
+  "coordinate_bytes": 981977,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1nex.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

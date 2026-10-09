@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9NEF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9fd890145dd5cd8329de7ba01db33cb0b718176805c52033c68e49c198221c2b",
+  "coordinate_bytes": 51831,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9NEF.cif",
+    "resolved_url": "https://files.rcsb.org/download/9NEF.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

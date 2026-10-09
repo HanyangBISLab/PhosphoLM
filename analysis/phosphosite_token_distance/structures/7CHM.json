@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7CHM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7a40fdb76f61bc75d5bbb841cf3783f5aa5fca81fd7993abdece6ded6da9dd1c",
+  "coordinate_bytes": 316580,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7chm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9GY2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c81b292909586f455760bf0cb20844c39991d014282157f07a72bc535fb902b0",
+  "coordinate_bytes": 2455707,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9gy2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 20,
+    "outside_cutoff": 10
+  },
+  "location_warnings": []
+}

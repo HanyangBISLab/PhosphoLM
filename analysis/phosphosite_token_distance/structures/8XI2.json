@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8XI2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0560968b8ef571ef9cfe82f4511dc7bcf8f8e9e31bb34ba93f2196ba12b0e756",
+  "coordinate_bytes": 9264389,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8xi2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8XI2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 20,
+      "min_distance_A": "7.616",
+      "token_chain_id": "T",
+      "token_residue_start": "406",
+      "token_residue_end": "408",
+      "token_residue_start_number": 406,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 408,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 39,
+    "no_phospho_atoms": 80,
+    "no_token_atoms": 9,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

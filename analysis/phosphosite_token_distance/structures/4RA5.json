@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4RA5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ad4cf76405a94e3d03b6cc69d0d7dfe272280e5c54f5873a9b7f8af5384d9735",
+  "coordinate_bytes": 1090724,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ra5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

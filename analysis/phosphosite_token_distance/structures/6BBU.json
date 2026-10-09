@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6BBU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d444d05000b6cfe243f976d34b41c5f9e84dc4d220ac55c55af6bbec933da75a",
+  "coordinate_bytes": 527576,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6bbu.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6BBU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 32,
+      "min_distance_A": "9.874",
+      "token_chain_id": "A",
+      "token_residue_start": "917",
+      "token_residue_end": "918",
+      "token_residue_start_number": 917,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 918,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

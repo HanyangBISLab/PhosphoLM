@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3WDZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "abb52df49e5a493dd7083b427711c18a97111fa6e086f5a3b04d9b131b89e312",
+  "coordinate_bytes": 284836,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3wdz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

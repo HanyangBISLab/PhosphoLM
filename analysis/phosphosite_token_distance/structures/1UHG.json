@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1UHG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "34113f3027b5711612ad000a0eaa7af4955d7f7b4737e07fecd6b7032ff2f5f0",
+  "coordinate_bytes": 1348621,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1uhg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

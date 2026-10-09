@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5MI3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b2d1c4100192a74f6cf2daab1137c39729ba9e1e0920acfa959f6cbc52d6337b",
+  "coordinate_bytes": 1216583,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5mi3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6HRB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3c49aebd0bcf19f3f3090d08c7e58218b838fd5e74c99a98b1e569b153836c5f",
+  "coordinate_bytes": 1131558,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hrb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2NZU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "26ef0bc8abc3319a7a001d08414a8031241d265b58a9dbc5c6c41b090d3d3e7e",
+  "coordinate_bytes": 341148,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2nzu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

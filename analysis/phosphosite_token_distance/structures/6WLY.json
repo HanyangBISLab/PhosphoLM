@@ -1,0 +1,38 @@
+{
+  "pdb_id": "6WLY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "06a226655bc59940338c759634c406321a07f081d0504f9ce6a19f55c01253ac",
+  "coordinate_bytes": 537085,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6wly.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6WLY",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 31,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.016",
+      "token_chain_id": "A",
+      "token_residue_start": "358",
+      "token_residue_end": "360",
+      "token_residue_start_number": 358,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 360,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

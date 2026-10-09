@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9OB3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a5baf61d9f3baee50f2b741fb1149170323822e98907a2a86e4a6cc435b1c05",
+  "coordinate_bytes": 1056748,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ob3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

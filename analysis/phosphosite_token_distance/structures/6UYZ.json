@@ -1,0 +1,20 @@
+{
+  "pdb_id": "6UYZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "80c6fd15425ec907d572cecfcb405cf0a2ac64d6e5775ac0b3247d151b784324",
+  "coordinate_bytes": 512103,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6UYZ.cif",
+    "resolved_url": "https://files.rcsb.org/download/6UYZ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

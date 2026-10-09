@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "65317bd9641f66726b6385372d4c83ae16f07c0a971a75bc4944bb099445699a",
+  "coordinate_bytes": 1771159,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eop.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

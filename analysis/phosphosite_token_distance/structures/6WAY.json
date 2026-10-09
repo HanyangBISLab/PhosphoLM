@@ -1,0 +1,16 @@
+{
+  "pdb_id": "6WAY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4c17578c508d58c58c6ae80c0c58d161b61bbd576d394ce16e1d95d8cb237766",
+  "coordinate_bytes": 280065,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6way.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

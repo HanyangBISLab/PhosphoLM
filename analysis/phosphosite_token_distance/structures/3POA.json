@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3POA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2c535549f49b02f4d1960ef36e7fae687992d9e48d1ca0c1ac14f05f0f2b9672",
+  "coordinate_bytes": 233783,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/3POA.cif",
+    "resolved_url": "https://files.rcsb.org/download/3POA.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

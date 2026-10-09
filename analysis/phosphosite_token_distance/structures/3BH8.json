@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3BH8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "173f07a2aad18212067fdd4d01bffa60ab244dccdc55abbcb9dc7d26af60937f",
+  "coordinate_bytes": 411204,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3bh8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9OPK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0ec4a34a79ed1af93785c9a552b702de435c37b55dbd99fc1882a56d242e13ca",
+  "coordinate_bytes": 2023278,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9OPK.cif",
+    "resolved_url": "https://files.rcsb.org/download/9OPK.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

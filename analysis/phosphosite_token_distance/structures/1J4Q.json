@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1J4Q",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e59f9af0af1a3de4372dde57a5512750cd826b92f87b095ba20582f8624c196e",
+  "coordinate_bytes": 295326,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1j4q.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

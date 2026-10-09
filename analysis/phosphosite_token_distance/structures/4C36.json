@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4C36",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "038f40e67f9af2003fff1d861309fb574fb01b9070a11852d27e1d34f5334f22",
+  "coordinate_bytes": 654977,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c36.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

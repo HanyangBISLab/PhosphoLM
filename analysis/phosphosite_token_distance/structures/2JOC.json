@@ -1,0 +1,40 @@
+{
+  "pdb_id": "2JOC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "41c951e30feaf4c7a155dee48afe72b38313ca7e9d4063b8cad62d1ed14a343e",
+  "coordinate_bytes": 415483,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2JOC.cif",
+    "resolved_url": "https://files.rcsb.org/download/2JOC.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2JOC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 17,
+      "min_distance_A": "3.280",
+      "token_chain_id": "A",
+      "token_residue_start": "24",
+      "token_residue_end": "25",
+      "token_residue_start_number": 24,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 25,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

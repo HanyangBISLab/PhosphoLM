@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5YYZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7ed966206eabe19c3ea258cc71933c6f3827a6f6e345849cb15d160597ab0151",
+  "coordinate_bytes": 251694,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5yyz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

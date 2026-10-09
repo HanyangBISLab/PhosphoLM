@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2MAE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "206ddf4192a024e15943331e62c1c1a875a19fe4352aea4ad031d33070c643aa",
+  "coordinate_bytes": 862817,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2MAE.cif",
+    "resolved_url": "https://files.rcsb.org/download/2MAE.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

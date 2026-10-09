@@ -1,0 +1,17 @@
+{
+  "pdb_id": "8TEM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7d81004a16a239d95b99a6187de07b0693c1aabc527a27f3276afb574c9c6641",
+  "coordinate_bytes": 840115,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8tem.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

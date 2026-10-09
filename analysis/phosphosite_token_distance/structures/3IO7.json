@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3IO7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dceea2b5928aa27f8270a376962daef7cea84fe057607e0a04d6bb7a9533976e",
+  "coordinate_bytes": 301060,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3io7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

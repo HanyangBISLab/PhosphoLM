@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6M90",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "645257e65e9a8ae99ef7aff1a565c1335c3a50bc91f31f9392027fcbacc7a35a",
+  "coordinate_bytes": 892158,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6m90.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "pdb_id": "3B8Q",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4c0242a1f945f8e36c3f3cef500f00edf263381cfd6424e7a58ca016c8c2fa0c",
+  "coordinate_bytes": 522146,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3b8q.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YZC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6cbe432a868e1804113333ea222abb358d7a94bf717b7c7d7db8b5e819953f75",
+  "coordinate_bytes": 1243474,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yzc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6,
+    "no_token_atoms": 120
+  },
+  "location_warnings": []
+}

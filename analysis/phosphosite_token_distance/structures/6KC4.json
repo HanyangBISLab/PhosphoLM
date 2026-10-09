@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6KC4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2cd07edc5148c57bb0df07f98bc3162957b7a951357e457ec44ada6587c86df0",
+  "coordinate_bytes": 1155836,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6kc4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "QRR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6KC4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 186,
+      "phospho_atom_count": 96,
+      "min_distance_A": "6.717",
+      "token_chain_id": "E",
+      "token_residue_start": "501",
+      "token_residue_end": "503",
+      "token_residue_start_number": 501,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 503,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

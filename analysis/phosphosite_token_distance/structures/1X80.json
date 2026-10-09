@@ -1,0 +1,17 @@
+{
+  "pdb_id": "1X80",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1510cfd3956580bf3706d27b3a2a52db77d1ef2e3692be0b2a175515a980d534",
+  "coordinate_bytes": 711847,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1x80.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 30
+  },
+  "location_warnings": []
+}

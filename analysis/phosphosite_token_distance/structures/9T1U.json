@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9T1U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f561f6f8539e360df6e4343f3b8959b257fafec85d601f9f4e1953f57b9ac702",
+  "coordinate_bytes": 650119,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9T1U.cif",
+    "resolved_url": "https://files.rcsb.org/download/9T1U.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ITV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0c6ea662b65b965ace2b52b38cb46e2b49e41c3d92aa5d97e7075c0295be66ff",
+  "coordinate_bytes": 543128,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6itv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LUD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d0044b9bcb7e8bcddc4b7da239d6809a7a0180eec420e6ff82d9c7bad07320e1",
+  "coordinate_bytes": 1310728,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lud.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9WBT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "01aab8b182f54988c5465cdfee899aca2e28cce5f1d5663485ed7ddac097c905",
+  "coordinate_bytes": 5493264,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9wbt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 102,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 18
+  },
+  "location_warnings": []
+}

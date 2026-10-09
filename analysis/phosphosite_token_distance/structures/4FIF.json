@@ -1,0 +1,38 @@
+{
+  "pdb_id": "4FIF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2c9e9ee68d7e26ba9ab90fc7b50a1e8b23aaa8fa7cc43971e8e63b3c3bf45897",
+  "coordinate_bytes": 976448,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4fif.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4FIF",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.657",
+      "token_chain_id": "A",
+      "token_residue_start": "358",
+      "token_residue_end": "360",
+      "token_residue_start_number": 358,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 360,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

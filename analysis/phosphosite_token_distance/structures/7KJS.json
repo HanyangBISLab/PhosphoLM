@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7KJS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f153d6760630a105cf94f689ec577e2f3884bb63188a778f935ea6280ff62fe1",
+  "coordinate_bytes": 516479,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7kjs.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

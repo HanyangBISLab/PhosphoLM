@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9RAF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "52e6d012e515488e87b0294d01dd2b4266463e5a79b4c9b9795b6d5ba51166db",
+  "coordinate_bytes": 3345983,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9raf.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VNP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9RAF",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 40,
+      "min_distance_A": "6.363",
+      "token_chain_id": "B",
+      "token_residue_start": "3",
+      "token_residue_end": "5",
+      "token_residue_start_number": 3,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 5,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 72,
+    "outside_cutoff": 18,
+    "no_phospho_atoms": 38,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

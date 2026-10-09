@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1RDQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fc432c9880032e7ea572493008745e911fcd67b0af3fd586a1e3f3d85d6a2af5",
+  "coordinate_bytes": 765524,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1rdq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

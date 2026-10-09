@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4DIN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7b045fa3cca4b279e571a50e15eefd85a1663d504397cfbdb1c30c0253f4592c",
+  "coordinate_bytes": 629065,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4din.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4DIN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.751",
+      "token_chain_id": "B",
+      "token_residue_start": "106",
+      "token_residue_end": "108",
+      "token_residue_start_number": 106,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 108,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 96,
+    "outside_cutoff": 21,
+    "no_phospho_atoms": 11,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

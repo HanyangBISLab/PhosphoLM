@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DFX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3fe3b3b60a8c019433f36014294b83f5a2ede657c0aaf3fce2e069ba18e7406f",
+  "coordinate_bytes": 790139,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dfx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

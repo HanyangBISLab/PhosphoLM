@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1P13",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5757637161dbbdc84501e587ab3e536d6b15dd71b21f2206564d26b0bfd8c340",
+  "coordinate_bytes": 264558,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1p13.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BUT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ddfb3d5f4013a84866882a8a56a6793daed939305cbfbb2abe74ebf129a062f2",
+  "coordinate_bytes": 10579798,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8but.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

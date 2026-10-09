@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8HLT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d76b7aaf3c8dbb5af65ad80aa233211f547f837e37b0493a6dd7b9fc85f9fef5",
+  "coordinate_bytes": 1228389,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8hlt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

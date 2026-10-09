@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1XJD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a201a35054ec294e7eaf0338343d01ccf28a25d1e6c2d1f7592ce74c034ba7be",
+  "coordinate_bytes": 307721,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1xjd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "1XJD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.039",
+      "token_chain_id": "A",
+      "token_residue_start": "557",
+      "token_residue_end": "558",
+      "token_residue_start_number": 557,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 558,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

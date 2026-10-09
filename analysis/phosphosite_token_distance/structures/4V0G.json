@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4V0G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "714a7dc9bf3e7427c38717e6bb38da63d0aaf936c4f3e94a8f3e19d87d06bbe3",
+  "coordinate_bytes": 520029,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4v0g.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LGP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4V0G",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 38,
+      "phospho_atom_count": 64,
+      "min_distance_A": "7.242",
+      "token_chain_id": "B",
+      "token_residue_start": "1091",
+      "token_residue_end": "1093",
+      "token_residue_start_number": 1091,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1093,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

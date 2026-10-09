@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7OBS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3b83e7c44331af88fd1a36aaa59444ec65451a286f4a52fc5013656a974c1fc4",
+  "coordinate_bytes": 553592,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7obs.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7OBS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 53,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.154",
+      "token_chain_id": "A",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

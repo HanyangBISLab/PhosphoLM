@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3QCX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d9701a86ef3cfbeae7c9861052cb0d87427a49cc7ee2b80617be0c0fbd90e512",
+  "coordinate_bytes": 298877,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qcx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5X19",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f10ed6cba3a0ec9fa47279a324d15f9fc4eadbe9c5138b5781b835c3fe4d6895",
+  "coordinate_bytes": 6048596,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5x19.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5X19",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.987",
+      "token_chain_id": "C",
+      "token_residue_start": "154",
+      "token_residue_end": "156",
+      "token_residue_start_number": 154,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 156,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 13,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4XW5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c6b2f41e919cdccff2a2522217c2578ba7115bc610677346cff0ee916419f57",
+  "coordinate_bytes": 434964,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4xw5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

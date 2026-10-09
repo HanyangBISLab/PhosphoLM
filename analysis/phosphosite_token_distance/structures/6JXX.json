@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6JXX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "21db35919f260f95eb53d1e2b140701880eaa537f43fc4ee6364a54658505a86",
+  "coordinate_bytes": 2653524,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6JXX.cif",
+    "resolved_url": "https://files.rcsb.org/download/6JXX.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

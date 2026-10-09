@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7AB3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8f72b47481729de80aa60023783a6e1505c2b618c4152b8d2034e2f49012859b",
+  "coordinate_bytes": 1624743,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ab3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

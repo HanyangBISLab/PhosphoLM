@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ET9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "22ca4e4d99bd47a7d9d6ddf44cc6f865e77f470ef5fb7edac46e868521b9a257",
+  "coordinate_bytes": 976229,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9et9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

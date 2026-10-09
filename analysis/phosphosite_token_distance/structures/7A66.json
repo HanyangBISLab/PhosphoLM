@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7A66",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "966f105b8a2e92a7da2dfba3804ad6feae74546176fb5d5971fa656420efc1c8",
+  "coordinate_bytes": 273948,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7a66.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

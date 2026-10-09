@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9UUR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c93824ab2fe4f9ab42cbdc3edab30fdcbec4d5461ee0f31e5aab6b5216428a63",
+  "coordinate_bytes": 621584,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9uur.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

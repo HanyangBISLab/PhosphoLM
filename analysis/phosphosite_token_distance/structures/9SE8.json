@@ -1,0 +1,41 @@
+{
+  "pdb_id": "9SE8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b22c9130b101fa8a5ab2057ba359f14207aeec5ce379ce663b3ee6c65eba1681",
+  "coordinate_bytes": 949087,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9SE8.cif",
+    "resolved_url": "https://files.rcsb.org/download/9SE8.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9SE8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.029",
+      "token_chain_id": "B",
+      "token_residue_start": "199",
+      "token_residue_end": "201",
+      "token_residue_start_number": 199,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 201,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

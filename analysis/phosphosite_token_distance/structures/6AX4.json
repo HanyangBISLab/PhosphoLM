@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6AX4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f4b5f3641ca7bec6a949666f95d628c4a33b0df9e25d89b8854f166083e5a6e6",
+  "coordinate_bytes": 644487,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ax4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4C61",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ca760be22a7c70cc55a8054e5f809785f65ab1c43d1946d0050a993bcaaf1b4b",
+  "coordinate_bytes": 909644,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c61.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

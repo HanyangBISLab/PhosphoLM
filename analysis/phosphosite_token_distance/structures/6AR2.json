@@ -1,0 +1,38 @@
+{
+  "pdb_id": "6AR2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c21213cd317ee9f013ab64028870abef336cfe2938b757d37ab259e3e34bd829",
+  "coordinate_bytes": 703119,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ar2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6AR2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 34,
+      "min_distance_A": "3.939",
+      "token_chain_id": "B",
+      "token_residue_start": "54",
+      "token_residue_end": "55",
+      "token_residue_start_number": 54,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 55,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

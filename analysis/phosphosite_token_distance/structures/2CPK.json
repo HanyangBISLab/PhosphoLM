@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2CPK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "75e6460d285c244bc3205abe900114444c0d94cd04a194eb6b53c2560a947090",
+  "coordinate_bytes": 332806,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2cpk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

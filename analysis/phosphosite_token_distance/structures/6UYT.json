@@ -1,0 +1,40 @@
+{
+  "pdb_id": "6UYT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4c54550b7ac94b428d1ffeec56b155b851cef8868d189de81d5443f78141aaba",
+  "coordinate_bytes": 292195,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6UYT.cif",
+    "resolved_url": "https://files.rcsb.org/download/6UYT.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6UYT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 31,
+      "phospho_atom_count": 41,
+      "min_distance_A": "5.789",
+      "token_chain_id": "A",
+      "token_residue_start": "74",
+      "token_residue_end": "75",
+      "token_residue_start_number": 74,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 75,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

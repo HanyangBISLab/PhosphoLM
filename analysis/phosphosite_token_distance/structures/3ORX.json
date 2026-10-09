@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3ORX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dc3e87f0ced0c2088eebee15e84d68db6c3ee8e609457af8fba35442fd7d636e",
+  "coordinate_bytes": 2054005,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3orx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

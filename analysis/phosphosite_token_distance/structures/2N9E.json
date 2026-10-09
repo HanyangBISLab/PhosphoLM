@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2N9E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ed73fd74c45a29be0e6ce74ffe2f076aee9590c4d9bce5cede30d5b7e20357d2",
+  "coordinate_bytes": 3110421,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2n9e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

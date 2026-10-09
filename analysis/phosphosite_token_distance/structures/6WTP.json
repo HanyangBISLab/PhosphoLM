@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6WTP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a7244dbb2c9a1e0b816c736fec73cad5d4a56980fed27cfc5ca438acb28a1a2",
+  "coordinate_bytes": 481540,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6wtp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ATN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3dac799c4d9048bcd672dc4cab81496b4e7d76d0e0f1da1534a0b1c1510f6ace",
+  "coordinate_bytes": 945278,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8atn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

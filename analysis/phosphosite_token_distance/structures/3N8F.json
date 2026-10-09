@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3N8F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bf48658a38499fb00faf9daafea42ba9dbcec8ec8d309bdda2d4fda761568e47",
+  "coordinate_bytes": 1070445,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3n8f.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "pdb_id": "5C27",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b0505680e60276a4ec4c1353a905e472fb253052ae293e36405ba1c677eb2d9c",
+  "coordinate_bytes": 322473,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5C27.cif",
+    "resolved_url": "https://files.rcsb.org/download/5C27.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

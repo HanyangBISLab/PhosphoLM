@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8UK5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b04050e302c00a97b14c0a830eb0739739b3647046f867d7fb031f75a59f175b",
+  "coordinate_bytes": 333959,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8uk5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

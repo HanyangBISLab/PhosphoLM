@@ -1,0 +1,17 @@
+{
+  "pdb_id": "8SLZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "59494ef4a17b9dbdfb943a82431730f84a654966e3aeeca3e6aa6501382f70bd",
+  "coordinate_bytes": 274406,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8slz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

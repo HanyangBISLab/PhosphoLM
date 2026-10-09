@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8I0T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bfddcad303aa6e6b26c4c3591705ebe5a26b61afe9d620997d1fab6481b52a5a",
+  "coordinate_bytes": 16000734,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i0t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 42,
+    "no_phospho_atoms": 84,
+    "no_token_atoms": 3
+  },
+  "location_warnings": []
+}

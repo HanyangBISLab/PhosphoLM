@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3TXO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "17b6180b487949d3bd22e8c936e0f304b9c40a3ee1d99c9e9a1ff198ef83700d",
+  "coordinate_bytes": 335105,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3txo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8,
+    "no_token_atoms": 105
+  },
+  "location_warnings": []
+}

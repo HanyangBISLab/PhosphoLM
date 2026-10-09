@@ -1,0 +1,20 @@
+{
+  "pdb_id": "6ZWK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7fbae8fa81ed6b26bbd4615cc653dcfde88da76057acd27b1f8567a356f49b45",
+  "coordinate_bytes": 2083773,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6ZWK.cif",
+    "resolved_url": "https://files.rcsb.org/download/6ZWK.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

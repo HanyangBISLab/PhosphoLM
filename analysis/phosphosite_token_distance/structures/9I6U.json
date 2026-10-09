@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9I6U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "379c7bdb2c25851e86ed63ccf4ce93de06dd8542ab218596f802f76fdaf788c5",
+  "coordinate_bytes": 544815,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9i6u.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9I6U",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.229",
+      "token_chain_id": "A",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

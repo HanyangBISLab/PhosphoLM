@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2C1B",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3868fde348f2d986c629885c83f368190dd24246ec7aa95d1a834b194a2e1656",
+  "coordinate_bytes": 414111,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2c1b.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

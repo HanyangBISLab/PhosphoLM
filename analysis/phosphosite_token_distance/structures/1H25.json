@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1H25",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "251b46402e14813094f9ae179622fa6c4943cdc2eabaf0873b1e47505adfbe47",
+  "coordinate_bytes": 944812,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1h25.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

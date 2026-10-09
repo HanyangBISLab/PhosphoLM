@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NEV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "04d375ed611821f17de7086a2ca745623d30354f271053b6a296acdd52acd7bd",
+  "coordinate_bytes": 1706430,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5nev.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

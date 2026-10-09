@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5b3ef8a1b6c84508b43502e1175b88514b1e08fff917c6ba70c6036b5451f42f",
+  "coordinate_bytes": 1715326,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eol.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

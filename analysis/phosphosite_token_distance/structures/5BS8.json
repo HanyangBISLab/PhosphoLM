@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5BS8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5e082314037013135f41f4aa531191e5b27791e86348167416a55f78c8c4a0f1",
+  "coordinate_bytes": 3968780,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5bs8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

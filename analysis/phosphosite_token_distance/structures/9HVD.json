@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9HVD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "60231b0603cfb47c34d6578181f71dda1b40ce1d4960990f1c87fa744f3501dd",
+  "coordinate_bytes": 3217656,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9hvd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9HVD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 20,
+      "min_distance_A": "4.987",
+      "token_chain_id": "L",
+      "token_residue_start": "62",
+      "token_residue_end": "64",
+      "token_residue_start_number": 62,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 64,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 32,
+    "no_token_atoms": 81,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

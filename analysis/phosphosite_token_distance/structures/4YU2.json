@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YU2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eb3007e98be501578f44cd6b4c5089f054c5327ff855020e76df1cd9ff3ada93",
+  "coordinate_bytes": 2229100,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yu2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1REJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "70c710c90a4a8579d792f4281fe4b5ad29bba591b128353b28e543b2006a52a7",
+  "coordinate_bytes": 333944,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1rej.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

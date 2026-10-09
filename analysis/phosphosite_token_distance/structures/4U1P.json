@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4U1P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "311e789eeabbcec675e0de1e0565186655ea6c0a55cec923f82ff1204ffc6a48",
+  "coordinate_bytes": 309538,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4u1p.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4U1P",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.750",
+      "token_chain_id": "A",
+      "token_residue_start": "48",
+      "token_residue_end": "50",
+      "token_residue_start_number": 48,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 50,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

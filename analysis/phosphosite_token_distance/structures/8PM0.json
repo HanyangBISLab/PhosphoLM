@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8PM0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e36ca21b526a45b914939c8cb2e803223be99cbdae63c7b1dd3c9d708522edc4",
+  "coordinate_bytes": 1843835,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8pm0.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VNP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8PM0",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 20,
+      "min_distance_A": "7.070",
+      "token_chain_id": "B",
+      "token_residue_start": "3",
+      "token_residue_end": "5",
+      "token_residue_start_number": 3,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 5,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 63,
+    "outside_cutoff": 21,
+    "no_phospho_atoms": 44,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,41 @@
+{
+  "pdb_id": "5YLC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7dcc09af0ce6d834d0ae7159dee83348b4bd291bab81026da4d31dc19e06864b",
+  "coordinate_bytes": 640324,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5YLC.cif",
+    "resolved_url": "https://files.rcsb.org/download/5YLC.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5YLC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 11,
+      "min_distance_A": "2.932",
+      "token_chain_id": "A",
+      "token_residue_start": "179",
+      "token_residue_end": "180",
+      "token_residue_start_number": 179,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 180,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,16 @@
+{
+  "pdb_id": "4C0T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3681461491173ba66fcbb77866262aeacfeee4786d029c6cd4d16950508d097c",
+  "coordinate_bytes": 339207,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c0t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

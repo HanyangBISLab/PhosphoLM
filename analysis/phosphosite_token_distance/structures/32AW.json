@@ -1,0 +1,41 @@
+{
+  "pdb_id": "32AW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ac32f65a7eb03b04c20a592c760073f7421eec1333aca5e454c5fc5a7009033c",
+  "coordinate_bytes": 2782158,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/32AW.cif",
+    "resolved_url": "https://files.rcsb.org/download/32AW.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GER",
+      "phospho_monomer": "TPO",
+      "pdb_id": "32AW",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 33,
+      "min_distance_A": "5.139",
+      "token_chain_id": "C",
+      "token_residue_start": "202",
+      "token_residue_end": "204",
+      "token_residue_start_number": 202,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 204,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

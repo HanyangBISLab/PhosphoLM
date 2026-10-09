@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8S31",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a0ff85060ddea52e722234bc603e6977bea559bea0793cbaa300958649029ce2",
+  "coordinate_bytes": 844334,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8s31.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

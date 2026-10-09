@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6HZV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7d54421d3a72d69dccc90953b34069b279ad9a93d2337e436724fbbab984818b",
+  "coordinate_bytes": 1676210,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hzv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LGP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6HZV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 76,
+      "phospho_atom_count": 128,
+      "min_distance_A": "8.488",
+      "token_chain_id": "D",
+      "token_residue_start": "1091",
+      "token_residue_end": "1093",
+      "token_residue_start_number": 1091,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1093,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

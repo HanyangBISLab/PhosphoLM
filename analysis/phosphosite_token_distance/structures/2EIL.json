@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2EIL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8c9d244e802930c73c9f6419f3e6e5eb4352e408268e7491324dea9db7ef0ded",
+  "coordinate_bytes": 3491451,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2eil.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5BTC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4daa9c3d3e19e93e487b3674609d0e4c37b07094d140d87f0064728208529a10",
+  "coordinate_bytes": 3921111,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5btc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3D42",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d2406f7ed6130a53cf2022864b16e632dab2bf842aee867a15d04aebfa69c57f",
+  "coordinate_bytes": 306068,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3d42.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "3D42",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 17,
+      "phospho_atom_count": 16,
+      "min_distance_A": "7.234",
+      "token_chain_id": "A",
+      "token_residue_start": "279",
+      "token_residue_end": "280",
+      "token_residue_start_number": 279,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 280,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

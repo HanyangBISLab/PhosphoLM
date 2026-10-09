@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4KJD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c1a3618d8f5ebd1c3535e61fe3b53c6641ed77cf83376bf1e9a9b7cd6ff0a757",
+  "coordinate_bytes": 728794,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4kjd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

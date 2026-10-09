@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5BTF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "41e5cc75529587a84f9146d55466294012cb14faf287e9541f1b9c8861fc0385",
+  "coordinate_bytes": 3920680,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5btf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

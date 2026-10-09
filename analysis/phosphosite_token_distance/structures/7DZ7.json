@@ -1,0 +1,88 @@
+{
+  "pdb_id": "7DZ7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1f9d0fffeb9bed83dee2b0c228bbf29e7381682ec44693410d0c3eacf6d3c886",
+  "coordinate_bytes": 7799362,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dz7.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AQK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7DZ7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 55,
+      "phospho_atom_count": 22,
+      "min_distance_A": "4.568",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "FDP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7DZ7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 598,
+      "phospho_atom_count": 22,
+      "min_distance_A": "6.640",
+      "token_chain_id": "Z",
+      "token_residue_start": "186",
+      "token_residue_end": "188",
+      "token_residue_start_number": 186,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 188,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 23,
+      "token_occurrence_count": 23
+    },
+    {
+      "token": "ARR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7DZ7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 22,
+      "min_distance_A": "1.330",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 60,
+    "no_phospho_atoms": 46,
+    "outside_cutoff": 20,
+    "within_cutoff": 3
+  },
+  "location_warnings": [
+    {
+      "token": "AQK",
+      "monomer": "TPO",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    },
+    {
+      "token": "ARR",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6AAJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "35944429415b0d3d9a8912bc3d617bec0249667b255b33d03f108cb1ced7f261",
+  "coordinate_bytes": 528432,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6aaj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

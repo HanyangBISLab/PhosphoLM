@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9I9I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3b2c2204e1e7608d038fc6c99f14a29fc0bc0bcbb9800a9435b6495a17d899de",
+  "coordinate_bytes": 868910,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9i9i.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9I9I",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.182",
+      "token_chain_id": "K",
+      "token_residue_start": "579",
+      "token_residue_end": "581",
+      "token_residue_start_number": 579,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 581,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 102,
+    "no_phospho_atoms": 18,
+    "outside_cutoff": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

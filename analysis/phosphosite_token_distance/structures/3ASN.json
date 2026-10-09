@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3ASN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7bfec016a2bc790ab481fa6ddeccf0fe36a1afeda26432b72901ca402d98d245",
+  "coordinate_bytes": 3496474,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3asn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

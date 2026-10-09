@@ -1,0 +1,18 @@
+{
+  "pdb_id": "21XM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "577645b738efee923d1bba62aef6c47e63456359e38578b9b3410ca0862e179b",
+  "coordinate_bytes": 74248,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/21XM.cif",
+    "resolved_url": "https://files.rcsb.org/download/21XM.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

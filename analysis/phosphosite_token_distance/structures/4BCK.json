@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4BCK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "75dfa256607375bd55db495451219d5aff4140ad4bd44e7ba78ae9cbbcc5070f",
+  "coordinate_bytes": 1819188,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bck.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

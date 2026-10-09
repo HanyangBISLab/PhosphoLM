@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7NNL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ca14b1d7c0f1719bc3d5567b060e2d794f99e2f75d7b1e6f26c351fbf81e2ae2",
+  "coordinate_bytes": 1226944,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7nnl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

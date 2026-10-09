@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2H8H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "df57a3725acb7b52ffc15894f3f03317ffef3d528db28afb295bdcb17404255a",
+  "coordinate_bytes": 445893,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2h8h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

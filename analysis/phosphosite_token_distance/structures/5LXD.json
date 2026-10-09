@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5LXD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "67e99f1070a6e6585ffa5ec56f581deb41e38669b5e617b1343b3a7fa17d1c42",
+  "coordinate_bytes": 1249021,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lxd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

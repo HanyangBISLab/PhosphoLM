@@ -1,0 +1,58 @@
+{
+  "pdb_id": "4OGR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c24343f47705d7e7cdefb5d13b6e1d76f71928bc0ad9746b98d7599f9eecceca",
+  "coordinate_bytes": 4677604,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ogr.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4OGR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 138,
+      "phospho_atom_count": 51,
+      "min_distance_A": "7.437",
+      "token_chain_id": "M",
+      "token_residue_start": "11",
+      "token_residue_end": "12",
+      "token_residue_start_number": 11,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 12,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 3
+    },
+    {
+      "token": "GER",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4OGR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 138,
+      "phospho_atom_count": 51,
+      "min_distance_A": "3.281",
+      "token_chain_id": "A",
+      "token_residue_start": "202",
+      "token_residue_end": "204",
+      "token_residue_start_number": 202,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 204,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 102,
+    "no_phospho_atoms": 18,
+    "within_cutoff": 2,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

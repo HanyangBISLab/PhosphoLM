@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3DDP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e029ad3658b8f25c6f3b78db816a9fe553d8650c9cd9e1d3aa0861c8be814f6d",
+  "coordinate_bytes": 998253,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ddp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

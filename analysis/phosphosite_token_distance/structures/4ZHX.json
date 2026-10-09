@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4ZHX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "70b1b22a1d47cca57a797c9d25f07f06db57a8f0b83df1d77ca0e3485a70bb3a",
+  "coordinate_bytes": 2937947,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4zhx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

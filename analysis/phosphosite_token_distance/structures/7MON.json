@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7MON",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6acc297c2f3ce132037b19b702b780404e936ceba8e4dd629e76eae2c0005f23",
+  "coordinate_bytes": 530914,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7mon.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

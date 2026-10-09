@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1AYC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a220e3ba5b74e46f7818297c13559e2b28a07edbbd61b0cab27629df937f24e8",
+  "coordinate_bytes": 139376,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ayc.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1AYC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 16,
+      "min_distance_A": "5.549",
+      "token_chain_id": "A",
+      "token_residue_start": "39",
+      "token_residue_end": "41",
+      "token_residue_start_number": 39,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 41,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

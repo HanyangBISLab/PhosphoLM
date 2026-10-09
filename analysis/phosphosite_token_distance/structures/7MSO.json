@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7MSO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a17828ad73f99f3977b2b7c83cadca911284dfd04713f0739e00d0ec631eb98",
+  "coordinate_bytes": 787928,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7mso.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3QF1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "87618a758cbb5a4d0fbdb8d86059b8528119a156e262064f304e2c13d01149d4",
+  "coordinate_bytes": 592431,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qf1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

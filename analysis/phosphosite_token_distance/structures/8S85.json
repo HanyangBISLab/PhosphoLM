@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8S85",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6e27e04d4d7e1720a59fbe797d4245d40179d0fcaca3728c3334533965d4f24e",
+  "coordinate_bytes": 1057343,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8s85.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "8S85",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 64,
+      "min_distance_A": "8.223",
+      "token_chain_id": "B",
+      "token_residue_start": "917",
+      "token_residue_end": "918",
+      "token_residue_start_number": 917,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 918,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

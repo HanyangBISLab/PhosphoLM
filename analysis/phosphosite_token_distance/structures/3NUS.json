@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3NUS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a046ac4106e0d5607a6c050c64d2132f6fb4d9a586279f8e906ef107fc5cf6ed",
+  "coordinate_bytes": 286566,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3nus.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

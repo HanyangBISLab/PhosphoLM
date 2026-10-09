@@ -1,0 +1,20 @@
+{
+  "pdb_id": "7Q4A",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d53b1a6fa7d3c70ab0118555ceec3917a5daf60a1f1018e60fb47dcc3dab0b44",
+  "coordinate_bytes": 1211329,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/7Q4A.cif",
+    "resolved_url": "https://files.rcsb.org/download/7Q4A.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

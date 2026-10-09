@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3ZRK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "094128fffbc935f6221c8d09838639838c0dc53bd30272b2443d9c6ff2d07e34",
+  "coordinate_bytes": 691552,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3zrk.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "3ZRK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 48,
+      "phospho_atom_count": 32,
+      "min_distance_A": "9.055",
+      "token_chain_id": "A",
+      "token_residue_start": "182",
+      "token_residue_end": "184",
+      "token_residue_start_number": 182,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 184,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

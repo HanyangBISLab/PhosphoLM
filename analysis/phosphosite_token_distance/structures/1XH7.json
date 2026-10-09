@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1XH7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "614d865d428f1ba3f12028a0bb4745766fc649b7dbeabb17fc8edac78887e3f7",
+  "coordinate_bytes": 374182,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1xh7.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "1XH7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 30,
+      "min_distance_A": "8.334",
+      "token_chain_id": "A",
+      "token_residue_start": "302",
+      "token_residue_end": "303",
+      "token_residue_start_number": 302,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 303,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

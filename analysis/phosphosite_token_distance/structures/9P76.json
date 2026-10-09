@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9P76",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b96d11705e746650f2d20299e0f6777b4c047bffbf92410f17de2b5d2edfeb32",
+  "coordinate_bytes": 25687147,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9p76.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 24,
+    "outside_cutoff": 35,
+    "no_phospho_atoms": 70
+  },
+  "location_warnings": []
+}

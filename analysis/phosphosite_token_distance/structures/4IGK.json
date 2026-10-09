@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IGK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a827c4389daadfdf7de38f01327aeca5c1a549f6f9eebe0613d92f449e62b800",
+  "coordinate_bytes": 598586,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4igk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

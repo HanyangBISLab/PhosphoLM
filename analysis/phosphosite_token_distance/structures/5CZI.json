@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5CZI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "91c84913fbba900a6d05c4b4e053547b68207b4558d4a4a5df1051378dd71d12",
+  "coordinate_bytes": 334844,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5czi.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5CZI",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 16,
+      "min_distance_A": "8.623",
+      "token_chain_id": "A",
+      "token_residue_start": "839",
+      "token_residue_end": "841",
+      "token_residue_start_number": 839,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 841,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

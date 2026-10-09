@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9P8B",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dc950d9ae2950b441b54dc1744f0c8364e90454c8c6d414e8b817eb3e4bc1974",
+  "coordinate_bytes": 25881063,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9p8b.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 24,
+    "outside_cutoff": 35,
+    "no_phospho_atoms": 70
+  },
+  "location_warnings": []
+}

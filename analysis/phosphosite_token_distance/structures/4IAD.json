@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IAD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "278f8953f55e2cf3bda0af42bcb1d600461e578049a4004450fd75aefc50bd9a",
+  "coordinate_bytes": 418530,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4iad.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4CFW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c175dac49613ef7dbf36a6dce2dbe6cdb0a6a780b5c4dfeed13d537786564772",
+  "coordinate_bytes": 1796010,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4cfw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

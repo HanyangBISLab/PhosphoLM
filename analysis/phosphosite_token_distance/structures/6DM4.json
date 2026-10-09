@@ -1,0 +1,16 @@
+{
+  "pdb_id": "6DM4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "24b0e249acc3c2d720812b5203afba1a3cd2e991378d962f0d4a6c152f303cbe",
+  "coordinate_bytes": 875489,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6dm4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9MQ5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b8078ff315039a7606855ba0cdb4dac9558bb1f3b9401dfb4e66a85d125141f1",
+  "coordinate_bytes": 454101,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9mq5.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9MQ5",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 48,
+      "min_distance_A": "5.226",
+      "token_chain_id": "A",
+      "token_residue_start": "39",
+      "token_residue_end": "41",
+      "token_residue_start_number": 39,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 41,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

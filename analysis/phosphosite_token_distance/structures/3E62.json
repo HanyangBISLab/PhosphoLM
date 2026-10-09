@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3E62",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cf930901f350317610aa66ad38963fb61fd18bf75b4bd13a4144f8b7fc8b00a2",
+  "coordinate_bytes": 314856,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3e62.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

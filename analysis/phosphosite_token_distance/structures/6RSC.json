@@ -1,0 +1,45 @@
+{
+  "pdb_id": "6RSC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "56b311a660d9933cfb4e530c3b48f5eb00795ee6b3ab6378aeec4ecc638bcb7e",
+  "coordinate_bytes": 572468,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6rsc.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6RSC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 28,
+      "phospho_atom_count": 64,
+      "min_distance_A": "6.078",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "NH",
+      "monomer": "PTR",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

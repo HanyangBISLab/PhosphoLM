@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UY9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b1279fddabb7911f0ee2d832c405db05ec194bbd4a40a69d0bc3b0d98c6f0dbc",
+  "coordinate_bytes": 203158,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5uy9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

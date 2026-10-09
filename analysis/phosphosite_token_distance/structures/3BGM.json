@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3BGM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d9cbf570dd61d34294150efeec12522d4314cc94d9eaf97bfd1cb740fe51a851",
+  "coordinate_bytes": 416140,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3bgm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

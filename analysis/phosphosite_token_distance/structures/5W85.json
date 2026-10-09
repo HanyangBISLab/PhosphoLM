@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5W85",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c5cecc7230edd1ac56b5fb6ebb61b028696b93b1c3e319d025a595310b5ed331",
+  "coordinate_bytes": 525269,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5w85.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

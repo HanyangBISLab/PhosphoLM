@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5ACK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "15cf6707866b276886fe868e1540749dc27a70e430ffd3c8009a1b2b7a73dd3e",
+  "coordinate_bytes": 824248,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ack.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

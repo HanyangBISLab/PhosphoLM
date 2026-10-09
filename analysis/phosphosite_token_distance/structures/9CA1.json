@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9CA1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6fae2f6b3697b807c0e0915b7cc53f13de0f46f914035ff756b6c6d182abb8c0",
+  "coordinate_bytes": 712730,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ca1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

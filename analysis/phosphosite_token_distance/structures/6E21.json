@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6E21",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "76bc13f99db1b4d87e26bae55e305ac679c4b9a81a25c93dbb2897a09e414518",
+  "coordinate_bytes": 873994,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6e21.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3CKX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "590f92bb1cfb62d14d70a7091d04989129c2a737c9a5887f803dce074fbfc0f9",
+  "coordinate_bytes": 281746,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ckx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

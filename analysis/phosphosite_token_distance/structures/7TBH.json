@@ -1,0 +1,16 @@
+{
+  "pdb_id": "7TBH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e2f172cf2796faf2f9abb1d12321465d4b68bdac9322a43e24c207b067ce1265",
+  "coordinate_bytes": 5121124,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7tbh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

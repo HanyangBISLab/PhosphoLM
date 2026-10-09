@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4BH6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ee5bbe9cf563f59107aaf4fd8a62abd2fb58bbd6911e28d1e194bd8acec2d468",
+  "coordinate_bytes": 4102840,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bh6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6E1N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b4f6e3f52733755e54da50958df9a4667b86df8b6be212053bc503ae8e58dadd",
+  "coordinate_bytes": 1171582,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6e1n.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6E1N",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 30,
+      "phospho_atom_count": 44,
+      "min_distance_A": "7.064",
+      "token_chain_id": "A",
+      "token_residue_start": "34",
+      "token_residue_end": "36",
+      "token_residue_start_number": 34,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 36,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

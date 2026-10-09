@@ -1,0 +1,17 @@
+{
+  "pdb_id": "9QIN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "93f67a361da19d813cccc3cd76c72dd63ca523de066a7aec7856f4932211e12a",
+  "coordinate_bytes": 1697657,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9qin.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 30
+  },
+  "location_warnings": []
+}

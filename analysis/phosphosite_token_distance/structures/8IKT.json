@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8IKT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b8bd1fe9b3b26d3bf4f66db06d5282ad577ee627c0d50288c1d7b4314f1bf1b6",
+  "coordinate_bytes": 662373,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ikt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VEP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8IKT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 20,
+      "min_distance_A": "7.755",
+      "token_chain_id": "B",
+      "token_residue_start": "17",
+      "token_residue_end": "19",
+      "token_residue_start_number": 17,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 19,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

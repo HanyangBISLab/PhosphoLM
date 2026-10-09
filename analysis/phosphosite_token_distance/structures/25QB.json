@@ -1,0 +1,39 @@
+{
+  "pdb_id": "25QB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d081914f2a141336d3ac2df2f479f5fb20fcefe2f752ad1e2afd57e1bc68efdf",
+  "coordinate_bytes": 1427283,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/25qb.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "SEP",
+      "pdb_id": "25QB",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 120,
+      "phospho_atom_count": 40,
+      "min_distance_A": "7.680",
+      "token_chain_id": "D",
+      "token_residue_start": "149",
+      "token_residue_end": "151",
+      "token_residue_start_number": 149,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 151,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7M68",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "409436b9d4a6b23da53b7e2d4233157f6bf337a6da72db27016d8ec71deee56a",
+  "coordinate_bytes": 2459024,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7m68.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7M68",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 28,
+      "min_distance_A": "9.479",
+      "token_chain_id": "A",
+      "token_residue_start": "918",
+      "token_residue_end": "920",
+      "token_residue_start_number": 918,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 920,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 93,
+    "outside_cutoff": 23,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

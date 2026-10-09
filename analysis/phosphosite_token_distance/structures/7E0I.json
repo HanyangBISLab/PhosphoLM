@@ -1,0 +1,45 @@
+{
+  "pdb_id": "7E0I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "130ced284869a85a81dfe6243dfecf7bbcab0ba57e1ef9af42b8d26b7ae80046",
+  "coordinate_bytes": 970814,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7e0i.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AQK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7E0I",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 11,
+      "min_distance_A": "4.251",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "AQK",
+      "monomer": "TPO",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

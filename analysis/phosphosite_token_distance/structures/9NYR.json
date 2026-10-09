@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9NYR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9e6360abd7b0e5f02f57738b4f2d0095e8f6925eb801f0e704f75fbde21ecce2",
+  "coordinate_bytes": 2022094,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9nyr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 81,
+    "no_phospho_atoms": 32,
+    "outside_cutoff": 16
+  },
+  "location_warnings": []
+}

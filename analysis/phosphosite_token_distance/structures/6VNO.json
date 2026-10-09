@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6VNO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2b0d84b17e753791f2978e480e466597e3468a69e4d105393512b69d1f56f996",
+  "coordinate_bytes": 8686580,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6vno.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 20,
+    "outside_cutoff": 10
+  },
+  "location_warnings": []
+}

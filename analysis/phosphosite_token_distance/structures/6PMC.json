@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6PMC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "641594b85a26d32eb7a06fc8027d72eef594b3db823cf7665f7ced94b5d6f519",
+  "coordinate_bytes": 313127,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6pmc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

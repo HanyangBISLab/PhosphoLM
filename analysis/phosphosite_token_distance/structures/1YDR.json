@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1YDR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5e68bdf3c56a9388f5810c5afc93900367edd8c70275a91c5ebb27b398826719",
+  "coordinate_bytes": 364076,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ydr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7ZDJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c511ef76d983479591e831bb15ff38c8749175f284059eb63e9f8885928f269",
+  "coordinate_bytes": 7080026,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7zdj.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7ZDJ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 10,
+      "min_distance_A": "9.977",
+      "token_chain_id": "k",
+      "token_residue_start": "229",
+      "token_residue_end": "231",
+      "token_residue_start_number": 229,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 231,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 31,
+    "no_phospho_atoms": 64,
+    "no_token_atoms": 33,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

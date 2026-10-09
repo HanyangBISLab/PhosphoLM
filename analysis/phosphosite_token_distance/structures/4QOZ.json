@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4QOZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a9cdf84dca9ba709ecceb7c576c813c54d307bb2448df957d18d02ecff078dd",
+  "coordinate_bytes": 718742,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qoz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4QOZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.656",
+      "token_chain_id": "C",
+      "token_residue_start": "190",
+      "token_residue_end": "191",
+      "token_residue_start_number": 190,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 191,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

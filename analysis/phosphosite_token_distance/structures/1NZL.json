@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1NZL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7b541d9173007451b946c4d59753585f344e6574921d02d1b3c285e768a0711a",
+  "coordinate_bytes": 242100,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1nzl.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1NZL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.034",
+      "token_chain_id": "B",
+      "token_residue_start": "344",
+      "token_residue_end": "345",
+      "token_residue_start_number": 344,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 345,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

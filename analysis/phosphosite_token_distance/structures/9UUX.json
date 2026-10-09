@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9UUX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2c088b2a82b52186f14d2af07bc58c56509df20871ff6e95c3871af49cbaab5c",
+  "coordinate_bytes": 622192,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9uux.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

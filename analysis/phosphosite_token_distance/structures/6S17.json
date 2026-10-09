@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6S17",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3809bc064da1e2155784a67f1d0ebe773607ba4bec8af4dd72b04ab78e1dd7b5",
+  "coordinate_bytes": 956292,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6s17.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

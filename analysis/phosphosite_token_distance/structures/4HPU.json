@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4HPU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "49055f2a9b189ec1d63e562def41b4c7078e8573cf467daee7be4b54ea0b2d38",
+  "coordinate_bytes": 771437,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4hpu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

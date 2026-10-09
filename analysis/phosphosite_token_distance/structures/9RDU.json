@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RDU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a8511c1fb2e634f93d6f6a54c75dcd1ba4944a7eb0c6800fb1e569729e69d0f4",
+  "coordinate_bytes": 754804,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rdu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

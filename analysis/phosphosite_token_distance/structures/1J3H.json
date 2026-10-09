@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1J3H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "52bd5acb9276b538f81f489e7cee7a2e2838bd11a682a38742b72a0b188d8254",
+  "coordinate_bytes": 559041,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1j3h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

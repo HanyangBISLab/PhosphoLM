@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6YPS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b61f94207525819108e1ba5c5775980f635c57b01d95296d4e64c94fd7012032",
+  "coordinate_bytes": 960803,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6yps.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

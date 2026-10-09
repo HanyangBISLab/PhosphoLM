@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7R4H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "67e5e36cfd8cf6bfd3715a02efc1964aee115ad898f740948ecfac8c18245e40",
+  "coordinate_bytes": 1790169,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7r4h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 102,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 18
+  },
+  "location_warnings": []
+}

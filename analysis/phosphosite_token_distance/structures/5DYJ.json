@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5DYJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "faa7023e627623edb88dddd73462e327589dfd5eed32d77afa7e8027f28ef2ac",
+  "coordinate_bytes": 517238,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5dyj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

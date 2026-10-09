@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1YRK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bf9ee3cd82810cd5747ebaa0a5470e671af303778167a4124747274cad9da778",
+  "coordinate_bytes": 189315,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1yrk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

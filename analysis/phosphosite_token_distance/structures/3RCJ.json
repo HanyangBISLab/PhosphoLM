@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3RCJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ae070388ae352b0cf8f060405ebcd972b8f1beba78c7fb9bd1abe7bcef5b0053",
+  "coordinate_bytes": 298677,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3rcj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

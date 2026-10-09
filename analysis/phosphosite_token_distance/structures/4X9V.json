@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4X9V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d81b13c9db4748d60afb495433f2ff56cc052619576f581011826b274b2cb550",
+  "coordinate_bytes": 607166,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4x9v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

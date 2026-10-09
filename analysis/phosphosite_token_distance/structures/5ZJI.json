@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ZJI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "704e0f160fa5aeffc7ac21ef361b363450fc16d8da9521b35208fe5ba238d28a",
+  "coordinate_bytes": 5334893,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5zji.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "no_phospho_atoms": 34,
+    "outside_cutoff": 17
+  },
+  "location_warnings": []
+}

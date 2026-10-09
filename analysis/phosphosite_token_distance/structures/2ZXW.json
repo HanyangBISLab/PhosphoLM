@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2ZXW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "889555e0e30c68b59839f297343e775415e81ce1330928c1ff00fb848a29989f",
+  "coordinate_bytes": 3429035,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2zxw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

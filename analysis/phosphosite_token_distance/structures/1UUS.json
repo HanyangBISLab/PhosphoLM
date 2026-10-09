@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1UUS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "024d406f5c1f7226934a00f67027fca92adacaaa45e513199a7025f42fbdfa9f",
+  "coordinate_bytes": 423868,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1uus.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

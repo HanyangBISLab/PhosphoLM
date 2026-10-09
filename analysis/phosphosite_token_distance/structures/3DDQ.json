@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3DDQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1ba27d264b548ee81f39db76ee62e934b2bc0d183ea7cb1f7317a9c3bc390e67",
+  "coordinate_bytes": 1859714,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ddq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

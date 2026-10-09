@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9NEQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "74b704e50c7fadce532a4c2b1400a28f4a7bfb2cb92261c9fe97552ee4e72015",
+  "coordinate_bytes": 54843,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9NEQ.cif",
+    "resolved_url": "https://files.rcsb.org/download/9NEQ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

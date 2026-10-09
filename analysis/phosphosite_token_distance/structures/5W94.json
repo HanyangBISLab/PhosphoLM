@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5W94",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7bc987dde4f2653074ccfd2d2b45754c7923f3994f73062dc197a51d35b9e889",
+  "coordinate_bytes": 1229625,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5w94.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 16,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

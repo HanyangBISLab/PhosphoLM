@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5CDN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a357e16d4219e5128b87aa8bdd34f73b366c17c70016b3ce9e97d0284ddc3c05",
+  "coordinate_bytes": 4684828,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5cdn.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5CDN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 60,
+      "phospho_atom_count": 64,
+      "min_distance_A": "2.775",
+      "token_chain_id": "A",
+      "token_residue_start": "118",
+      "token_residue_end": "120",
+      "token_residue_start_number": 118,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 120,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

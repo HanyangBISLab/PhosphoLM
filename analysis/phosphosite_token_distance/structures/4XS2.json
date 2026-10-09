@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4XS2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cac58463ac8d2dfce6e5f917a2b008b5872803816779def0499d2d0da0050d70",
+  "coordinate_bytes": 957683,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4xs2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

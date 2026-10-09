@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5CYI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5139f50de15ba596f1c27830120ced0913043c72474cfa16bb01a0c0e049b491",
+  "coordinate_bytes": 1062088,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5cyi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

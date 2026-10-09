@@ -1,0 +1,63 @@
+{
+  "pdb_id": "1YJM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f7d96f539c6927bbb15deec4e0191dd67c1c02e8b7606ac22958d921c7a4a85f",
+  "coordinate_bytes": 324233,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1yjm.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VNP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "1YJM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 66,
+      "phospho_atom_count": 33,
+      "min_distance_A": "3.807",
+      "token_chain_id": "A",
+      "token_residue_start": "69",
+      "token_residue_end": "71",
+      "token_residue_start_number": 69,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 71,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "1YJM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 34,
+      "phospho_atom_count": 33,
+      "min_distance_A": "1.331",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "DEE",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

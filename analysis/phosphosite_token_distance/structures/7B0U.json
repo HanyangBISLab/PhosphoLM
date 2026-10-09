@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7B0U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c1f3d22922f3fe84baf249a6a10f14b1716c2dba31227a4c4258759efb6604fd",
+  "coordinate_bytes": 10317742,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7b0u.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7B0U",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 1500,
+      "phospho_atom_count": 352,
+      "min_distance_A": "7.125",
+      "token_chain_id": "S",
+      "token_residue_start": "248",
+      "token_residue_end": "250",
+      "token_residue_start_number": 248,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 250,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 45,
+      "token_occurrence_count": 60
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

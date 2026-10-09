@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6YAT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c35797909745140179f278f33bab65eec6a7c929ce28848743d1f9d86800d385",
+  "coordinate_bytes": 909527,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6yat.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6YAT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.533",
+      "token_chain_id": "B",
+      "token_residue_start": "204",
+      "token_residue_end": "206",
+      "token_residue_start_number": 204,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 206,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

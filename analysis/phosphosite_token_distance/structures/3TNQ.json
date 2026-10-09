@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3TNQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "037cb90ff5ba06d46d6f4e562c8c804add423338ef8df27fbdcb35c7cb55eda5",
+  "coordinate_bytes": 590246,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3tnq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 14,
+    "no_phospho_atoms": 7
+  },
+  "location_warnings": []
+}

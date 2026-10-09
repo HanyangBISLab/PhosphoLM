@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2GA3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ffe2a5e1a9f3d8daf4c6f20b30a42ce56e680c8f089f2e7f7eb604eba2906a13",
+  "coordinate_bytes": 773871,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2ga3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

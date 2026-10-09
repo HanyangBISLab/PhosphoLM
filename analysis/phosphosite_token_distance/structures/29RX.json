@@ -1,0 +1,20 @@
+{
+  "pdb_id": "29RX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2d4930cdba7227421c98bb9082651ca30b7148bc40324ca0339b4d0f0a1981a4",
+  "coordinate_bytes": 2510869,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/29RX.cif",
+    "resolved_url": "https://files.rcsb.org/download/29RX.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3WF8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d4782336e24183cc05beccc807e9a7869474c38bb8f7f7a3288641db7327c209",
+  "coordinate_bytes": 539624,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3wf8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

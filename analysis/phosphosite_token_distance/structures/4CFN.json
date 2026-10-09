@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4CFN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "84edf0905189ebe45488a1df45a39477c325757f180598197d710abc6eba2100",
+  "coordinate_bytes": 1760801,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4cfn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

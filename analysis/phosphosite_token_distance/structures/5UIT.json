@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UIT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d4a56cc049dec83e067084454d52a8df07baa230a73373d8156db7978a2bee2b",
+  "coordinate_bytes": 968840,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5uit.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

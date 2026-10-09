@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4K11",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "74e7bbbcfb0e71dc3438f1030b3f38aa6ca7c0556a14361a518fd247c5750323",
+  "coordinate_bytes": 440948,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4k11.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4W5A",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "37439ed2c3314bf76a24c852e7f070c57967c8c649280d8fada22a0bbd227bdb",
+  "coordinate_bytes": 401519,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4w5a.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

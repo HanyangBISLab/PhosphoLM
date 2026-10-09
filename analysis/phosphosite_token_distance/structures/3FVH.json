@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3FVH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b639f7e99d4f69ae247c1d4facb0b2049c6558787a7f09733b7f22b285055de2",
+  "coordinate_bytes": 452858,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3fvh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

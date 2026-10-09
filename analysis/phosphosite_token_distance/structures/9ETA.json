@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ETA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8eac2cd37da074ae6882a7e930c0cb58fd87f4ea9b9b083937b2437642bf5e9b",
+  "coordinate_bytes": 986219,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9eta.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

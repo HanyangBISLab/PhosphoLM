@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5USY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e11539c5479ee6e4c47c03a57f60b3b95e55eabc0fec8a4f46f1f86ddcb6d3db",
+  "coordinate_bytes": 1041405,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5usy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

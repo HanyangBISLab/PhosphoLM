@@ -1,0 +1,16 @@
+{
+  "pdb_id": "9D34",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e1c9be4cd71601de94e550983168ff6ad3546dd3d358f151af52ad866f5886cb",
+  "coordinate_bytes": 286915,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9d34.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

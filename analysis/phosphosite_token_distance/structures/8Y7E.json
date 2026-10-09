@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8Y7E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f7aeec705a8e1bdbe181d19c9baf1f4635a5e59e084b7c7040f6d016162554bb",
+  "coordinate_bytes": 3287200,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8y7e.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8Y7E",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.052",
+      "token_chain_id": "3",
+      "token_residue_start": "668",
+      "token_residue_end": "670",
+      "token_residue_start_number": 668,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 670,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 45,
+    "no_phospho_atoms": 23,
+    "no_token_atoms": 60,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

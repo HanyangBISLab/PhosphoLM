@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6WTO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3fdf3835e265acfaaad63b332d2695d3850494c252cecd53eaa9b2fcc7eeff19",
+  "coordinate_bytes": 507911,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6wto.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

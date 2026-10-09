@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1OIY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7c46186c1e0ec8e915a17a14ef70afc315a92486f61ca497faa2c92c24e5d496",
+  "coordinate_bytes": 985875,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1oiy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5W7T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "14cc1b13acf7260b5ddfa9924246038d6ad515d4a2ef2a1546b739ac763f0c07",
+  "coordinate_bytes": 583123,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5w7t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

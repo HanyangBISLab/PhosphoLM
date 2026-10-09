@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4GFU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dc9a5409c9864913fa52410545984f1c8daedd60624d429fec1583ce69ebe8bc",
+  "coordinate_bytes": 292825,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4gfu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

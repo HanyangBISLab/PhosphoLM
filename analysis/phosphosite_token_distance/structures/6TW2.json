@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6TW2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cea34286c36d23a99615b3c70bb4c082e9bec5fd64f5d0292e61737845309302",
+  "coordinate_bytes": 713785,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6tw2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6TW2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 10,
+      "min_distance_A": "7.005",
+      "token_chain_id": "E",
+      "token_residue_start": "202",
+      "token_residue_end": "204",
+      "token_residue_start_number": 202,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 204,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

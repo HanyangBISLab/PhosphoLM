@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6Q5Y",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "08163c1868386e570b8f47ac1335edd51d424ece101f2dd307256e103f4c3140",
+  "coordinate_bytes": 552020,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6q5y.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

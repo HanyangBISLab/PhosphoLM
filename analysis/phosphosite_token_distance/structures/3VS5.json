@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3VS5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2f6f605e5aa9d818092c46a20d2780bb80222ad07b6d920b77f81bf11cccd241",
+  "coordinate_bytes": 762015,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3vs5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

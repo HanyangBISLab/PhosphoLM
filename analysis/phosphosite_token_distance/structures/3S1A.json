@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3S1A",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f1d5ad0f04976b76a7159d7d488ddeeb994df3a016a3691db79e579176118168",
+  "coordinate_bytes": 2582986,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3s1a.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "MER",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3S1A",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 168,
+      "phospho_atom_count": 20,
+      "min_distance_A": "9.136",
+      "token_chain_id": "F",
+      "token_residue_start": "338",
+      "token_residue_end": "340",
+      "token_residue_start_number": 338,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 340,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 6,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

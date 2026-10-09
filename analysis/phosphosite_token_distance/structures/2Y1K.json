@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2Y1K",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "aa0e5b3f94debd071f1fd6a8f52818f0bf377e5f40a777b4f08f77fbad06dde5",
+  "coordinate_bytes": 890483,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2y1k.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2Y1K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 10,
+      "min_distance_A": "6.247",
+      "token_chain_id": "A",
+      "token_residue_start": "112",
+      "token_residue_end": "113",
+      "token_residue_start_number": 112,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 113,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

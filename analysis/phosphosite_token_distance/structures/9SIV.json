@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9SIV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eeb39a2d6a4f832a208d78fc0e78949670320d7eebb2eb0e3814aa5256d68a1c",
+  "coordinate_bytes": 643377,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9SIV.cif",
+    "resolved_url": "https://files.rcsb.org/download/9SIV.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2WMA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c35e645590186c6e00740c1d2ae375652f8b65fce05920205ed8905301a409f8",
+  "coordinate_bytes": 933729,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2wma.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

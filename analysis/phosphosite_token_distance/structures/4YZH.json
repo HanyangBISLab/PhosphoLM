@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YZH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9a9ea03aae950fbaf68ce451caa517468eaad1ddc917860fe1e07dca37d19ee4",
+  "coordinate_bytes": 336683,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yzh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

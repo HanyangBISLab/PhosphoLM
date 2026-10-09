@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DFZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7ef1cccef90b299e708d84a57ebd6d212701a337cb5d362ecbb264101e136de7",
+  "coordinate_bytes": 675365,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dfz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1UU8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "51c9d7cf33e6e0c97df3a09864c16ebef7fc70fd28125a65d4e917c5b50f447f",
+  "coordinate_bytes": 300261,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1uu8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

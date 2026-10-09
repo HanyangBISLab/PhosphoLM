@@ -1,0 +1,17 @@
+{
+  "pdb_id": "1VR2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "792ed763a298ff1d7ef6c94c77e2fd3a6f33f2e313b6e023fa17111d685050f8",
+  "coordinate_bytes": 281968,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1vr2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

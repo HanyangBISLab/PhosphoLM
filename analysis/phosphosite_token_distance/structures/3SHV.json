@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3SHV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7aef2485d0575c3eebb0ebd10078e6cc90a7413a10b2cebf9b8d43a71f507685",
+  "coordinate_bytes": 379150,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3shv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

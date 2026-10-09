@@ -1,0 +1,40 @@
+{
+  "pdb_id": "2G35",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f46f041b9a9ff191594180f6215479e6763dfbc68c87df59625ad9b992f2e1a6",
+  "coordinate_bytes": 3349720,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2G35.cif",
+    "resolved_url": "https://files.rcsb.org/download/2G35.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "2G35",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 51,
+      "phospho_atom_count": 24,
+      "min_distance_A": "5.604",
+      "token_chain_id": "A",
+      "token_residue_start": "64",
+      "token_residue_end": "66",
+      "token_residue_start_number": 64,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 66,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

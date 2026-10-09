@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8VQ3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "97d4c6fc826f7ab7a21efaab114d609f33946b42dd56ab8239200492349ffb91",
+  "coordinate_bytes": 1101023,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8vq3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

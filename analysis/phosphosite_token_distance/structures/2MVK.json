@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2MVK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6f6cf05037db67261e127b31ccfa63e86b99574f1707dc8e84f235ed41d181f5",
+  "coordinate_bytes": 850331,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2MVK.cif",
+    "resolved_url": "https://files.rcsb.org/download/2MVK.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

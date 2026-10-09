@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2HWL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b8b6809cedef182b78bc8f425b97363489a940d360f001c3840da5efc1234e19",
+  "coordinate_bytes": 549995,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2hwl.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "PTR",
+      "pdb_id": "2HWL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.003",
+      "token_chain_id": "D",
+      "token_residue_start": "237",
+      "token_residue_end": "238",
+      "token_residue_start_number": 237,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 238,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6WTQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e05b38eaa2b63919e9cfd44748dc6cc99b02306475c0a4b2beaa16ddcacccf4d",
+  "coordinate_bytes": 541097,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6wtq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

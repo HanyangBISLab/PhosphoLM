@@ -1,0 +1,38 @@
+{
+  "pdb_id": "5I0B",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "168aa7ba3c6c43514ce44a39245114fb54cc60f84e3e2908e7d66bfb8fc17c76",
+  "coordinate_bytes": 488703,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5i0b.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5I0B",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 31,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.465",
+      "token_chain_id": "A",
+      "token_residue_start": "358",
+      "token_residue_end": "360",
+      "token_residue_start_number": 358,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 360,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

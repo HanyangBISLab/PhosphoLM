@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4C37",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "71235583fa63037e7ced1effbd20ff73f8825ea3ceeb6f8f4feef13244d66d18",
+  "coordinate_bytes": 692852,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c37.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

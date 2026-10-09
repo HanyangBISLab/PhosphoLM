@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6I82",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9b037220da145c919a35af1f133b8dbaec013e358207b052cb4e4116d060accd",
+  "coordinate_bytes": 584444,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6i82.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

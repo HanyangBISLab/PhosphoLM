@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9FMP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "86b1f244238d90db39c28cc77101d1502fef5f356798697588736ba795028c8b",
+  "coordinate_bytes": 1297127,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9fmp.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9FMP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 48,
+      "phospho_atom_count": 11,
+      "min_distance_A": "5.464",
+      "token_chain_id": "B",
+      "token_residue_start": "601",
+      "token_residue_end": "603",
+      "token_residue_start_number": 601,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 603,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 102,
+    "no_phospho_atoms": 18,
+    "outside_cutoff": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

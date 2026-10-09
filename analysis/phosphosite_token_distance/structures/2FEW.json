@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2FEW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a65f7b1b6b29bc70126441254bd2865e2571e1d5b291245b235cabfdd868165e",
+  "coordinate_bytes": 397643,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2few.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

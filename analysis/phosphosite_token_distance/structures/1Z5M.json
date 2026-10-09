@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1Z5M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "957eb3bfbdf87772aae4ea0b0d04540bf281a2b1829f337b04cb0c659a9169c0",
+  "coordinate_bytes": 296307,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1z5m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

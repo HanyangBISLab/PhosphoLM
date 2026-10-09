@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9CJ1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9f57533de9a28ede52149ee0b99ac34abfc4530c06d653384a72c31dc225a75e",
+  "coordinate_bytes": 606631,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9cj1.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9CJ1",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "7.396",
+      "token_chain_id": "A",
+      "token_residue_start": "167",
+      "token_residue_end": "169",
+      "token_residue_start_number": 167,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 169,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

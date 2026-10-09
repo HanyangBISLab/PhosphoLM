@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3HUF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2d826947ad2db605641d5ce7a0abcde7a0ad854fb3950a9021488b38b0820c9d",
+  "coordinate_bytes": 834269,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3huf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

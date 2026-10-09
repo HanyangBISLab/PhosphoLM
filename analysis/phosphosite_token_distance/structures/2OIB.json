@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2OIB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "19bef601e9353623c3c34022ee47ae1c3a5eee3db89738164e0f03d53f366999",
+  "coordinate_bytes": 1022095,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2oib.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

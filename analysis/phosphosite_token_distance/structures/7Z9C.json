@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7Z9C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6b4246a6250c56d313165f45693a4ece51391e252752524a5afeadf4c50b841e",
+  "coordinate_bytes": 3415516,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7z9c.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7Z9C",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 60,
+      "phospho_atom_count": 44,
+      "min_distance_A": "2.333",
+      "token_chain_id": "A",
+      "token_residue_start": "117",
+      "token_residue_end": "119",
+      "token_residue_start_number": 117,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 119,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

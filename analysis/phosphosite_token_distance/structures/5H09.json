@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5H09",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5a3daeec0188e613fefdfa8737561975b51bce9dea3811dccf3508967fdcbd78",
+  "coordinate_bytes": 461419,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5h09.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

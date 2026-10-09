@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6STG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c321a1ce1d96022bc4f7d57defd5f5d97a3dd2e8fdf2c0bccda867999db984f5",
+  "coordinate_bytes": 630327,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6stg.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6STG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 20,
+      "min_distance_A": "8.547",
+      "token_chain_id": "B",
+      "token_residue_start": "102",
+      "token_residue_end": "103",
+      "token_residue_start_number": 102,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 103,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

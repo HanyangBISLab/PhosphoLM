@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7T4K",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "46c8bda4964ca7a4eedcf389ee04d1bd95dda224070bc4a4983cbd2ce0761169",
+  "coordinate_bytes": 737065,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7t4k.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CC",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7T4K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 20,
+      "min_distance_A": "3.454",
+      "token_chain_id": "B",
+      "token_residue_start": "360",
+      "token_residue_end": "361",
+      "token_residue_start_number": 360,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 361,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

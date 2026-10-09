@@ -1,0 +1,38 @@
+{
+  "pdb_id": "7YKI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5691b20c09d52abdba00d20518cd8bb90d283392c6a17198f99fe11441b45557",
+  "coordinate_bytes": 429751,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7yki.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7YKI",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 80,
+      "phospho_atom_count": 20,
+      "min_distance_A": "4.675",
+      "token_chain_id": "A",
+      "token_residue_start": "148",
+      "token_residue_end": "150",
+      "token_residue_start_number": 148,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 150,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5HKZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "27e1637c6c5defcc1076337b8e8f95f0924f5cb5b28a00e20c44b980f27028b3",
+  "coordinate_bytes": 358357,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hkz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

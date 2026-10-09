@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6S1I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "91e21bcc11aaf733760f93eb719e5b040e0ff52b0d957999c911cf9182a093b0",
+  "coordinate_bytes": 2326420,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6s1i.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

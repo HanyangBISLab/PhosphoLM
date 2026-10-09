@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LRC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bdafe8f4c72ed543fc761d4feb3f4ab1c33bbf99e90f51c7221a5cbd92d23150",
+  "coordinate_bytes": 1075428,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lrc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

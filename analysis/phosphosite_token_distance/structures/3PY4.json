@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3PY4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8f7613f245593256585051f7a8f0e2faa699c0a819fe3aec054ce73bfb5c4b26",
+  "coordinate_bytes": 604813,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3py4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3PY4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.998",
+      "token_chain_id": "A",
+      "token_residue_start": "252",
+      "token_residue_end": "254",
+      "token_residue_start_number": 252,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 254,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

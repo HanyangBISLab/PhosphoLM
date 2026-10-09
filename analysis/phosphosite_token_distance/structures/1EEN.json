@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1EEN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8dff6844ac9bf7434d0515285ba4ea42715cdb95445e13aa5c0d3fda583d2334",
+  "coordinate_bytes": 345855,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1een.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4,
+    "no_token_atoms": 117
+  },
+  "location_warnings": []
+}

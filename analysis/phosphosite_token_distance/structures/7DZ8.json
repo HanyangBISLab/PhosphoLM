@@ -1,0 +1,64 @@
+{
+  "pdb_id": "7DZ8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d73167e5b24e86311288c2bc33eae9c58bf9f4a1af1dac6c5b90aea7b35bb049",
+  "coordinate_bytes": 7852475,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dz8.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AQK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7DZ8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 55,
+      "phospho_atom_count": 11,
+      "min_distance_A": "4.251",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "FDP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7DZ8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 598,
+      "phospho_atom_count": 11,
+      "min_distance_A": "6.004",
+      "token_chain_id": "Z",
+      "token_residue_start": "186",
+      "token_residue_end": "188",
+      "token_residue_start_number": 186,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 188,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 23,
+      "token_occurrence_count": 23
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 63,
+    "no_phospho_atoms": 44,
+    "outside_cutoff": 20,
+    "within_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "AQK",
+      "monomer": "TPO",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

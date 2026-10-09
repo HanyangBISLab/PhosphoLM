@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9XW0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "166b7945043f39c6a253faf46fa720b389e68d84cabbf4d425e59632ed5a94cf",
+  "coordinate_bytes": 1047533,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9XW0.cif",
+    "resolved_url": "https://files.rcsb.org/download/9XW0.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

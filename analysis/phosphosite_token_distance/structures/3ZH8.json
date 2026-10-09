@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3ZH8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eb2df95c49eda8dee9dac547a4b7f75cec76af41ad29e42f37fcea40cc03004e",
+  "coordinate_bytes": 1500119,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3zh8.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3ZH8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 55,
+      "phospho_atom_count": 66,
+      "min_distance_A": "8.846",
+      "token_chain_id": "C",
+      "token_residue_start": "241",
+      "token_residue_end": "243",
+      "token_residue_start_number": 241,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 243,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

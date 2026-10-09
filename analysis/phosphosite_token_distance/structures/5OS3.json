@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5OS3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "552c268761c6747787f54b202891fffcb875af2aba9bd664c1d1dc35e028a7bc",
+  "coordinate_bytes": 326806,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5os3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

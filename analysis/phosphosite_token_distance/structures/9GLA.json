@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9GLA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1fd0c1127c42447be89c91145834ffa56a95c484e2cb3fd27a54b0a3bf0dcd4c",
+  "coordinate_bytes": 539621,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9gla.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

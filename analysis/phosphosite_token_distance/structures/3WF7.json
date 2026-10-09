@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3WF7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "197b3035b7ab38c35c5ac252e46112f57bbd409cbdb35369e22f8982e5c9ef42",
+  "coordinate_bytes": 530137,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3wf7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

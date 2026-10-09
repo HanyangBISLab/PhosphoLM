@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6SG4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "605d5220cdcc2c33963101f253a3b75bad22f4daa69c11db60ae06a9202275dc",
+  "coordinate_bytes": 1621652,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6sg4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

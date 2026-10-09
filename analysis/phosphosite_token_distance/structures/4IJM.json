@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IJM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7cf879497c0978cac7a190dfeef7a7c93ef3f4485d14f95de754452a7feb7bca",
+  "coordinate_bytes": 2602239,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ijm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2LKJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "54567ca605c069864c95d7aa3327c7bb0a86e40db879b0f82a935c2a7a95c7b6",
+  "coordinate_bytes": 688493,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LKJ.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LKJ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

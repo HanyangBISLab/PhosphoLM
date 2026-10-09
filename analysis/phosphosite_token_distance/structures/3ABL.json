@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3ABL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "03bca9fca073c59ac2a57a18af408487d7dbaf14d2dc8c496a5f982964a894b1",
+  "coordinate_bytes": 3495918,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3abl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

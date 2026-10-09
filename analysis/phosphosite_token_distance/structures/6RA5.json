@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6RA5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3789a33b8dc37a85bee5309b5c38f2b62a08eaeff1f74a177d46a855f6e2c349",
+  "coordinate_bytes": 876258,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ra5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

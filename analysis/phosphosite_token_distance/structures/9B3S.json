@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9B3S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f8546e45441f5d748dc3fa8352804cb669ea09da19dbb1e3c1d1b68a0227f900",
+  "coordinate_bytes": 558554,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9b3s.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9B3S",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 28,
+      "phospho_atom_count": 20,
+      "min_distance_A": "1.323",
+      "token_chain_id": "B",
+      "token_residue_start": "313",
+      "token_residue_end": "315",
+      "token_residue_start_number": 313,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 315,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

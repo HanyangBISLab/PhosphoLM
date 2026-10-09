@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4PSW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fc09169a7a0ebc00c3a2d883e0d6b1a06a155b52bb6003c88e40d80b577d5a62",
+  "coordinate_bytes": 1174873,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4psw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 22,
+    "outside_cutoff": 11,
+    "no_token_atoms": 96
+  },
+  "location_warnings": []
+}

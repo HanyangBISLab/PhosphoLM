@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5L8K",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ceee3a94e92657dc2e1da40b87f088c925bf585b2b05bfbcde996f4237931ecc",
+  "coordinate_bytes": 426367,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5l8k.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5L8K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.228",
+      "token_chain_id": "A",
+      "token_residue_start": "257",
+      "token_residue_end": "259",
+      "token_residue_start_number": 257,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 259,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

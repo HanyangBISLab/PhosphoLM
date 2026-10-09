@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4C4G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "60ea3af7a1b66302f6f448a63ce4f7f4f8d8076631ba633ecec86decc01f48bf",
+  "coordinate_bytes": 446527,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c4g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

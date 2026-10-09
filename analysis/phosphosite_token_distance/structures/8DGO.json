@@ -1,0 +1,58 @@
+{
+  "pdb_id": "8DGO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f590280f6c37cb31e0936a61fdcd9c986f67aba9fe6036446c40817e971272a2",
+  "coordinate_bytes": 803945,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8dgo.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "8DGO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.802",
+      "token_chain_id": "B",
+      "token_residue_start": "84",
+      "token_residue_end": "86",
+      "token_residue_start_number": 84,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 86,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "8DGO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 92,
+      "phospho_atom_count": 16,
+      "min_distance_A": "5.805",
+      "token_chain_id": "B",
+      "token_residue_start": "93",
+      "token_residue_end": "95",
+      "token_residue_start_number": 93,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 95,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 2,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

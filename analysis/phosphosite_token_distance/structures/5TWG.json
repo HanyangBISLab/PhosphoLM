@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5TWG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4ad299caac9ab659d847effcfbc998e54b03067b13843f33c266769befd1f0af",
+  "coordinate_bytes": 365546,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5twg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

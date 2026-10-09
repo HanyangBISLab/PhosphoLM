@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6VP8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3e6cbcdf6fe458b38e04598b03f0c10676225b3c2d5d9918bb614d07c4b3c02b",
+  "coordinate_bytes": 1400572,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6vp8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 20,
+    "outside_cutoff": 10
+  },
+  "location_warnings": []
+}

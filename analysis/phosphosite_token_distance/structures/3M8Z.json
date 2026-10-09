@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3M8Z",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e6ce111d6dba09801d90a2d3338f85720b837421dba2017e65bd29ddab831c49",
+  "coordinate_bytes": 2022257,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3m8z.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

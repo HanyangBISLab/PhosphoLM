@@ -1,0 +1,58 @@
+{
+  "pdb_id": "5DMZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "79af7b8bb5adf1e280abe59ce86be93bd1e418b70f3a533e31fe92b2c09d1c0e",
+  "coordinate_bytes": 1703396,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5dmz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ANP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5DMZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 76,
+      "phospho_atom_count": 23,
+      "min_distance_A": "9.160",
+      "token_chain_id": "B",
+      "token_residue_start": "826",
+      "token_residue_end": "828",
+      "token_residue_start_number": 826,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 828,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "IKP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5DMZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 220,
+      "phospho_atom_count": 23,
+      "min_distance_A": "2.283",
+      "token_chain_id": "B",
+      "token_residue_start": "918",
+      "token_residue_end": "920",
+      "token_residue_start_number": 918,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 920,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

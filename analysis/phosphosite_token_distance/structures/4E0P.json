@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4E0P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9929895e40138ca5327a04c8d64ea9fa390e2f5812bcf5c7b1c84d8f8163a2fe",
+  "coordinate_bytes": 762711,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4e0p.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

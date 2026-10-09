@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1V55",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4f32ddf837ec876edff5ba472ad5499f34656b5370988efbee7c09efcda6085b",
+  "coordinate_bytes": 3515617,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1v55.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

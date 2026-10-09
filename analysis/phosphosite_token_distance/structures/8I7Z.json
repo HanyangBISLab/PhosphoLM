@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8I7Z",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "18726944f45a410b3336b577f5efa0ff87c524e0ae16fac9b004a82222b2c717",
+  "coordinate_bytes": 965116,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i7z.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "8I7Z",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 32,
+      "min_distance_A": "4.003",
+      "token_chain_id": "B",
+      "token_residue_start": "374",
+      "token_residue_end": "375",
+      "token_residue_start_number": 374,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 375,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

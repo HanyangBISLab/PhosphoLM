@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9TP7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1d1030b748b6d2dce8939b53017cfad44748e9204af9e8b578adb8dcf9a369a5",
+  "coordinate_bytes": 5267674,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9tp7.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9TP7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 186,
+      "phospho_atom_count": 92,
+      "min_distance_A": "4.186",
+      "token_chain_id": "E",
+      "token_residue_start": "576",
+      "token_residue_end": "577",
+      "token_residue_start_number": 576,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 577,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 5,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

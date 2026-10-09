@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5DH3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2d0c6a7963659391c2b2fc5d9a2781f6fb55a69ce9796f0a81ac8476bb9218a6",
+  "coordinate_bytes": 538100,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5dh3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5DH3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.238",
+      "token_chain_id": "A",
+      "token_residue_start": "201",
+      "token_residue_end": "203",
+      "token_residue_start_number": 201,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 203,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

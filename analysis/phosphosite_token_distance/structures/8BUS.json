@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BUS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "71d6972c676d09e9207b9426bcf9afff4a3624ef5eca99a898ab8e15c53beae1",
+  "coordinate_bytes": 10524322,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bus.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

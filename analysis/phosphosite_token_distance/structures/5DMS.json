@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5DMS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c33bf9d8d1e97350b3b0b5a9ae8cb8ba46aa2c75ef769507e772818779a0cff6",
+  "coordinate_bytes": 453053,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5dms.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

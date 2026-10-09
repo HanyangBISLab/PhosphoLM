@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1K3N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "edfee1bb43bcf973f758dd47c0c870f34cecc84795c2805484c42f8dbb86b3bd",
+  "coordinate_bytes": 4886777,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1k3n.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

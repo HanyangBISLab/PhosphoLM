@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4YJ4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "29fa36883817758325cb5acbc2cec456670caf8abe84c34dd97681e0489dda37",
+  "coordinate_bytes": 212105,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yj4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4YJ4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 15,
+      "min_distance_A": "8.523",
+      "token_chain_id": "A",
+      "token_residue_start": "141",
+      "token_residue_end": "143",
+      "token_residue_start_number": 141,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 143,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3UOT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e4486f2532f9b3e1df449fba26a18eccb4ab2e8f039965f33b055fa5dacf0591",
+  "coordinate_bytes": 428156,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3uot.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

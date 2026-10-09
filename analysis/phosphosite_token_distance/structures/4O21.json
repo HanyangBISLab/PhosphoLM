@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4O21",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "07d4f480b4829b6386399c46c2154068788212368be436b674fe21abb652ee7c",
+  "coordinate_bytes": 420616,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4o21.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

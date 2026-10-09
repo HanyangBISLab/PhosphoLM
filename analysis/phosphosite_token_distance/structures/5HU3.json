@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5HU3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "727038d1a2ab12907363b53acb02b021e72877da23a40537d7861967dad6bdcc",
+  "coordinate_bytes": 527511,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hu3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

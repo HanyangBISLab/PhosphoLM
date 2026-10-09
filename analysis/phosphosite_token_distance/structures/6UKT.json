@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6UKT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "65a79f64a0eb763aee00913df50af2ee01bb7ad9d326e39cdeb9fc76938ed783",
+  "coordinate_bytes": 1066143,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ukt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "outside_cutoff": 28,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

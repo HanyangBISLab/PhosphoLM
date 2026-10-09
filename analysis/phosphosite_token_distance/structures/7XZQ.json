@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7XZQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "174fb6ac0570c4a56fd98c8257a1e942a52e53d873be9efaa120e12990b0512e",
+  "coordinate_bytes": 552720,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7xzq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

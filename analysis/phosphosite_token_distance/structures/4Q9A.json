@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4Q9A",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1f315be862dda32194606edd98a3478d2648dbff8886a0e5a89ee5f714f49ef4",
+  "coordinate_bytes": 699407,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/4Q9A.cif",
+    "resolved_url": "https://files.rcsb.org/download/4Q9A.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

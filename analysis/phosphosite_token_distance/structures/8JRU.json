@@ -1,0 +1,58 @@
+{
+  "pdb_id": "8JRU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "03bc05d8f0e9dabbd00896f3c58e17789b1504dea75810c59e9569ec55ddcfb6",
+  "coordinate_bytes": 1243055,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8jru.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "HED",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8JRU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.753",
+      "token_chain_id": "A",
+      "token_residue_start": "295",
+      "token_residue_end": "297",
+      "token_residue_start_number": 295,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 297,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8JRU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.032",
+      "token_chain_id": "A",
+      "token_residue_start": "290",
+      "token_residue_end": "292",
+      "token_residue_start_number": 290,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 292,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 12,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 7,
+    "no_token_atoms": 108
+  },
+  "location_warnings": []
+}

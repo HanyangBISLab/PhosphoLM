@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ATB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f87e06403ee1379fb4c979c4633e2cddc765d51b7b475b842e749535a64c78b8",
+  "coordinate_bytes": 935056,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8atb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

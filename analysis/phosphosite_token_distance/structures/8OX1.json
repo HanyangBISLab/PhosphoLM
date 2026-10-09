@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8OX1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d94699583ce9089eca386d17856a48606c4c43ac2d1f74378cf763654493a9ad",
+  "coordinate_bytes": 1581218,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ox1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 102,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 18
+  },
+  "location_warnings": []
+}

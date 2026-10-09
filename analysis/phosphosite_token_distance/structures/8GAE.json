@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8GAE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d5ca074eb81b690dfee640a6844835f57d2ddd8b59e9389ffe1ce1480fe97f39",
+  "coordinate_bytes": 3691497,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8gae.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 13,
+    "no_phospho_atoms": 26,
+    "no_token_atoms": 90
+  },
+  "location_warnings": []
+}

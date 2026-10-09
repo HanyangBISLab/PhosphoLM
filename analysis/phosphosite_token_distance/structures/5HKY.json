@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5HKY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "744a70d3371ce6a4b7e7bf646e78fbf7eca1d7adb78bf1ec86a53f311d132b1b",
+  "coordinate_bytes": 376341,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hky.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6ZKE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "835136ea19e8def62f06671f0866413ae88b9432b385c2c1eeb309a910d91e19",
+  "coordinate_bytes": 7371192,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6zke.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6ZKE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.663",
+      "token_chain_id": "k",
+      "token_residue_start": "229",
+      "token_residue_end": "231",
+      "token_residue_start_number": 229,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 231,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 31,
+    "no_phospho_atoms": 64,
+    "no_token_atoms": 33,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

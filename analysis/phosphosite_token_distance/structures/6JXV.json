@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6JXV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "641fd0bc23dc843624ebe686e1a5967e04e02f34f0ef7814a54c5d8e89d6e90b",
+  "coordinate_bytes": 2701493,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6jxv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

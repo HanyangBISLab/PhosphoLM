@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8PMQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7aeb7a3e157f0927b45c5dd53e555c3edb8fc0e891d3d1a94dc29020ad443d2c",
+  "coordinate_bytes": 866510,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8pmq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 102,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 18
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1PJQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3fadd2aa889a8116e0f2772ca848c53a3dd54e1ae21362e9b3990a005db4abd3",
+  "coordinate_bytes": 826372,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1pjq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "outside_cutoff": 10,
+    "no_phospho_atoms": 20
+  },
+  "location_warnings": []
+}

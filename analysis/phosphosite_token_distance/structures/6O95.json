@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6O95",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a4775f1dab5704d4442e57796d3558af20005eb0e0c1953a8d3575146ad78ac4",
+  "coordinate_bytes": 1089894,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6o95.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2FCI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2c0621d862f81c9484766c78b3f5696ed901f2657a7c5ec8bcf095f5e47e8362",
+  "coordinate_bytes": 2898596,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2FCI.cif",
+    "resolved_url": "https://files.rcsb.org/download/2FCI.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

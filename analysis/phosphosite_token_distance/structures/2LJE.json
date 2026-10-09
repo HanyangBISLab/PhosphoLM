@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2LJE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fc06a176a8a3746fd963c4e2e5b14e456d5eaed401b58f8a98514a21566afaf8",
+  "coordinate_bytes": 1130408,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LJE.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LJE.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

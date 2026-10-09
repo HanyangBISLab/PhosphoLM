@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1G1H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ca7b53393a4aefa8b7d550cd9914f492f023ead2e470969ec51b55d77eb203a3",
+  "coordinate_bytes": 313374,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1g1h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3,
+    "no_token_atoms": 120
+  },
+  "location_warnings": []
+}

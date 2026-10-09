@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SZM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c5bf3a7c648a53e991edb450c60cb50b1338d993050b011d373ec274281e6c16",
+  "coordinate_bytes": 574996,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1szm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

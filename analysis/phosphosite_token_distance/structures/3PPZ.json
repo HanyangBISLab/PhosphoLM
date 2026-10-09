@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3PPZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "82000107916773fd6fd0b2deb0c64a68e4e4e3abb59cd2fab541fac70af04f5b",
+  "coordinate_bytes": 852114,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ppz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3PPZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.509",
+      "token_chain_id": "A",
+      "token_residue_start": "793",
+      "token_residue_end": "794",
+      "token_residue_start_number": 793,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 794,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

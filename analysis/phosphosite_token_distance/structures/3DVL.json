@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3DVL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7d4f4c29ebefab84557ae9a91ee261389700c8e4420cb12f6a12e28a257e7a13",
+  "coordinate_bytes": 2541390,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3dvl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

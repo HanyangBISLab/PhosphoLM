@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7AKF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "96d25eb3e1c4e33319093ba29a3e04d845639acdf2ff3140bb6294992bdaa0ae",
+  "coordinate_bytes": 405032,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7akf.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7AKF",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 20,
+      "min_distance_A": "9.630",
+      "token_chain_id": "A",
+      "token_residue_start": "295",
+      "token_residue_end": "296",
+      "token_residue_start_number": 295,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 296,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

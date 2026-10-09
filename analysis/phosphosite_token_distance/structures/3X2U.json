@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3X2U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "04d1961f037a924e3e23ef1b201980c24fbee8cd8963d3279ede20bdbd326ea0",
+  "coordinate_bytes": 411515,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3x2u.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

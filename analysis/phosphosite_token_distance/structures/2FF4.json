@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2FF4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f869ebdec0f372d78e4c5703011328e0f5d4399f3c5b504719a3df8c89bfcc4a",
+  "coordinate_bytes": 686593,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2ff4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

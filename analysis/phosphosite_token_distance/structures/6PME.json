@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6PME",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ace6b6c1b6d466986d964f61e335459628cfc46c930171b39d47cfc7d49b3129",
+  "coordinate_bytes": 743277,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6pme.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

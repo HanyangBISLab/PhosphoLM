@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2RUK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "360250b6c2b310054006f66c77d3338340780f7d7127f70b72f3a74b83b8e7cd",
+  "coordinate_bytes": 3887460,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2ruk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

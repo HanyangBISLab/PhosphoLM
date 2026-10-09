@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2NRY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d38396e20c2ad1a074f554cc66dc6a0fa9f1826118a199a8e71201dac884a703",
+  "coordinate_bytes": 994782,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2nry.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5K6S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "48830642e0d5832ea15e624ed89f0a872f360e551da796caeea77a3250c61565",
+  "coordinate_bytes": 329837,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5k6s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

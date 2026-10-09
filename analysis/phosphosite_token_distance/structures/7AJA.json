@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7AJA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e619974ae09d63ae7e244f810c7003b62940ff9a68e25dc517abdab661a70b2",
+  "coordinate_bytes": 379713,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7aja.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

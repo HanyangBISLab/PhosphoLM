@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6DCN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "53c7ccb23c35490e65ae443f1acda75e764298c290606540958efe2167a86676",
+  "coordinate_bytes": 551633,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6dcn.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "FGG",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6DCN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 38,
+      "phospho_atom_count": 22,
+      "min_distance_A": "8.701",
+      "token_chain_id": "A",
+      "token_residue_start": "146",
+      "token_residue_end": "148",
+      "token_residue_start_number": 146,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 148,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

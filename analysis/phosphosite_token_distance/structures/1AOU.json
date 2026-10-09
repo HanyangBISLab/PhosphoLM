@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1AOU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d0d4ea50ef331d572f59054068e3db1278c8fe0b1a25a306505019abb72b534a",
+  "coordinate_bytes": 3921187,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1aou.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1AOU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 23,
+      "min_distance_A": "2.158",
+      "token_chain_id": "F",
+      "token_residue_start": "32",
+      "token_residue_end": "34",
+      "token_residue_start_number": 32,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 34,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

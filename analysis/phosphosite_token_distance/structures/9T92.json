@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9T92",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e18272bca6200aaa50f94b61acaf6652155266750d8e2359ab89eda4ab4831ab",
+  "coordinate_bytes": 5731680,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9t92.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 25,
+    "no_phospho_atoms": 50,
+    "no_token_atoms": 54
+  },
+  "location_warnings": []
+}

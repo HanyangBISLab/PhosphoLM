@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4K45",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6b32364bae2bb0f24fe9aa701539e353f65638f4865154b3e108bb949c4684f2",
+  "coordinate_bytes": 241927,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/4K45.cif",
+    "resolved_url": "https://files.rcsb.org/download/4K45.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

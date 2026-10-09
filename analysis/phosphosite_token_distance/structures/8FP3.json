@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8FP3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6eaa3b1f541bee6be8255e8dfe23b770c08707d83db43aa9b88384a13c29c9b6",
+  "coordinate_bytes": 598698,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8fp3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8,
+    "no_token_atoms": 105
+  },
+  "location_warnings": []
+}

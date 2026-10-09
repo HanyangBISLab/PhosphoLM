@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3E8D",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a0923adf9acbae69a096a750c723d941522946eff2ccaa3e2c92e10ff2f0cb1",
+  "coordinate_bytes": 592307,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3e8d.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

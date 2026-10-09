@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1OL7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d7a26de30451f2fb9388fc1bbc159398a14b5eb14b6a3f681ebffe57aa93ef6b",
+  "coordinate_bytes": 295313,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ol7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

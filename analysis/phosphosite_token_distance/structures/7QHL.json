@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7QHL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8b0c63faced8369106b6edded9cee191e43e6e2d26ecaf003ddfdc483f22c207",
+  "coordinate_bytes": 1064095,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7qhl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

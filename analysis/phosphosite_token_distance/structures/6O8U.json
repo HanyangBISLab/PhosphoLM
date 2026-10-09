@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6O8U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "03c882a96cb3e1d91f3749bea79dbee66023d64dbef73dc8af21dbadd53f2c24",
+  "coordinate_bytes": 1805040,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6o8u.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YJR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d0e94f6dbbc9c7b73e20250e6601d7281cf4a4a6fff53b2feadc68f8380718e0",
+  "coordinate_bytes": 916067,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yjr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

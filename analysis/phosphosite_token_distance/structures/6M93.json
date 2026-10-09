@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6M93",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8314144cfce66307b08a59b9b34bfe6b35774a7ac955bb5f6c0ab72de943d604",
+  "coordinate_bytes": 861104,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6m93.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

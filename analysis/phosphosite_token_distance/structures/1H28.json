@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1H28",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a7b054b4cbdfe699a152b83af5b6b71bb9b497d285021ac4d5814cf7ce11dccd",
+  "coordinate_bytes": 948076,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1h28.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

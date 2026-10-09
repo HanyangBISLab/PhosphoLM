@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4BCM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "587724becfbdd2d89d5138289b365fedde3644faba4c38595be176b37fd3b8ea",
+  "coordinate_bytes": 1705022,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bcm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

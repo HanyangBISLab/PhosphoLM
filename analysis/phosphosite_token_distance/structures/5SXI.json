@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SXI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e7c5dcc248d45de14184b814acc34fe40f2fb5e60c6d8317afe1bed0567fa111",
+  "coordinate_bytes": 1132485,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sxi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

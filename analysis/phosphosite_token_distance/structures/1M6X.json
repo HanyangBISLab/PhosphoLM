@@ -1,0 +1,20 @@
+{
+  "pdb_id": "1M6X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "57b1b22fa73bf39ac229a5a071318942896517afcc576a31b514996200f80f09",
+  "coordinate_bytes": 1685027,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1M6X.cif",
+    "resolved_url": "https://files.rcsb.org/download/1M6X.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

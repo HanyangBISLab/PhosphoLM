@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7MP9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6c66a1c864d25b626100cd9e27e0bd0a1e6aede1932372ff841133333c7c23af",
+  "coordinate_bytes": 795730,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7mp9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 10,
+    "no_phospho_atoms": 5
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6I4X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d1adb16d0c95b953d679eaf92c1028a057f98b70cc6c27f0731c22d887313f49",
+  "coordinate_bytes": 352569,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6i4x.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6I4X",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.878",
+      "token_chain_id": "A",
+      "token_residue_start": "71",
+      "token_residue_end": "73",
+      "token_residue_start_number": 71,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 73,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

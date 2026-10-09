@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7KXW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f10c29ac56297612479fcbc4b48462145dd8a6fb6ae21d5b6652a915e8db1e2b",
+  "coordinate_bytes": 483983,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7kxw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

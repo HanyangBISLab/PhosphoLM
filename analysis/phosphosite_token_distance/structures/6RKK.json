@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6RKK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dcbb15b1f1eb2520011b5860ec1d2db10c29aca45aca219a60e99c4f230e9c3c",
+  "coordinate_bytes": 493202,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6rkk.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6RKK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 53,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.475",
+      "token_chain_id": "A",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8I0R",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e19509ed972151d7f4ee43768cbafded4d7a5c5daee5e46b00aa85415ba6c2a9",
+  "coordinate_bytes": 16008699,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i0r.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 40,
+    "no_phospho_atoms": 80,
+    "no_token_atoms": 9
+  },
+  "location_warnings": []
+}

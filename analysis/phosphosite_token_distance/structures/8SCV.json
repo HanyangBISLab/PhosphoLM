@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8SCV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7bbafafa604ef8c9c04e4bddcd2966398e76e20ede9186765a1643f47f8ca954",
+  "coordinate_bytes": 503791,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8scv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

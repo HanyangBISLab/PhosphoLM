@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QMU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fa6712874bd6f9ac8c653f451f1850a5d75e1bff7bc29aa577d4ea95fa42effe",
+  "coordinate_bytes": 322749,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qmu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

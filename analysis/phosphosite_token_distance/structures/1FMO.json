@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1FMO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cdb5486b2c49742796da78ee332f73fe15a5418fba290cb3b5f65eb04b3c4ec5",
+  "coordinate_bytes": 377664,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1fmo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

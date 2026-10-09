@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4W8E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a6b2a6c3754ab25036ee1d83519aa29b87190b49f4329013ac28d36037104a6",
+  "coordinate_bytes": 523949,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4w8e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

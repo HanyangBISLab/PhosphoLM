@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2OEN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "afa649d87f1a7eef35cf774455023557e97b8f37f0fd9b5e708db50d05ee3bd5",
+  "coordinate_bytes": 321057,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2oen.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

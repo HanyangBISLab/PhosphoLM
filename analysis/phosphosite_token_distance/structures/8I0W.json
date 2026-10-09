@@ -1,0 +1,83 @@
+{
+  "pdb_id": "8I0W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b0e32ae09702710cdbc91ab668464050f56f85f6179f1d011fdcb9ceef088830",
+  "coordinate_bytes": 14436497,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i0w.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8I0W",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 338,
+      "phospho_atom_count": 20,
+      "min_distance_A": "9.599",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8I0W",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 146,
+      "phospho_atom_count": 20,
+      "min_distance_A": "4.203",
+      "token_chain_id": "T",
+      "token_residue_start": "370",
+      "token_residue_end": "371",
+      "token_residue_start_number": 370,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 371,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 9,
+      "token_occurrence_count": 10
+    },
+    {
+      "token": "MER",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8I0W",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 20,
+      "min_distance_A": "6.117",
+      "token_chain_id": "O",
+      "token_residue_start": "121",
+      "token_residue_end": "123",
+      "token_residue_start_number": 121,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 123,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 38,
+    "no_phospho_atoms": 82,
+    "within_cutoff": 3,
+    "no_token_atoms": 6
+  },
+  "location_warnings": [
+    {
+      "token": "WK",
+      "monomer": "SEP",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

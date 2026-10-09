@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9EGZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9acd28fceab753dffbc20c881899866e9acdbcc9b1dd62634c7d9bec4c6876e8",
+  "coordinate_bytes": 8643105,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9egz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9EGZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 102,
+      "phospho_atom_count": 22,
+      "min_distance_A": "7.415",
+      "token_chain_id": "M",
+      "token_residue_start": "1365",
+      "token_residue_end": "1366",
+      "token_residue_start_number": 1365,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1366,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 8
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 75,
+    "no_phospho_atoms": 38,
+    "no_token_atoms": 15,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

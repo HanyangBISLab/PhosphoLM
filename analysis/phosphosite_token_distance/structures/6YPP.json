@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6YPP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "34bc4195a35818db26db120b073286d7e8c4e52dd74631fed3af5130d125ea07",
+  "coordinate_bytes": 944429,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ypp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

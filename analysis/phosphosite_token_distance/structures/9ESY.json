@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7c98b2f4224bd65da20c5a91184fc2e6c887ea0bffc29cf6abe0e7b6d6b1220e",
+  "coordinate_bytes": 971017,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

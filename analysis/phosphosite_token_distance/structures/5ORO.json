@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ORO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6abb796e3cb8ac3a5399e05797d7dd7a852fe9fb0a2c6491a2ea07288425516e",
+  "coordinate_bytes": 497009,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5oro.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

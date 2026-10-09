@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3DOG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "277a6987b9cb64a4d97cc1b5b73e481af1e9cdc59bc032da10649e6cb6f1a2bf",
+  "coordinate_bytes": 975505,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3dog.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

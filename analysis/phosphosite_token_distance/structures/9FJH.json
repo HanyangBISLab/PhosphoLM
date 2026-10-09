@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9FJH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b0a86e87f3297edb7fe716d3560e170037f4029ec1c9b8632d6a2be9cde5d4f5",
+  "coordinate_bytes": 826422,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9fjh.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9FJH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 52,
+      "phospho_atom_count": 28,
+      "min_distance_A": "5.324",
+      "token_chain_id": "C",
+      "token_residue_start": "83",
+      "token_residue_end": "85",
+      "token_residue_start_number": 83,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 85,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

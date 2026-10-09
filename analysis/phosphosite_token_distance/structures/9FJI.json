@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9FJI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dafd80303a0d4e1f77ee3e1ec7dd0e293016eeb460d59cd1262f2cee091efe52",
+  "coordinate_bytes": 842156,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9fji.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

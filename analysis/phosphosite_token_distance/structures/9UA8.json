@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9UA8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "57b80f6e6c421cbb58a89863c35889be74ed2487748cbb2ffcbcf5b24673645f",
+  "coordinate_bytes": 1023548,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ua8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

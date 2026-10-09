@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2JED",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "08a6ff8e5772fe890216bd0e53f21d5ae2231fbd28b43b6574e42ab52e884b2d",
+  "coordinate_bytes": 647562,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2jed.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "MER",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2JED",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 28,
+      "phospho_atom_count": 40,
+      "min_distance_A": "7.067",
+      "token_chain_id": "B",
+      "token_residue_start": "701",
+      "token_residue_end": "703",
+      "token_residue_start_number": 701,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 703,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

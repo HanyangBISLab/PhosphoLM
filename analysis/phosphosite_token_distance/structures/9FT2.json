@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9FT2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6a33c47b29931d27f6a1c743f6a582e101e815a63b482e8f4a4acd09a4ae8082",
+  "coordinate_bytes": 363708,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ft2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

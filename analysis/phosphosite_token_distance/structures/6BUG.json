@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6BUG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f79a6146f847c1ca46c4442a6fea1beb06a988fe9e7c9fee73b27f289dbde719",
+  "coordinate_bytes": 2916054,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6bug.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5DFP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7e30b784f70a10c522e0d7a3fd4d312d4bc47689212d0d2697540be5779d716f",
+  "coordinate_bytes": 320938,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5dfp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

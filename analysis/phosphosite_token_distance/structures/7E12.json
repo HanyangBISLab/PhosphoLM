@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7E12",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e783dda98ab96917c1799ecd67fef87c6eaa048c581aace0f759c6fd329ce60a",
+  "coordinate_bytes": 369339,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7e12.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

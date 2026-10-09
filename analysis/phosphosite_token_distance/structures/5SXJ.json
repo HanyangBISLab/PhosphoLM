@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5SXJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "93b54e5f0fe0cf15bccfe0cb7abca34994461f33db9fbbb7692b4499797123d5",
+  "coordinate_bytes": 1137792,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sxj.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5SXJ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 17,
+      "phospho_atom_count": 30,
+      "min_distance_A": "8.190",
+      "token_chain_id": "A",
+      "token_residue_start": "301",
+      "token_residue_end": "302",
+      "token_residue_start_number": 301,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 302,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

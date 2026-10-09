@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7KPM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8df1399e153dce5cca8f4d0f6e52d71c3d73dcbe950c165b90edb1136e2a7864",
+  "coordinate_bytes": 530205,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7kpm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

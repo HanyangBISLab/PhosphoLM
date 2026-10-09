@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1KKM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "046071bbdaf63defaed7605679e5cefeddc7ac42dbd3adf9b2241fd033e39ed6",
+  "coordinate_bytes": 672102,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1kkm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

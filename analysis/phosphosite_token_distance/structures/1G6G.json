@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1G6G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "724150b37d5e8d7a939b512f921c9c57c8b75810f6b2b5ddaa7093ec0f661909",
+  "coordinate_bytes": 308664,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1g6g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

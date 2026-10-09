@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6I2C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2dc681f388c1dc69610ee2e5635667edaafd032d8a22957a13941a00bcc6fee5",
+  "coordinate_bytes": 860317,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6i2c.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

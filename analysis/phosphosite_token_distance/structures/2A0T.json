@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2A0T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8a3652be32e9ad2b748f977a170bff9774d5d26b43cef7af8abe6dc19c75a0ff",
+  "coordinate_bytes": 4770600,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2a0t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

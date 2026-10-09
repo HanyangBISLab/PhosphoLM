@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DG2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "213011c227ed975bf0da1053b4c60f458b6f9c69e36ff93f7fa6ff11b7bac7fa",
+  "coordinate_bytes": 681448,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dg2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

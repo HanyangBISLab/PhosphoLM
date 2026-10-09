@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5HZ0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1a9e31a518edd7bc0b85328bda61119073834c56a6fcd5712225bffa193c9007",
+  "coordinate_bytes": 554686,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hz0.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5HZ0",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 16,
+      "min_distance_A": "1.325",
+      "token_chain_id": "A",
+      "token_residue_start": "3",
+      "token_residue_end": "4",
+      "token_residue_start_number": 3,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 4,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

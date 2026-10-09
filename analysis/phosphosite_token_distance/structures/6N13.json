@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6N13",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9a476d49d222f1eb828386da9b3143e040aa91d0b30d80f98b68f1d66f31fe13",
+  "coordinate_bytes": 5917805,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6n13.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VEP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6N13",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 50,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.090",
+      "token_chain_id": "A",
+      "token_residue_start": "17",
+      "token_residue_end": "19",
+      "token_residue_start_number": 17,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 19,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

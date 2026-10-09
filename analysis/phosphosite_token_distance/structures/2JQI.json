@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2JQI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3d2882642050eb19a989dff7977293d4556c5c94c8c0f26061d53d84f183aa0a",
+  "coordinate_bytes": 4771440,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2jqi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

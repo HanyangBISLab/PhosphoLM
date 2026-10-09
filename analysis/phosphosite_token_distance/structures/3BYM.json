@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3BYM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ec3710098860351c7c6a1bd4f4fc00d16fd1882b72dfef4aecff890f4cbc7fa7",
+  "coordinate_bytes": 307899,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3bym.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

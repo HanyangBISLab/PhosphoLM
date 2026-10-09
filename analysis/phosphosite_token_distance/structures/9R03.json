@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9R03",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eaee78a84f0ab14db3270af222eecd8f2a385ed23647c49d60a1ef12f9308f57",
+  "coordinate_bytes": 7582703,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9r03.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 32,
+    "no_phospho_atoms": 64,
+    "no_token_atoms": 33
+  },
+  "location_warnings": []
+}

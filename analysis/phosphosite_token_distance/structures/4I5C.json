@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4I5C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "78ca5c1574cedb5df9c0793d8a2e8f75712d399538f2e22e84b67ce443d482cb",
+  "coordinate_bytes": 570760,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4i5c.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

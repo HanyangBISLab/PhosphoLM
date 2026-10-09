@@ -1,0 +1,58 @@
+{
+  "pdb_id": "7RNV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9b465997caea8966c4076e25f195e91bc3def0242e562a51543bb2277739a6f7",
+  "coordinate_bytes": 176244,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7rnv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7RNV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.777",
+      "token_chain_id": "A",
+      "token_residue_start": "696",
+      "token_residue_end": "698",
+      "token_residue_start_number": 696,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 698,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "MER",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7RNV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 28,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.699",
+      "token_chain_id": "A",
+      "token_residue_start": "678",
+      "token_residue_end": "680",
+      "token_residue_start_number": 678,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 680,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 2,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

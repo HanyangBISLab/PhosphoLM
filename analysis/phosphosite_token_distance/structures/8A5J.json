@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8A5J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3ad00a4d551abec93bf0dba7e09e42d61df8bab8b24827d03ef7b5adb3b90200",
+  "coordinate_bytes": 490694,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8a5j.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8A5J",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.393",
+      "token_chain_id": "B",
+      "token_residue_start": "303",
+      "token_residue_end": "305",
+      "token_residue_start_number": 303,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 305,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

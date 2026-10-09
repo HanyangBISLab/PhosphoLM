@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6W3C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3e69a729c489db91b38010f90be42e5df3ba743d895b6dd884b8aaf5a12474a0",
+  "coordinate_bytes": 2579569,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6w3c.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

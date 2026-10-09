@@ -1,0 +1,57 @@
+{
+  "pdb_id": "1NZV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5a7664c5cbdfe46dcdd8e12a8fa5e24c2ff5eb21be45e1f7461a0f2c218fb9ee",
+  "coordinate_bytes": 238778,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1nzv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1NZV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.235",
+      "token_chain_id": "B",
+      "token_residue_start": "344",
+      "token_residue_end": "345",
+      "token_residue_start_number": 344,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 345,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "VPA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1NZV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 20,
+      "phospho_atom_count": 32,
+      "min_distance_A": "1.324",
+      "token_chain_id": "C",
+      "token_residue_start": "503",
+      "token_residue_end": "505",
+      "token_residue_start_number": 503,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 505,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5T1T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d072f3b4d4ec4b862994db54868a3e7a148e32480e3e6396ed2b3f82ff6d7259",
+  "coordinate_bytes": 983036,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5t1t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

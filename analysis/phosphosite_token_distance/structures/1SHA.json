@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SHA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5c6ea83e957575f1128178cc9fc0ff05d7507930547f709c9836fbb1f272bb18",
+  "coordinate_bytes": 141368,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1sha.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

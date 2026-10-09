@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6DBM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "679cfbae81208e7b528a96ec6ccdf77bf5aeeb9cf390beb7a155f0cb4d6027b4",
+  "coordinate_bytes": 314944,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6dbm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

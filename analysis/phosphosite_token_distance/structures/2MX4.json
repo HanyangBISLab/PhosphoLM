@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2MX4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "338385373a22aa5d1e1e915262052e74382fcfe98526c86a9c833cf43ee02ecc",
+  "coordinate_bytes": 1261412,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2MX4.cif",
+    "resolved_url": "https://files.rcsb.org/download/2MX4.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

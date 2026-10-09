@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9PST",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3ab96e5631a3107c88565b6d4ae4875b6ce18f1f03ebefccbc244d8a462a0c4c",
+  "coordinate_bytes": 1144049,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9pst.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

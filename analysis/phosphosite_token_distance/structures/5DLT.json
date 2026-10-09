@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5DLT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b6db60abc1d0358376f469284558fea0d8ae4e01ac08bcfd3d708740e032723d",
+  "coordinate_bytes": 1411627,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5dlt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

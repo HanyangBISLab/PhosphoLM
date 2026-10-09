@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3KVW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1ab62ae76648fcf114038d32d8d300e1e3128a91204b8743c479687285818b96",
+  "coordinate_bytes": 416345,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3kvw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

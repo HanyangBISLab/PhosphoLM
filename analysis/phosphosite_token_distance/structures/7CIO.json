@@ -1,0 +1,38 @@
+{
+  "pdb_id": "7CIO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "14347465f0c06ef709e400f90fb6f55ab27f71f86f9191b664c47f0e26628ede",
+  "coordinate_bytes": 296684,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7cio.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7CIO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 20,
+      "phospho_atom_count": 16,
+      "min_distance_A": "8.663",
+      "token_chain_id": "A",
+      "token_residue_start": "665",
+      "token_residue_end": "667",
+      "token_residue_start_number": 665,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 667,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

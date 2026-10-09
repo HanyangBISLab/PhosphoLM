@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2G9X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b98330759eebd6eb81dff54cf95a42e481cb6a8e565c1aa1a98fa0c01e1c2230",
+  "coordinate_bytes": 933270,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2g9x.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

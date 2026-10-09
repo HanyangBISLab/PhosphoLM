@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6YA8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "407a98b6b17a67d89bb96701ba70076266214fc18503a7a0f614dca49561b52a",
+  "coordinate_bytes": 878356,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ya8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

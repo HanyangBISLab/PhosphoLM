@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3SDM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f6719f402d9623862426e319e4f18c0b3716a85dd00ea9d590cae825b2c5f45e",
+  "coordinate_bytes": 2393106,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/3SDM.cif",
+    "resolved_url": "https://files.rcsb.org/download/3SDM.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

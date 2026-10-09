@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7SXF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ed2317fc6f007f885db92675223fc8507783b8ba3e93da3730d792597131fc7e",
+  "coordinate_bytes": 668484,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7sxf.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7SXF",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 16,
+      "min_distance_A": "9.401",
+      "token_chain_id": "A",
+      "token_residue_start": "245",
+      "token_residue_end": "247",
+      "token_residue_start_number": 245,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 247,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

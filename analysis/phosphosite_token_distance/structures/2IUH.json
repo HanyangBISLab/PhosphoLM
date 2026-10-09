@@ -1,0 +1,20 @@
+{
+  "pdb_id": "2IUH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "924f4e8bdfa5c6dc5025b9fecfd7a120ae52eecf738dcb750fe34b193c8d33c3",
+  "coordinate_bytes": 164301,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2IUH.cif",
+    "resolved_url": "https://files.rcsb.org/download/2IUH.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

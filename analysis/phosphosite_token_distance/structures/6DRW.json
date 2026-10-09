@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6DRW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0242f5910a248ad38da97eb17b7fcb7931c73b5da422a6b5228e9f904bd8f33b",
+  "coordinate_bytes": 321779,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6drw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

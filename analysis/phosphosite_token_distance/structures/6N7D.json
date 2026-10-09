@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6N7D",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4b9f7a9dff577f19c3cc82533d5255075a76344df4df4c5c2375be3079d8dd31",
+  "coordinate_bytes": 332120,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6n7d.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

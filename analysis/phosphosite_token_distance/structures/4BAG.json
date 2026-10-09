@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4BAG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bf85f1a3dfbffda63999db36682cdda538edb7b6be6d5841e03606b4a6aa7dda",
+  "coordinate_bytes": 985255,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bag.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "FGG",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4BAG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 68,
+      "phospho_atom_count": 26,
+      "min_distance_A": "4.134",
+      "token_chain_id": "A",
+      "token_residue_start": "950",
+      "token_residue_end": "952",
+      "token_residue_start_number": 950,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 952,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

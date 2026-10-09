@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ATH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3915ec08ca35883c319ab73b87f44f0f34499cfd8403ba6a7e09578fb6bf3e55",
+  "coordinate_bytes": 990852,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ath.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

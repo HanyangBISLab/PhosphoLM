@@ -1,0 +1,58 @@
+{
+  "pdb_id": "9KS5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "85576bdf4b762fde321045bc769520a564c405270c0ae08f12dcdd54ff610afb",
+  "coordinate_bytes": 1055622,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ks5.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9KS5",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 32,
+      "min_distance_A": "4.257",
+      "token_chain_id": "B",
+      "token_residue_start": "374",
+      "token_residue_end": "375",
+      "token_residue_start_number": 374,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 375,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "VAD",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9KS5",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 32,
+      "min_distance_A": "9.891",
+      "token_chain_id": "B",
+      "token_residue_start": "379",
+      "token_residue_end": "381",
+      "token_residue_start_number": 379,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 381,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RE6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "79b743edb718b9de11010ef923bad0ca6215d6b007797d6fba081adf86c2c86f",
+  "coordinate_bytes": 715753,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9re6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

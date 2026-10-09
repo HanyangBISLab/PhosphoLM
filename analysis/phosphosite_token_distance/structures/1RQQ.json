@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1RQQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "91f334e0656c45476937c9a1c986b69bbfc9470a8b6c9474854424b9c4c89f57",
+  "coordinate_bytes": 732945,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1rqq.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1RQQ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 64,
+      "phospho_atom_count": 96,
+      "min_distance_A": "6.001",
+      "token_chain_id": "C",
+      "token_residue_start": "469",
+      "token_residue_end": "470",
+      "token_residue_start_number": 469,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 470,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

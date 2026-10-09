@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9FPD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "42eb3f9b786c63911a9799da8ebc3e37349e352c4a682c18379803034245db37",
+  "coordinate_bytes": 550881,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9fpd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

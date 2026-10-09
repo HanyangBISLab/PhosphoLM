@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7SUD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a1e51a525b52c44f35e3e981785f776c97843a1308d5fe68e5f1ec2cb8510f9b",
+  "coordinate_bytes": 3344620,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7sud.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 51,
+    "no_phospho_atoms": 52,
+    "outside_cutoff": 26
+  },
+  "location_warnings": []
+}

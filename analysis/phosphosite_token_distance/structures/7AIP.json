@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7AIP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "244a882ae98b677d72e2b123eb734a16536620f56b371d09e04a63e52afd5802",
+  "coordinate_bytes": 1680345,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7aip.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7AIP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 40,
+      "min_distance_A": "7.628",
+      "token_chain_id": "B",
+      "token_residue_start": "808",
+      "token_residue_end": "809",
+      "token_residue_start_number": 808,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 809,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 16,
+    "no_phospho_atoms": 34,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

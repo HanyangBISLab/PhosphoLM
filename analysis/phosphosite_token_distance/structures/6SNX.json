@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6SNX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3bc749349ed8e16c9fbf689928c6ef1334e6b07f15e8e80eb66b213bcd368e01",
+  "coordinate_bytes": 984674,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6snx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

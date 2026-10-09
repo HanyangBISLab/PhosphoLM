@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7QQL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9a4a6a6432353a9ea66a82afcb136ce711421ecd6837f76e2a707715e3eab95e",
+  "coordinate_bytes": 1898885,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7qql.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7QQL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 93,
+      "phospho_atom_count": 30,
+      "min_distance_A": "9.108",
+      "token_chain_id": "C",
+      "token_residue_start": "209",
+      "token_residue_end": "211",
+      "token_residue_start_number": 209,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 211,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

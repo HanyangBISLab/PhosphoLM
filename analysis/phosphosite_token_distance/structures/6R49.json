@@ -1,0 +1,17 @@
+{
+  "pdb_id": "6R49",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b35c4ab4030915713e53054aeb2b740c01c423c16133a209f68e967f4c05409c",
+  "coordinate_bytes": 498442,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6r49.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 9
+  },
+  "location_warnings": []
+}

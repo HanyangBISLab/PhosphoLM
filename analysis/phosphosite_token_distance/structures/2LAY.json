@@ -1,0 +1,20 @@
+{
+  "pdb_id": "2LAY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "59ccb3f2bab5b4eb13b7ba127fcaab001f1d95c7bc78c89112dbdcf7c0223910",
+  "coordinate_bytes": 1352158,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LAY.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LAY.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

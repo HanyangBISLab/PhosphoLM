@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6TWX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "af1f71bcc218f701742c4e15d1ac80c3764340c2f05fd24fab5f87724062f248",
+  "coordinate_bytes": 1462342,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6twx.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GGD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6TWX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 64,
+      "phospho_atom_count": 22,
+      "min_distance_A": "7.435",
+      "token_chain_id": "A",
+      "token_residue_start": "488",
+      "token_residue_end": "490",
+      "token_residue_start_number": 488,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 490,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

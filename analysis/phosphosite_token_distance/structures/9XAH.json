@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9XAH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6f1e463bf7a99ac149a6b3157b8fc14c93a86fdbda686ca65c0e252f99c601e5",
+  "coordinate_bytes": 28776110,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9xah.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 42,
+    "no_phospho_atoms": 84,
+    "no_token_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5YF4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c4eef2c08b4637c573bd7edfe08f9e950ce279b89f28cc2d81b47f303ac61534",
+  "coordinate_bytes": 293812,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5yf4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5YF4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 22,
+      "min_distance_A": "3.938",
+      "token_chain_id": "A",
+      "token_residue_start": "106",
+      "token_residue_end": "107",
+      "token_residue_start_number": 106,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 107,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

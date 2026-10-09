@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3R55",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bf14ce80c1ba6d0a4f57df30e11127e1c4ccc49252b6bcb30b2f2c430be231c4",
+  "coordinate_bytes": 632397,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3r55.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

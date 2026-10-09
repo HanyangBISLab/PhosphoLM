@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OQO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ed6230059f9a328d4f41974da3457c5dde2e0c9d8ea62462d03a63dcd79faafe",
+  "coordinate_bytes": 800154,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3oqo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

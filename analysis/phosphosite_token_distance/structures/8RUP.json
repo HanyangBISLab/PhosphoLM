@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8RUP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9678bf7a9154ae60cfd90f9866911dbba0f97636be676bbc38d6bb7c263a1716",
+  "coordinate_bytes": 2944565,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8rup.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8RUP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 60,
+      "phospho_atom_count": 17,
+      "min_distance_A": "6.800",
+      "token_chain_id": "K",
+      "token_residue_start": "60",
+      "token_residue_end": "61",
+      "token_residue_start_number": 60,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 61,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 20,
+    "outside_cutoff": 9,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

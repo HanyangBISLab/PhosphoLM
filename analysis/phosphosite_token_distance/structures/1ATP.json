@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1ATP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "66a0587c6a3b95e73a87e3e9d764eb3318ec13f8514b22242af682097babb4f2",
+  "coordinate_bytes": 391464,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1atp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

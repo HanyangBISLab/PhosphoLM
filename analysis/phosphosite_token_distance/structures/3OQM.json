@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OQM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "62f81ebc6c41b9771eb514245aedc96bfdc6fb1757c015a5b6418671db26543b",
+  "coordinate_bytes": 792078,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3oqm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1W98",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f6943201f8cec0ea025b784ae01d0025b5f63e8014b3fa6b0533023cd09fbaae",
+  "coordinate_bytes": 586876,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1w98.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

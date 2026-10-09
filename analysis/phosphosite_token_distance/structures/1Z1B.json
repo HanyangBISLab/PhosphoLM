@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1Z1B",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b02565f1a35c1390d5ad431a543afcb3cef44a0b5e08d01462342aa633c2cc1f",
+  "coordinate_bytes": 870161,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1z1b.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

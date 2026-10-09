@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3AG3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "70eb79aa77ccc951e2514171fa1e64a1dc5c9798a0da5605a83a55d84f88bfca",
+  "coordinate_bytes": 3537653,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ag3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4NTS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6bd140087a57aa6af1018e10e92c8d586072e54c014adcdd83f8097541431a7c",
+  "coordinate_bytes": 1029990,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4nts.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

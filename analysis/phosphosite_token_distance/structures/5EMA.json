@@ -1,0 +1,57 @@
+{
+  "pdb_id": "5EMA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b33f5501e4bca8020ba3f28bbed0f946333d47c7e8943242186dd247d63d5597",
+  "coordinate_bytes": 236725,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ema.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5EMA",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 13,
+      "min_distance_A": "7.779",
+      "token_chain_id": "A",
+      "token_residue_start": "120",
+      "token_residue_end": "122",
+      "token_residue_start_number": 120,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 122,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "GDR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5EMA",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 43,
+      "phospho_atom_count": 13,
+      "min_distance_A": "9.021",
+      "token_chain_id": "A",
+      "token_residue_start": "98",
+      "token_residue_end": "100",
+      "token_residue_start_number": 98,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 100,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

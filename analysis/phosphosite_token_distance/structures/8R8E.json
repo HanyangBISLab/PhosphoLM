@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8R8E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "317eaa10254a88a0b061211d58fa1ff5ec14af56308acaf0e6b070fd665b9597",
+  "coordinate_bytes": 2470933,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8r8e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

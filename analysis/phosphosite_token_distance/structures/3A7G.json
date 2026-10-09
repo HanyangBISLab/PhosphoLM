@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3A7G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "861606d4230a80036851ad8033bc5a2b2a7f9bfd17ecd431da75058802e65c7c",
+  "coordinate_bytes": 557346,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3a7g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

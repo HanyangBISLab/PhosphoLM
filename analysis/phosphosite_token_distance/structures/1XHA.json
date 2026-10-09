@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1XHA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bfc996d32afb5ea4e16f04026068a6beb49dc05ed5a7308668f681c26d279006",
+  "coordinate_bytes": 363005,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1xha.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

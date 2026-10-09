@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4E6D",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "be73f3ee5a20473ee1eccef560e2a3afba50b57fbf81177b8f8bbc3075f80559",
+  "coordinate_bytes": 986149,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4e6d.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

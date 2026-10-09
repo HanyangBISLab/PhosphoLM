@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4O56",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d834e42475bb75217db35a8bb75b725910c872bd17218ca8cf2608fd56df3373",
+  "coordinate_bytes": 488006,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4o56.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

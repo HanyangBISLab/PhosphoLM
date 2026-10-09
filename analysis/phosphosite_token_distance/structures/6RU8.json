@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6RU8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8b5836bd1be86c812d734c50e3ada73861785e1fbb6ced0f8bf4032a7228ba0a",
+  "coordinate_bytes": 2053652,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ru8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

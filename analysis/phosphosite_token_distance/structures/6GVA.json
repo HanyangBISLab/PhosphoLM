@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6GVA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4d9a11e23f881a559b46dacc49d721fc20fd24c3412c5b6bed9d35306cb3c1c8",
+  "coordinate_bytes": 537311,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6gva.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

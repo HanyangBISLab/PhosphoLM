@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6GKG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3fedaff2017f4423744eceb100efed78d28b0c47ab29f2cbb3006e06e6d0586e",
+  "coordinate_bytes": 1436649,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6gkg.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6GKG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 208,
+      "phospho_atom_count": 60,
+      "min_distance_A": "2.297",
+      "token_chain_id": "G",
+      "token_residue_start": "55",
+      "token_residue_end": "57",
+      "token_residue_start_number": 55,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 57,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 7,
+      "token_occurrence_count": 8
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

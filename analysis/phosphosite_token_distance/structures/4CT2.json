@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4CT2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cdd4476abcdb743aeaa60ae86fa89ecdfe842fef7094cd2dd89b3caa0d190423",
+  "coordinate_bytes": 752539,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ct2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2VXC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ccbe33dd3a1de332cd4f31ff396e52fe6a9f122355bed39a1d4204bf03b1ea53",
+  "coordinate_bytes": 719711,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vxc.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LEA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2VXC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 10,
+      "min_distance_A": "6.691",
+      "token_chain_id": "A",
+      "token_residue_start": "621",
+      "token_residue_end": "623",
+      "token_residue_start_number": 621,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 623,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "no_token_atoms": 117,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

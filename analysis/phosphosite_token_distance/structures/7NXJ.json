@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7NXJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c6b7f4309840a7d371ee108728a975eff10a7902f29da90b86b600feee4b8b2c",
+  "coordinate_bytes": 1853578,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7nxj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

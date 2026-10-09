@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4PU3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3acd2e4f210f7fa2fe92159446a9ce8126ed83d3ee4c724524b111a2fedb8913",
+  "coordinate_bytes": 1813336,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4pu3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4PU3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 82,
+      "phospho_atom_count": 27,
+      "min_distance_A": "4.642",
+      "token_chain_id": "B",
+      "token_residue_start": "141",
+      "token_residue_end": "143",
+      "token_residue_start_number": 141,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 143,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,45 @@
+{
+  "pdb_id": "4WBB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "97e218cf4739692ea97d2fe70e1e50bdcc0c78db4b98fe24447a826085aaf3f1",
+  "coordinate_bytes": 602361,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4wbb.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4WBB",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 8,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.471",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 13,
+    "no_phospho_atoms": 7,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "DEE",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

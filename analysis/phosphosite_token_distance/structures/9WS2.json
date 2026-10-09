@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9WS2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f558bd4747864b60743f342c20b8a4f3d2915b7fb03c1ee03250197b02f8e2e5",
+  "coordinate_bytes": 370005,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9WS2.cif",
+    "resolved_url": "https://files.rcsb.org/download/9WS2.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2NZV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fc098c9125f0419c9c2a6661446427152cdbc9b40f633d1bee960b3b87efae12",
+  "coordinate_bytes": 332856,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2nzv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

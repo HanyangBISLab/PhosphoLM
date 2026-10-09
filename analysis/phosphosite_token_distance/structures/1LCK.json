@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1LCK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7cbf1eba3105cec574e8c0985c3b953b69b0cb3cc040671da0f46e60567728dc",
+  "coordinate_bytes": 189441,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1lck.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1LCK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.807",
+      "token_chain_id": "A",
+      "token_residue_start": "152",
+      "token_residue_end": "154",
+      "token_residue_start_number": 152,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 154,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,38 @@
+{
+  "pdb_id": "2CFJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "39dfbb2e6066e574eb5a2e0a61a7720c5508136f7b444ecc929eba29e159e08e",
+  "coordinate_bytes": 275896,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2cfj.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2CFJ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 41,
+      "phospho_atom_count": 13,
+      "min_distance_A": "2.629",
+      "token_chain_id": "A",
+      "token_residue_start": "10",
+      "token_residue_end": "11",
+      "token_residue_start_number": 10,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 11,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

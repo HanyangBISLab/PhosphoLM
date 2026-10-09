@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8QT5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5b2a6a22242bb7d69345b644a0898830cada1d4b6435c1a88dbef67ed2a2563f",
+  "coordinate_bytes": 4269673,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8qt5.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8QT5",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 371,
+      "phospho_atom_count": 98,
+      "min_distance_A": "2.389",
+      "token_chain_id": "G",
+      "token_residue_start": "181",
+      "token_residue_end": "183",
+      "token_residue_start_number": 181,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 183,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 7,
+      "token_occurrence_count": 7
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

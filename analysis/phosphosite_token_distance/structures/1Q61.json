@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1Q61",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "be32c685cfd2ab224b36129c9a977286c3399609ff8bb79b15d526fc101c7d27",
+  "coordinate_bytes": 362585,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1q61.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

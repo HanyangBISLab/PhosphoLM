@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1B4G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "be5def0fb20acf26bd4b1e8d19163ef52fc9e8e3591083f4ac60b1bf43d90313",
+  "coordinate_bytes": 960056,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1B4G.cif",
+    "resolved_url": "https://files.rcsb.org/download/1B4G.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

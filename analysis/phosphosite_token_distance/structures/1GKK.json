@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1GKK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3d361ddc569270db358a35b3e7e82e5ef379b35f37b8d0ac2c322c4237537fc0",
+  "coordinate_bytes": 645688,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1gkk.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "FGG",
+      "phospho_monomer": "SEP",
+      "pdb_id": "1GKK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 38,
+      "phospho_atom_count": 14,
+      "min_distance_A": "4.149",
+      "token_chain_id": "B",
+      "token_residue_start": "950",
+      "token_residue_end": "952",
+      "token_residue_start_number": 950,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 952,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

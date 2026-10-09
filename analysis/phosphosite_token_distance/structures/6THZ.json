@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6THZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "be3f8be2e10f99140bd0eaa1526a99340429f26e7bf0dab131e3b81b5059f25c",
+  "coordinate_bytes": 895774,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6thz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

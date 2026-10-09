@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7C3N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "387a1a64063742a1cd1eb30557a1d0de5bc91c27bcca7016ef2291112a0ab7e6",
+  "coordinate_bytes": 601375,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7c3n.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

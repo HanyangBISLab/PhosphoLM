@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3FY0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "06acc6e2f27d0515f5695ed223699b6c7bd7e895ce33557e3e6483fe22d8abb6",
+  "coordinate_bytes": 295167,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3fy0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

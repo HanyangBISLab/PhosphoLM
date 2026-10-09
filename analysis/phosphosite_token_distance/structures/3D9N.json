@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3D9N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "970b31a25a6a69f973fb8b239fbe46be9ec75251d789f75a236e70856a3b2086",
+  "coordinate_bytes": 339193,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3d9n.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3D9N",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 45,
+      "phospho_atom_count": 40,
+      "min_distance_A": "9.272",
+      "token_chain_id": "B",
+      "token_residue_start": "104",
+      "token_residue_end": "106",
+      "token_residue_start_number": 104,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 106,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

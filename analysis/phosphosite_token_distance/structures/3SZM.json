@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3SZM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "caeb66f1bd891a84cde164191b33e0a53c50d7cfc3d52bf595933a4c344d1350",
+  "coordinate_bytes": 3514871,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3szm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

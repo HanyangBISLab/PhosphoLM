@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2KB3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7f858e4e8babeb4a842a34738a3b6baa48eb6933bb9cb7c5acb759845b2ce237",
+  "coordinate_bytes": 5959219,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2KB3.cif",
+    "resolved_url": "https://files.rcsb.org/download/2KB3.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

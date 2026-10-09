@@ -1,0 +1,20 @@
+{
+  "pdb_id": "1I8G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "74ffb7679a56e1e27c4954800ebbd908fd15c1c75be4c3998b49a1c40d283fb4",
+  "coordinate_bytes": 733246,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1I8G.cif",
+    "resolved_url": "https://files.rcsb.org/download/1I8G.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

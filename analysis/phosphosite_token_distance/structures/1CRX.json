@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1CRX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b3de525dfeb36938014f1e02d662314b76be8a0fd23a0a439eee70bb662121df",
+  "coordinate_bytes": 796794,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1crx.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1CRX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 15,
+      "min_distance_A": "3.940",
+      "token_chain_id": "B",
+      "token_residue_start": "295",
+      "token_residue_end": "297",
+      "token_residue_start_number": 295,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 297,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

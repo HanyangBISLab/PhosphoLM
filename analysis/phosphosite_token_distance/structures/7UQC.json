@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7UQC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e631168e0f876b9a82d216fac616401ee70075a541f39b2c2f016c8ae380b220",
+  "coordinate_bytes": 1628619,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7uqc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2VRX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b142bea371ce61a0f06cfb7a66c24e3807b689103b36afb9f69ecf19cbb77a85",
+  "coordinate_bytes": 653891,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vrx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

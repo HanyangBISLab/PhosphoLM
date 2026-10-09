@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9D9M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7f513723e98e304d356a94949891459e1a877dbe629c27a9d1f75a6f0d2aa2b5",
+  "coordinate_bytes": 510802,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9d9m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

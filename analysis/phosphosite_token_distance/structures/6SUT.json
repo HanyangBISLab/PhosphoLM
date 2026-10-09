@@ -1,0 +1,57 @@
+{
+  "pdb_id": "6SUT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f82e6413abece95e7c31b222902ffd998309426bbe71b5748e131711ef2f9cbf",
+  "coordinate_bytes": 937201,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6sut.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6SUT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 31,
+      "phospho_atom_count": 17,
+      "min_distance_A": "3.175",
+      "token_chain_id": "A",
+      "token_residue_start": "394",
+      "token_residue_end": "395",
+      "token_residue_start_number": 394,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 395,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "VPA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6SUT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 17,
+      "min_distance_A": "8.754",
+      "token_chain_id": "A",
+      "token_residue_start": "492",
+      "token_residue_end": "494",
+      "token_residue_start_number": 492,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 494,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

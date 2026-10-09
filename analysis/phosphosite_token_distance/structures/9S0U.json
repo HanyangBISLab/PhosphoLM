@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9S0U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "153c6175635201eb0cf3fdbc39b39e9596164b17330bac64101851ed86ee824d",
+  "coordinate_bytes": 8792876,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9s0u.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 76,
+    "outside_cutoff": 38,
+    "no_token_atoms": 15
+  },
+  "location_warnings": []
+}

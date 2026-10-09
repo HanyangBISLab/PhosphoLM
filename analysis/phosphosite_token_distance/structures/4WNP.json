@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4WNP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "31e44a50afa61c4bacbed570c9b59303fdd81974e2046b5b9845add5df57a1d7",
+  "coordinate_bytes": 1757489,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4wnp.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4WNP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 84,
+      "phospho_atom_count": 44,
+      "min_distance_A": "9.096",
+      "token_chain_id": "D",
+      "token_residue_start": "199",
+      "token_residue_end": "201",
+      "token_residue_start_number": 199,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 201,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6NMF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b349ebf7d94799fa85f4101797959073f601089cb700d0433fd0575eb4da6847",
+  "coordinate_bytes": 3412530,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6nmf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

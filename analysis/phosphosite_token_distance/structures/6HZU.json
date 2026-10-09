@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6HZU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ebe62ee29799555fe02b6ee489dc3323da95a31023a28ab4bb7c01d6b03561fd",
+  "coordinate_bytes": 981141,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hzu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

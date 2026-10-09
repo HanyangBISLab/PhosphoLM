@@ -1,0 +1,17 @@
+{
+  "pdb_id": "1Q1S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b32e60d8f80c9c617e7601cc48430dde1cdae894308fefe22a23821c3869b1ca",
+  "coordinate_bytes": 422328,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1q1s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 9
+  },
+  "location_warnings": []
+}

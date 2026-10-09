@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1JSU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7a3b87b4954130832a428d12ff5eb47fa83fd5c85b78444807f6871610ad6c5b",
+  "coordinate_bytes": 552196,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1jsu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

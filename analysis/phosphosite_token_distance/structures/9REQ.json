@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9REQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "713284c06afda0e1c8fd20770d5a63435a4a578a93669c418ded5489697a313f",
+  "coordinate_bytes": 436672,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9req.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

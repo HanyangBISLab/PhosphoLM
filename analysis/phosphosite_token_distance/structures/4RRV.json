@@ -1,0 +1,16 @@
+{
+  "pdb_id": "4RRV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6b08f3a29b4e202fedc846bd8ed33d8a5d5f81a3d2e505df133282546b890eda",
+  "coordinate_bytes": 846226,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4rrv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

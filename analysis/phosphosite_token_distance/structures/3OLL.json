@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OLL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c27775c5762e1635bf5140f09d308f8e08627eadbfd221ea119fa04771da49dd",
+  "coordinate_bytes": 892556,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3oll.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

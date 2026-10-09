@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8XKS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "592c3329446a02fc13e8ae412e41c082e3d1ee28b8c0d27f972dd001849b33c8",
+  "coordinate_bytes": 7608296,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8xks.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 37,
+    "no_phospho_atoms": 74,
+    "no_token_atoms": 18
+  },
+  "location_warnings": []
+}

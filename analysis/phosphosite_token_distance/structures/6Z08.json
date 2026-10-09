@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6Z08",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "994ad76b1496f8c48f75327ca8910de3d0b0839b3e3acf267af9feee77160716",
+  "coordinate_bytes": 941655,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6z08.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

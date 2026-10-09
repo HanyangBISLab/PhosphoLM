@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9BZG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fbf48901ce828c52b2942b0e2ab4638eee74024a2a3efb5e3fd90637dd909d3c",
+  "coordinate_bytes": 341981,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9bzg.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9BZG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.284",
+      "token_chain_id": "A",
+      "token_residue_start": "257",
+      "token_residue_end": "259",
+      "token_residue_start_number": 257,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 259,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

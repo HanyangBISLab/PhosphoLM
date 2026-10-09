@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2C6T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a3fd45a27625498784842b8b76e507ab2d6df4d9ac8e0a1bdd0b4c511be833e4",
+  "coordinate_bytes": 972904,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2c6t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

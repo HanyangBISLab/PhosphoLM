@@ -1,0 +1,59 @@
+{
+  "pdb_id": "5GMV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "307f488f77c1cff7074014b3c26e69eba2c5cb7d895b9d3c33d18fb0bb7f1edd",
+  "coordinate_bytes": 278616,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5GMV.cif",
+    "resolved_url": "https://files.rcsb.org/download/5GMV.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5GMV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 20,
+      "min_distance_A": "7.133",
+      "token_chain_id": "B",
+      "token_residue_start": "22",
+      "token_residue_end": "24",
+      "token_residue_start_number": 22,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 24,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5GMV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 20,
+      "min_distance_A": "5.538",
+      "token_chain_id": "B",
+      "token_residue_start": "9",
+      "token_residue_end": "11",
+      "token_residue_start_number": 9,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 11,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,45 @@
+{
+  "pdb_id": "4CSE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "28670b7e49e4a822659ae6a8e807af524532e43905a0ac416719ff6b30ebde9e",
+  "coordinate_bytes": 237845,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4cse.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4CSE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 79,
+      "phospho_atom_count": 20,
+      "min_distance_A": "1.326",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "ELD",
+      "monomer": "SEP",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

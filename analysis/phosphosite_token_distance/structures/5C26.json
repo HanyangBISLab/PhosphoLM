@@ -1,0 +1,60 @@
+{
+  "pdb_id": "5C26",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3c5294027e4526ae6906e8af7af10985eb83a41ed2714caa95685ef44044151f",
+  "coordinate_bytes": 321359,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5C26.cif",
+    "resolved_url": "https://files.rcsb.org/download/5C26.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LGP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5C26",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 19,
+      "phospho_atom_count": 48,
+      "min_distance_A": "9.474",
+      "token_chain_id": "A",
+      "token_residue_start": "453",
+      "token_residue_end": "455",
+      "token_residue_start_number": 453,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 455,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "AAR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5C26",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 48,
+      "min_distance_A": "3.056",
+      "token_chain_id": "A",
+      "token_residue_start": "496",
+      "token_residue_end": "498",
+      "token_residue_start_number": 496,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 498,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 2,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

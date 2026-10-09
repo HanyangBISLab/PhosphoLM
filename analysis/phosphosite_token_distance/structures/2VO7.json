@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2VO7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "49f42944dfc292040aedf075976fbb90b26de069d71cd982b0a7f5ba1eb2462f",
+  "coordinate_bytes": 414521,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vo7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6T80",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e696902cc5008ae721d70bd77ac093158e6014b5b49ff3e6fb1064aac2d9ea78",
+  "coordinate_bytes": 1377370,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6t80.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6T80",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 40,
+      "min_distance_A": "3.248",
+      "token_chain_id": "B",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

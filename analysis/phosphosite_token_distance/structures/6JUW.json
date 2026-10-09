@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6JUW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "24c41028900036023210980735431a8e81f3af3376e6fb27e9c4985ef2eb6729",
+  "coordinate_bytes": 6304534,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6juw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

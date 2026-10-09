@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3F5P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1819617d38b453414f52e3e7685a1d5a19469d25d5af628a2417579ba115dcc1",
+  "coordinate_bytes": 4082083,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3f5p.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "3F5P",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 368,
+      "phospho_atom_count": 708,
+      "min_distance_A": "9.750",
+      "token_chain_id": "H",
+      "token_residue_start": "1152",
+      "token_residue_end": "1154",
+      "token_residue_start_number": 1152,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1154,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 8,
+      "token_occurrence_count": 16
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

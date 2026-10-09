@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4MQ1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "83714d8a4105c264db22cf024afbf871cf8c417983e93b6d3cfec943af96e0e3",
+  "coordinate_bytes": 1244190,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4mq1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8I03",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9ebe337a97047d5aa7b16757dcac077869871b6c44e4df4fe7d1e7a99da63860",
+  "coordinate_bytes": 3307649,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i03.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 19,
+    "no_phospho_atoms": 38,
+    "no_token_atoms": 72
+  },
+  "location_warnings": []
+}

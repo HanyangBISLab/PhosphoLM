@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5NJK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5404361145788586b2995194ac9a7812ee8fbdc07fb8ed132ce9158869e6d3c7",
+  "coordinate_bytes": 1345627,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5njk.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5NJK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 132,
+      "phospho_atom_count": 96,
+      "min_distance_A": "3.416",
+      "token_chain_id": "B",
+      "token_residue_start": "139",
+      "token_residue_end": "140",
+      "token_residue_start_number": 139,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 140,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

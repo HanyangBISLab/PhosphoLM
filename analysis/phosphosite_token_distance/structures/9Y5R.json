@@ -1,0 +1,41 @@
+{
+  "pdb_id": "9Y5R",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cc2f9c6e95ca733914ffb6ce3d072290f2c3d2c27bbcf7a529a35f6afe26193d",
+  "coordinate_bytes": 3510026,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9Y5R.cif",
+    "resolved_url": "https://files.rcsb.org/download/9Y5R.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9Y5R",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 20,
+      "min_distance_A": "4.624",
+      "token_chain_id": "M",
+      "token_residue_start": "62",
+      "token_residue_end": "64",
+      "token_residue_start_number": 62,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 64,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 32,
+    "no_token_atoms": 81,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

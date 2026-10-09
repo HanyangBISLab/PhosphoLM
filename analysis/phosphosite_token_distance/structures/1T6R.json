@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1T6R",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c41a7b661b864d6be13b1cdcd6f7d812050ecb644856b5e37a666d9f905fd13b",
+  "coordinate_bytes": 3299405,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1T6R.cif",
+    "resolved_url": "https://files.rcsb.org/download/1T6R.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

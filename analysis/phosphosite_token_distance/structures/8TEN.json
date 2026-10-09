@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8TEN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "df7cddd42855627ee4a0c7650df804097fd8e6001c65130f2056a5aecedff8ce",
+  "coordinate_bytes": 849641,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ten.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

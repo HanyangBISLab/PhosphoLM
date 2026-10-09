@@ -1,0 +1,38 @@
+{
+  "pdb_id": "1A07",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f62e4480c113ad3870ec3a94a2e7499e72a1b082e097a463971b3b5f759b39e3",
+  "coordinate_bytes": 262889,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1a07.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1A07",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 24,
+      "min_distance_A": "9.883",
+      "token_chain_id": "B",
+      "token_residue_start": "241",
+      "token_residue_end": "242",
+      "token_residue_start_number": 241,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 242,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

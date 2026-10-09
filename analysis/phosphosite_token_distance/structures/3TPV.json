@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3TPV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9527489bc4e770ab10ac0efaa1e6d1aa65012e57562316543e6b1cbb01ba56cb",
+  "coordinate_bytes": 399456,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3tpv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

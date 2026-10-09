@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8GVM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f7a5e6c4775f85c4138bb57382f5981cf2dfffc419a665e6a56ccb07528f4ff0",
+  "coordinate_bytes": 6152743,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8gvm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

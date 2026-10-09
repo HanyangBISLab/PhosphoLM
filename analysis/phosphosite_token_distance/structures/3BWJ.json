@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3BWJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b7d8f2204ac0a0410ebc9007e3a915c5e4a91fa53f6a414f3eb8c316b1a5714b",
+  "coordinate_bytes": 376791,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3bwj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

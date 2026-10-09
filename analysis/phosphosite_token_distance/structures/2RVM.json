@@ -1,0 +1,41 @@
+{
+  "pdb_id": "2RVM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "359344a06bd684bc09ee1cd9112b4d59750dadb9cf906ff84c2b9e9c94a0c1a0",
+  "coordinate_bytes": 2499333,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2RVM.cif",
+    "resolved_url": "https://files.rcsb.org/download/2RVM.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2RVM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 56,
+      "min_distance_A": "4.039",
+      "token_chain_id": "A",
+      "token_residue_start": "16",
+      "token_residue_end": "18",
+      "token_residue_start_number": 16,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 18,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

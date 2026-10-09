@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5OAT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cd21998824ccf4ac00945c6e5c982f746a0c338ea4c9d1e409ab9595aa5f7478",
+  "coordinate_bytes": 1804173,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5oat.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5OAT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 96,
+      "phospho_atom_count": 60,
+      "min_distance_A": "2.522",
+      "token_chain_id": "E",
+      "token_residue_start": "424",
+      "token_residue_end": "425",
+      "token_residue_start_number": 424,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 425,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 5,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

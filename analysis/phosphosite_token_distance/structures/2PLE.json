@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2PLE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7c3817e6ec3f0c0a98d3d382698c31296f5e9c0fba97558b1fc3950069f48034",
+  "coordinate_bytes": 3198626,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2PLE.cif",
+    "resolved_url": "https://files.rcsb.org/download/2PLE.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

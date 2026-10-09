@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IAI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1bc8c6c64c10a3f9eaab372e06ef8c6e4aa94ef89709ba3ef956e5e756ca39a4",
+  "coordinate_bytes": 440391,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4iai.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

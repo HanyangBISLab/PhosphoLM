@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BR6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1cd3c2a529308509fe631122ef11d67abd13d5fce4efbf519464242d4d40edac",
+  "coordinate_bytes": 558237,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8br6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

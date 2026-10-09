@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3KMM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "27ed006dd00bc0375270bfc4bddb36ceafedcf2e855fd19ff976c49af29ba2d2",
+  "coordinate_bytes": 301190,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3kmm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

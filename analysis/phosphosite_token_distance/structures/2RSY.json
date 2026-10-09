@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2RSY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fac4a2b1776d4bdba503717637c21d90c9e58e2bb04780b9a649a2174960582d",
+  "coordinate_bytes": 3964533,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2rsy.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "PTR",
+      "pdb_id": "2RSY",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 24,
+      "min_distance_A": "9.966",
+      "token_chain_id": "A",
+      "token_residue_start": "141",
+      "token_residue_end": "143",
+      "token_residue_start_number": 141,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 143,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

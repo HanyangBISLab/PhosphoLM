@@ -1,0 +1,17 @@
+{
+  "pdb_id": "2F9G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9054abeececb6ec2cbc25af2c7d7c328c4aecb74d463baed696a6eec9a3ebfe1",
+  "coordinate_bytes": 351191,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2f9g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 9
+  },
+  "location_warnings": []
+}

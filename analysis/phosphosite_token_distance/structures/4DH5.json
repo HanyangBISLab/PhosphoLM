@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DH5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e21eb770876dc7b841b429420255c23f83d9c5017dc8ea3a45bfd02522d91573",
+  "coordinate_bytes": 405869,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dh5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

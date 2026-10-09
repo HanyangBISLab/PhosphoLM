@@ -1,0 +1,16 @@
+{
+  "pdb_id": "7CZM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "86f35aa394ced28b28b34f2fe8df8abff1551caec3ee898ce6c71d88188d3c28",
+  "coordinate_bytes": 431953,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7czm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3HIK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9db1d77a5ace860b27c2fc40922d6658a0340b4bfb78451b3e9f50f3e1a54641",
+  "coordinate_bytes": 260467,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3hik.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

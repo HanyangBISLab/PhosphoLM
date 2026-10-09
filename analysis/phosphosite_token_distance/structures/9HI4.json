@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9HI4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9242e5ff9c2ebdab802c5d4bf94ec15cebb72d31ef7e4dd4fd958cd6e8a0563b",
+  "coordinate_bytes": 2433495,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9hi4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IUG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c53195e192d1c423bd48f8c0f0f15204f526d108cdd70134541c509cd57ee6ff",
+  "coordinate_bytes": 933257,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4iug.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "outside_cutoff": 10,
+    "no_phospho_atoms": 20
+  },
+  "location_warnings": []
+}

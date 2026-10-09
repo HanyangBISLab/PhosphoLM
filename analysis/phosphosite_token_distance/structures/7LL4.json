@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7LL4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f9d267d065a24606b0d0fdaf137559fba7208ce4ef8cdf6a171b8fe118241a59",
+  "coordinate_bytes": 794049,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ll4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

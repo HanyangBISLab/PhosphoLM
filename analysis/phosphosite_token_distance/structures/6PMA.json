@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6PMA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ba6b33a710de2df41596ab1d46291aa2bf154e155761dca78423d1d59ca371b1",
+  "coordinate_bytes": 312532,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6pma.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6PMA",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "9.422",
+      "token_chain_id": "A",
+      "token_residue_start": "667",
+      "token_residue_end": "669",
+      "token_residue_start_number": 667,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 669,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

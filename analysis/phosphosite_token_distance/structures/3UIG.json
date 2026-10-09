@@ -1,0 +1,63 @@
+{
+  "pdb_id": "3UIG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ee9aa9de9c02333a7990c6f398e5b1d992f45bd2c13b5fdfda64855ba73d75ca",
+  "coordinate_bytes": 485193,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3uig.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3UIG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 68,
+      "phospho_atom_count": 22,
+      "min_distance_A": "8.231",
+      "token_chain_id": "B",
+      "token_residue_start": "60",
+      "token_residue_end": "61",
+      "token_residue_start_number": 60,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 61,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "AAR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3UIG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 16,
+      "phospho_atom_count": 22,
+      "min_distance_A": "1.327",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "AAR",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

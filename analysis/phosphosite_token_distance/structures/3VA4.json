@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3VA4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f3538988ec1d79670718f05e1838b879f74eb44d9bb9ffeb20591c755a3fd731",
+  "coordinate_bytes": 417053,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/3VA4.cif",
+    "resolved_url": "https://files.rcsb.org/download/3VA4.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

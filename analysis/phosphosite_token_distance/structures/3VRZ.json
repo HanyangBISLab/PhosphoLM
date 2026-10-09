@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3VRZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a3511e0074cfdf3d506f8041865e8daf0ab5a979d7127fbb5cd13b69b130cf1e",
+  "coordinate_bytes": 788947,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3vrz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

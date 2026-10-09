@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9KCS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ee1153c8ab9d56d521fc8ba779cb1e1e64449e035c99ee6adf863646c5dfc512",
+  "coordinate_bytes": 505049,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9kcs.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

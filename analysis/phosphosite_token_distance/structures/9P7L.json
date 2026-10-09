@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9P7L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d4243baee9c7ce650735441c0356611a51d2647530964be6829d9cace3e87211",
+  "coordinate_bytes": 25693099,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9p7l.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 24,
+    "outside_cutoff": 35,
+    "no_phospho_atoms": 70
+  },
+  "location_warnings": []
+}

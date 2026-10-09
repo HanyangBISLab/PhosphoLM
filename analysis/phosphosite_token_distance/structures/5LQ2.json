@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5LQ2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c849da314c1fab9f07a2e865f0a5ed8fb63406dd2ce4fc4e2968494e1d6dd912",
+  "coordinate_bytes": 582774,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lq2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6BUH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "21a55c2f854c8119e2cfe0bb13861f43e016f6600dd2c983ae87777274a43bb2",
+  "coordinate_bytes": 3039253,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6buh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2VGP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "353b69bef059dd6f7d3b409e20a473de4239105d0db49c0595719e94348b3603",
+  "coordinate_bytes": 671385,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vgp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

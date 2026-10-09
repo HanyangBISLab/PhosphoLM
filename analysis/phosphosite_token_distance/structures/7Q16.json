@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7Q16",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8a1c9536de20a7b338a1435bd3d9fd2c269911a902a3c802a4444f91ca3a0651",
+  "coordinate_bytes": 596807,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7q16.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

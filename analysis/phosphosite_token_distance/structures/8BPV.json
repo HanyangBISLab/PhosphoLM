@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BPV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f186c0d92b672671b6b5bcddeb54c9969999d19e2ecd8f2461c7e7ad5c3ee7d3",
+  "coordinate_bytes": 647479,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bpv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

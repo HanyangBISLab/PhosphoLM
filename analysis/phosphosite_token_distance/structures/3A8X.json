@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3A8X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d4c47fc77b424ff202215ee1491647c76936cf286a37e06113d9a0862569028e",
+  "coordinate_bytes": 597339,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3a8x.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3A8X",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 44,
+      "min_distance_A": "9.211",
+      "token_chain_id": "B",
+      "token_residue_start": "241",
+      "token_residue_end": "243",
+      "token_residue_start_number": 241,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 243,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

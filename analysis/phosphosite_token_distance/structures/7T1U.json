@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7T1U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a03c735822dd25875ba3453f22a2e736990e595ba6f19e2a8d497816c50e0f2",
+  "coordinate_bytes": 450543,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7t1u.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

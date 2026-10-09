@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6M91",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ee49896286b1156227b4470cce1250e1df8c3a22bf373001dc486ba2d1c24d6e",
+  "coordinate_bytes": 877352,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6m91.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

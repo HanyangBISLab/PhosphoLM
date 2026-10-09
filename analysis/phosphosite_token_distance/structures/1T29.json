@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1T29",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "87b6df4665e9356de43d3df1f4db5661ba645604a7eb03822ddec2c6482a3bdd",
+  "coordinate_bytes": 256477,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1t29.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

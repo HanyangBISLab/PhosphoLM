@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4WHH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6e6fa59187b7c3187ffa43de7af126dc6d6e0f019b1fbbd35f71b39c71dfe968",
+  "coordinate_bytes": 256997,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4whh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

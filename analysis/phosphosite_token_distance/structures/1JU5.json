@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1JU5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "23c9160bdb64506e7ee26bbb2a236a21d6d8b44cd591d3a2a2817bd7a80761ce",
+  "coordinate_bytes": 311284,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1JU5.cif",
+    "resolved_url": "https://files.rcsb.org/download/1JU5.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1JU5",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 24,
+      "min_distance_A": "8.385",
+      "token_chain_id": "C",
+      "token_residue_start": "94",
+      "token_residue_end": "95",
+      "token_residue_start_number": 94,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 95,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

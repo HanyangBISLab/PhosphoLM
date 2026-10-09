@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2ZYB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3dba8ba10049acb0706ff05655cbc8acb84fc05055f4d04e6b870d2cbac72f03",
+  "coordinate_bytes": 301819,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2zyb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

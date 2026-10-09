@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2XKK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "25075a49ca444a6d8050b91c8083424baca35584e8f05a896ba8f111da1b37d3",
+  "coordinate_bytes": 2420538,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2xkk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

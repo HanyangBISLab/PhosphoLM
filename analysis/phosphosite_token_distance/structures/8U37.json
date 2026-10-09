@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8U37",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f048722224e80644670f3165767c09e3c3112b2da9576f7dafc02a76cfe37182",
+  "coordinate_bytes": 615749,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8u37.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

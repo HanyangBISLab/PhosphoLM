@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7TD5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "738ca039ce0e306011f3c5dad0d2fd284f9fb25f029f8b1d28f5b7626db0b95e",
+  "coordinate_bytes": 3337061,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7td5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "outside_cutoff": 10,
+    "no_phospho_atoms": 20
+  },
+  "location_warnings": []
+}

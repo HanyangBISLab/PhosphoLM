@@ -1,0 +1,20 @@
+{
+  "pdb_id": "2N1O",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ed0c7c3c7d132310c470f87640036755884faf28cb8f3fb650b08c72365a3dc3",
+  "coordinate_bytes": 1235565,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2N1O.cif",
+    "resolved_url": "https://files.rcsb.org/download/2N1O.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2DYR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "530a1dacd0e93dc47f357f1bcbc000cb5be7f3ae4401f3a1f202d1c905f9f77b",
+  "coordinate_bytes": 3533725,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2dyr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

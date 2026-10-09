@@ -1,0 +1,17 @@
+{
+  "pdb_id": "3EFL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "05006e077fb1f6b07c6d4e2d01cd9e342b11d29bddbe33d3501c4b222c232fb2",
+  "coordinate_bytes": 503745,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3efl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

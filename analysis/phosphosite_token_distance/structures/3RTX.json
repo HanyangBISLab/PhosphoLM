@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3RTX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6a7e1377693e3bc1e202080a582a234b870d9e3f7f792c5d9080d22d0ba97163",
+  "coordinate_bytes": 496745,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3rtx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

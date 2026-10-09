@@ -1,0 +1,57 @@
+{
+  "pdb_id": "4JMH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a08966c66cd5c7c345a8f697e8c82f471534da82dfcd835dbafbbee16ee3fcea",
+  "coordinate_bytes": 215576,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4jmh.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4JMH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 32,
+      "min_distance_A": "2.853",
+      "token_chain_id": "A",
+      "token_residue_start": "64",
+      "token_residue_end": "66",
+      "token_residue_start_number": 64,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 66,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4JMH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 32,
+      "min_distance_A": "5.941",
+      "token_chain_id": "A",
+      "token_residue_start": "73",
+      "token_residue_end": "75",
+      "token_residue_start_number": 73,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 75,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

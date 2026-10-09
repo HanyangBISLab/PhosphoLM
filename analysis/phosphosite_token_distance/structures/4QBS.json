@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4QBS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "531c377dd071af7c3a9f856b4ba8e462e04f56c6b0a2dbf40bd4558d0b762b2a",
+  "coordinate_bytes": 196369,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qbs.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4QBS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 34,
+      "phospho_atom_count": 11,
+      "min_distance_A": "7.320",
+      "token_chain_id": "A",
+      "token_residue_start": "557",
+      "token_residue_end": "558",
+      "token_residue_start_number": 557,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 558,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

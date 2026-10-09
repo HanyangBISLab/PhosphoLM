@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3H9F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8f373dc1d510c0e88ae7a6209c3b929365f362d186fe6f051f0439e9b1bade23",
+  "coordinate_bytes": 286934,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3h9f.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

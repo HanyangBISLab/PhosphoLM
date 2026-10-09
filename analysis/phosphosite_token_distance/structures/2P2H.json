@@ -1,0 +1,17 @@
+{
+  "pdb_id": "2P2H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "402d31f0cb73dbbf3cff43cb30f2b62712750820fb2ac640e7c5fce8500a0b7a",
+  "coordinate_bytes": 323789,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2p2h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

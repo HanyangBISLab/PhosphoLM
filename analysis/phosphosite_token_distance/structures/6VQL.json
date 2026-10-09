@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6VQL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "17b98ad978a99cc0f26147ce8c53af9e50f62567e5d444eca14cf9907973beea",
+  "coordinate_bytes": 963944,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6vql.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

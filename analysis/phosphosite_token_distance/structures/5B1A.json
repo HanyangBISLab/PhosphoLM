@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5B1A",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6cf1bac713564ab83be62acebfef91764827d5eff1fc58df2ae10990cdcb43ca",
+  "coordinate_bytes": 6684968,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5b1a.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

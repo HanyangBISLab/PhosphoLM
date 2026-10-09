@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4BL0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "afdb7639a01400dc5c1579f9eacf780b39489bcfe0bbd812c5a3f7650b5eca86",
+  "coordinate_bytes": 1252216,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bl0.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4BL0",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 22,
+      "min_distance_A": "7.081",
+      "token_chain_id": "A",
+      "token_residue_start": "240",
+      "token_residue_end": "241",
+      "token_residue_start_number": 240,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 241,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

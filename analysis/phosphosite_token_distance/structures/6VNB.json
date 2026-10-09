@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6VNB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "74bbda4bae12519915fa46bbd808ec92f53786daac2a7099cc77219106d8a672",
+  "coordinate_bytes": 579142,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6vnb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

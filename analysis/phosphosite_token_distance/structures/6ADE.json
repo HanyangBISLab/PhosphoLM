@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ADE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ed9dfd562c62efa202bbc052053878f8a74c64303cd929e4a8689c5c0941cb03",
+  "coordinate_bytes": 819159,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ade.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "pdb_id": "5L8J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a69755f075aaf4da61654070c01d176d3212898b414ff700a917442aedb18b53",
+  "coordinate_bytes": 397001,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5l8j.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 9
+  },
+  "location_warnings": []
+}

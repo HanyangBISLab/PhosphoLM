@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2GU8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "454382913be143e890aaf7db44509426f7265a2332beeb16ac4bd466fe1bce7e",
+  "coordinate_bytes": 371272,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2gu8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

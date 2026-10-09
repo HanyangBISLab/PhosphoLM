@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BIK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "affb19d665fdb60eb3cb66f694b0fd4373c277245f53f296fb01560e9323a49d",
+  "coordinate_bytes": 3102751,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bik.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5EYK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fdc64cce943a4018ca9e1d54168d02bbda16deb01664d7a17f63fad847bf4302",
+  "coordinate_bytes": 613246,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5eyk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

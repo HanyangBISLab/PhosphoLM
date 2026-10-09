@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8CNN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "97ce54a9cfeb38b874feb43d812f0346e8ba0a35a1a6c9d57bc521f4971354ac",
+  "coordinate_bytes": 249401,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8cnn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

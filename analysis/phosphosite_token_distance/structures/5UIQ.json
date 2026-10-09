@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UIQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "965f608f3c5ae55ab42cfbd6e68373421eb4418c6bd94247606f0368761b1228",
+  "coordinate_bytes": 1677777,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5uiq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

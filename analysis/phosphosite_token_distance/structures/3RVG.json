@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3RVG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "28e0c08ed7dfe7eb6fe5f2af123e811aa1b41b68076bab7d08b336349d595cd3",
+  "coordinate_bytes": 298186,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3rvg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

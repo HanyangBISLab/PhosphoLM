@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2OID",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e7ee254e8fd412d781426f6d00e69afdf46d7d9a0c6cd4f1e3ecdf4a6bf0e049",
+  "coordinate_bytes": 989827,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2oid.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

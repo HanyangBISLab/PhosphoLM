@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6RMM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cf8910c7957d992e161e97111b8b2465b3b8c2c364ed8f09cc45bc39f9e3c19a",
+  "coordinate_bytes": 663387,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6rmm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

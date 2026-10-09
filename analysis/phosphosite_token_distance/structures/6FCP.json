@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6FCP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "10d6087efa1d926e5eca1dd440f326911eb4228632231b1ce4867fd92f8cbd49",
+  "coordinate_bytes": 705286,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6fcp.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6FCP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 53,
+      "phospho_atom_count": 13,
+      "min_distance_A": "2.553",
+      "token_chain_id": "A",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

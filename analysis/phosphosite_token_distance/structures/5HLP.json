@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5HLP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "36872672e03afa3ae04badca3dd387fae6e2974e3e00fe8fe93ee534a9f729c7",
+  "coordinate_bytes": 619787,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hlp.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5HLP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 48,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.448",
+      "token_chain_id": "B",
+      "token_residue_start": "182",
+      "token_residue_end": "184",
+      "token_residue_start_number": 182,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 184,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 7,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

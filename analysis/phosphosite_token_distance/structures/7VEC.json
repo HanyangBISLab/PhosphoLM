@@ -1,0 +1,45 @@
+{
+  "pdb_id": "7VEC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d529870a6fd5e76fbc23e05616fa5825b34e40bf3819811fbdb7a19c038e7778",
+  "coordinate_bytes": 2355179,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7vec.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7VEC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 267,
+      "phospho_atom_count": 210,
+      "min_distance_A": "6.957",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "ELD",
+      "monomer": "SEP",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

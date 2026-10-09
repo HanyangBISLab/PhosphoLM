@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5F9E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f021bd5f47ed779edd573d023997c6c49f3bc8b7f093d2e9e4d8f7665f281457",
+  "coordinate_bytes": 1065416,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5f9e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

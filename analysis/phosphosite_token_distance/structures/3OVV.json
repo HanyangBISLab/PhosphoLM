@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OVV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d65dae674259044698ad8dc979bb219a723dbad2a939e4e1ccd5bc608e86db3d",
+  "coordinate_bytes": 391778,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ovv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

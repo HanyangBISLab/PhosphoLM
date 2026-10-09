@@ -1,0 +1,45 @@
+{
+  "pdb_id": "8C3Q",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "18720f62a5a91d3c726084e9339338111d96286059612f5dcec9569dc09e234f",
+  "coordinate_bytes": 1107328,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8c3q.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "8C3Q",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 20,
+      "phospho_atom_count": 32,
+      "min_distance_A": "6.632",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "DGK",
+      "monomer": "PTR",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

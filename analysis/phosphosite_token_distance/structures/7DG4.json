@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7DG4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "776d5343167cdf5d59cb75e6c81bf8ea7d5a9060afbec24c80516a2bf5946070",
+  "coordinate_bytes": 333118,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dg4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

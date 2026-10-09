@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9B0S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "184f3cfc2a8913b4d78ca42a3169685fdf2cca5562cd34f084840c859b958b7e",
+  "coordinate_bytes": 51998290,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9b0s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 21,
+    "outside_cutoff": 36,
+    "no_phospho_atoms": 72
+  },
+  "location_warnings": []
+}

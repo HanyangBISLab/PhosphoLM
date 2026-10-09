@@ -1,0 +1,45 @@
+{
+  "pdb_id": "6AAH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6a9da793e0960db249970e5b6c1478edba84da0f8d809d6f1fd78fdfe3eaed8b",
+  "coordinate_bytes": 557001,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6aah.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6AAH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 25,
+      "phospho_atom_count": 64,
+      "min_distance_A": "9.132",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "NH",
+      "monomer": "PTR",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

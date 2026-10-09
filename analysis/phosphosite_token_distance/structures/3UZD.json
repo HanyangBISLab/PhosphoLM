@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3UZD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "85eeb6f4ca8826573d3444bea2351f33aedaaeef000295825341547b946c35e4",
+  "coordinate_bytes": 427499,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3uzd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3UZD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 10,
+      "min_distance_A": "2.784",
+      "token_chain_id": "A",
+      "token_residue_start": "55",
+      "token_residue_end": "57",
+      "token_residue_start_number": 55,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 57,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

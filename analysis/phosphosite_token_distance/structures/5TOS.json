@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5TOS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "27fcb255ef1fb458ffbf65253597e6892f36bc764e9a2680ec4a221299b95307",
+  "coordinate_bytes": 923290,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5tos.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

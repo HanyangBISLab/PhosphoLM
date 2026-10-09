@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8IJN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "005d1f6a2f6a85385255000b2fe6ea7482a6552cd0114a7f765bd1e10fd628b1",
+  "coordinate_bytes": 5934780,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ijn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

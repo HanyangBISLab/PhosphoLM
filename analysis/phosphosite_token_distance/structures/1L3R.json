@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1L3R",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fb5c8835348d255871ae99277c652dfaa98ea024b59b2b57131a9ad5c054938b",
+  "coordinate_bytes": 410289,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1l3r.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

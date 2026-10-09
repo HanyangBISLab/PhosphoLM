@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3PX7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2aea4722eef59bf4f6531a8dbb05d64c6d70efc2d5e5d45827b89c6d38b14432",
+  "coordinate_bytes": 566175,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3px7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

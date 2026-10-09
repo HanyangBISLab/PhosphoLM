@@ -1,0 +1,38 @@
+{
+  "pdb_id": "4UOR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ced1da723b4543299dcf66b099c71217436e23a85a092895e264e0b34e380683",
+  "coordinate_bytes": 4278986,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4uor.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4UOR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 396,
+      "phospho_atom_count": 121,
+      "min_distance_A": "2.664",
+      "token_chain_id": "G",
+      "token_residue_start": "421",
+      "token_residue_end": "422",
+      "token_residue_start_number": 421,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 422,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 13,
+      "token_occurrence_count": 22
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

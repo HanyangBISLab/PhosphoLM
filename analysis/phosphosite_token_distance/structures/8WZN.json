@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8WZN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c1daf3f835adff4b64d79cbe1a51dbfb9f0b248aa4027431d5b6f38ba7f8142e",
+  "coordinate_bytes": 436327,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8wzn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

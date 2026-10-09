@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2LDR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5f37b49ccb716950b1bc40b08e9534206524cbcae7eb56036e7d9f5964564f2f",
+  "coordinate_bytes": 2342707,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LDR.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LDR.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

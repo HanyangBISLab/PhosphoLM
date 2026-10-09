@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4C38",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dec3a0a88cdf448e773624e5a3b952adb0c5aeb2e2a91c3016e5b848b2d797d1",
+  "coordinate_bytes": 695505,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c38.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4Z84",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e326dddeb77306e9f5200a92d68e99159512abc4b08ff62753aa8ff55c4e163",
+  "coordinate_bytes": 1011639,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4z84.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

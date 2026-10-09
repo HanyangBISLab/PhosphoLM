@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6Y8G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7d119c74ad29335bfbfc94bdc7e42b66110e11d0ecc2291e693497ced4044f4f",
+  "coordinate_bytes": 618113,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6y8g.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "FGG",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6Y8G",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 38,
+      "phospho_atom_count": 20,
+      "min_distance_A": "4.156",
+      "token_chain_id": "AAA",
+      "token_residue_start": "162",
+      "token_residue_end": "164",
+      "token_residue_start_number": 162,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 164,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

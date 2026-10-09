@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1RZR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "20123f533f0ec5aa3c1e400ecf2151e90cf2d042ba1ada66974f50eb5da52cb1",
+  "coordinate_bytes": 1590217,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1rzr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

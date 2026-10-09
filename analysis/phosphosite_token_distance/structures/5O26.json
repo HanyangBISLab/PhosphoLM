@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5O26",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c93834956858d1bb603a27f8834210e6c7f3f57735f80e77040e8ebc15ec8eba",
+  "coordinate_bytes": 544828,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5o26.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

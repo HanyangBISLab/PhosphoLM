@@ -1,0 +1,58 @@
+{
+  "pdb_id": "3AMU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "da170b31462711b30b7d72eb99eaf8a87cb3236238aecaf06c11a304853a1ff8",
+  "coordinate_bytes": 594405,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3amu.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3AMU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 11,
+      "min_distance_A": "6.263",
+      "token_chain_id": "A",
+      "token_residue_start": "42",
+      "token_residue_end": "44",
+      "token_residue_start_number": 42,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 44,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "MER",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3AMU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 28,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.838",
+      "token_chain_id": "A",
+      "token_residue_start": "26",
+      "token_residue_end": "28",
+      "token_residue_start_number": 26,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 28,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 2,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

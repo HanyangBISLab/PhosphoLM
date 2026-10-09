@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6F1W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b03dcee8c75ebbfe0e3260b5891a064b324c1591564da68227d67bed61a17dbc",
+  "coordinate_bytes": 1435386,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6f1w.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

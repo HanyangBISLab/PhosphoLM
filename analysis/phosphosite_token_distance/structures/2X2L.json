@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2X2L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f673e697bb5ddfd9ebc7842c9ecf4755870730423f2f92d4e5b3f7d05f8fc468",
+  "coordinate_bytes": 301348,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2x2l.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

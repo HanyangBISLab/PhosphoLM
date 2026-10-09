@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NND",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e53fdf64f32866d8495fb0ee2bfac1c647bd725a6a3c109c2f7e5d8805630405",
+  "coordinate_bytes": 479312,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5nnd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

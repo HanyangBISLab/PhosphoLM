@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3DNE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9d57d0090c91bf0251b32323b1f2d73e742a843ed4b20fbb62e632680784872e",
+  "coordinate_bytes": 394013,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3dne.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

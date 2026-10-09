@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4AZF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a44c8dbea9417bae94f6b3821679991aa83fa818bfc25333c5c09e58ae0d6a43",
+  "coordinate_bytes": 672265,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4azf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

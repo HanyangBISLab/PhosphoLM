@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6F5P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e85e4388775f8a5bc47125217f999571d68057ba6c70191bcec233bcd61675f2",
+  "coordinate_bytes": 6689405,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6f5p.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

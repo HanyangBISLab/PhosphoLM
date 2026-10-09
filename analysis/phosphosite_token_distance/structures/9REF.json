@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9REF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c45b0a9cec1cdc9d38d2c80bb835b53953813b221264f1d7b9ae84b7972cde8c",
+  "coordinate_bytes": 735826,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ref.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

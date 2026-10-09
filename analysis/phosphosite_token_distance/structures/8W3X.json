@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8W3X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "38afcd662a0f3ec985896861d423f2f84bec50475a6f30a66f65203d60c6e910",
+  "coordinate_bytes": 1941075,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8w3x.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

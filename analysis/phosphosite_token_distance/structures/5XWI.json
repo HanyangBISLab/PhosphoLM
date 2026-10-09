@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5XWI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0d1676b5a9ec676d1461f1d1e1e50c469fc849ece8f74a9690996a4ce068e61f",
+  "coordinate_bytes": 822851,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5xwi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

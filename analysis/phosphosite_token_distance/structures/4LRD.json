@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LRD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a9540627338cdd5f1ed4e696edb79f3b9696bfe058fac7d8cb01ee9d9d3087da",
+  "coordinate_bytes": 425132,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lrd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

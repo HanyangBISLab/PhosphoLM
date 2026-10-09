@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5OT3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a6b0f0b2a65793883b0128906e0650df90ad738d951740f82fe968bbaf450674",
+  "coordinate_bytes": 586807,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ot3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

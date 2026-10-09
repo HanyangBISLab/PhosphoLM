@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5LI9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6b5d72bbc66fc031298d43078f985185817a61190fa8156b718c5e1f618bc2e3",
+  "coordinate_bytes": 581753,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5li9.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5LI9",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 22,
+      "min_distance_A": "8.842",
+      "token_chain_id": "A",
+      "token_residue_start": "250",
+      "token_residue_end": "252",
+      "token_residue_start_number": 250,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 252,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

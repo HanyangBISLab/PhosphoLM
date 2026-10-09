@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2UZD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a47334b95cd2355518446476e29d6b5a0205aa19665afb99f2b791e437a5dde6",
+  "coordinate_bytes": 962123,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2uzd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

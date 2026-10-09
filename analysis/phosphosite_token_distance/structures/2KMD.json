@@ -1,0 +1,20 @@
+{
+  "pdb_id": "2KMD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3023f6cab0f487f01c64feefd281c44a2ada1d879f7ec55f70afc0250bf3cb7f",
+  "coordinate_bytes": 3281168,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2KMD.cif",
+    "resolved_url": "https://files.rcsb.org/download/2KMD.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5KSH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3c68ea6dce5e99501d95351dd5063f9c9d9ab5417792359978de1bd52a699249",
+  "coordinate_bytes": 1328548,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ksh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

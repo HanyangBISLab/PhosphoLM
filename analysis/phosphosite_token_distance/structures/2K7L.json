@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2K7L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c012476aa664d73cc01dfa667c663c74d71b11b20e4f1d2bfbee2b29233d53b1",
+  "coordinate_bytes": 2827873,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2k7l.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

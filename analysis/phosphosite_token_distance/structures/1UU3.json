@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1UU3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cee0e1d596ce7816c109c07f1ae776c16c474af08c3864bbc7f693cd7b5be406",
+  "coordinate_bytes": 337443,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1uu3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8UWN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6d24f77777d2e546f304124657d399d0818d25d5a08cb2fdf2e1e61a44494054",
+  "coordinate_bytes": 447242,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8uwn.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8UWN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 10,
+      "min_distance_A": "7.192",
+      "token_chain_id": "A",
+      "token_residue_start": "202",
+      "token_residue_end": "204",
+      "token_residue_start_number": 202,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 204,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

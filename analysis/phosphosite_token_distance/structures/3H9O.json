@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3H9O",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "193f4b970f5a81913a23d71c9a7362bbf5351c04cdbd55bd27b115f67d8dc3c5",
+  "coordinate_bytes": 289415,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3h9o.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

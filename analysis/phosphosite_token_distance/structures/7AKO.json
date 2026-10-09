@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7AKO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b0e97fcd2689580dde740180c74677f0af923ff6fdbf971ef5ad7df9da8e8e1c",
+  "coordinate_bytes": 627883,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ako.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

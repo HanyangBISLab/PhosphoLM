@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5J5X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9be8b287be57d3ae2b20a39cba27c73bfe36437483d0b22d30cd22e57cb91a23",
+  "coordinate_bytes": 371172,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5j5x.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

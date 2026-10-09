@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7RNS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9549490d1b1a16931ecb8a7c35f576619d1570c0dfe9bdbd8666e6030dde65fe",
+  "coordinate_bytes": 419358,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7rns.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

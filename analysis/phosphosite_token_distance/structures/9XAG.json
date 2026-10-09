@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9XAG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e81e0a2a37a7362a0c068e8ba66fd9960f5257078688a3f0b144e4dc34b569d9",
+  "coordinate_bytes": 28518209,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9xag.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 42,
+    "no_phospho_atoms": 84,
+    "no_token_atoms": 3
+  },
+  "location_warnings": []
+}

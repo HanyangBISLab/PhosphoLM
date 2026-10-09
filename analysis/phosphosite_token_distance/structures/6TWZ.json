@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6TWZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a50ac335bcb59abbf59a00a5f80b2a9bbb00e6348b45d8028b2b10def9a37f7",
+  "coordinate_bytes": 1649887,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6twz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6TWZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 44,
+      "min_distance_A": "3.434",
+      "token_chain_id": "B",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

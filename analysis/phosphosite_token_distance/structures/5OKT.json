@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5OKT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1e5d0918e37aea380865cd57e14d4a4289e1d89d9a5c8efe5d7ffbb20f930eb6",
+  "coordinate_bytes": 2737815,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5okt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

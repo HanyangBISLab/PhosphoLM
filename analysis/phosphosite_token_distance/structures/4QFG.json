@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QFG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "37bc563c056919d4f8d0183f177d256bdeb83cf0c5638dfed088ba2b1cc7abae",
+  "coordinate_bytes": 1357145,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qfg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

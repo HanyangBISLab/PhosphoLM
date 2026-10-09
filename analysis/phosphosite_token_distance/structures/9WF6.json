@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9WF6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "52bc5162830e68a8dad5339493830b3790891c2a0d8f295da58d2d707ccb0018",
+  "coordinate_bytes": 11134152,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9wf6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 102,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 18
+  },
+  "location_warnings": []
+}

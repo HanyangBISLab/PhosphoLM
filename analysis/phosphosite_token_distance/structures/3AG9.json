@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3AG9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0f4e8b623ab5ee914db8ef67a1aa11636b97ce70969dfe2164093ab4656ecfcc",
+  "coordinate_bytes": 607305,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ag9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

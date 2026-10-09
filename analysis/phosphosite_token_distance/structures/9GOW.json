@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9GOW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c804889eb77f47354deb5a37b934f894914353d1802887624091e8e5af791f57",
+  "coordinate_bytes": 1385855,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9gow.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9GOW",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 120,
+      "min_distance_A": "9.408",
+      "token_chain_id": "A",
+      "token_residue_start": "737",
+      "token_residue_end": "738",
+      "token_residue_start_number": 737,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 738,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "no_token_atoms": 117,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

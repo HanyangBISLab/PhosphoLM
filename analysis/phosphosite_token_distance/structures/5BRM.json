@@ -1,0 +1,20 @@
+{
+  "pdb_id": "5BRM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d5063d80c90a7a28a6d3f53c2cc1575d7e1c49ccfdca2b84fb4c28c7e5fb1fb4",
+  "coordinate_bytes": 2569976,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5BRM.cif",
+    "resolved_url": "https://files.rcsb.org/download/5BRM.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

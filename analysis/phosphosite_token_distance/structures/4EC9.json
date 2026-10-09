@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4EC9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "51c0604325fb186416efa49a421eb9890a54579691a7d4a9b7fb5ddd9d440b33",
+  "coordinate_bytes": 494168,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ec9.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GER",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4EC9",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 11,
+      "min_distance_A": "4.251",
+      "token_chain_id": "A",
+      "token_residue_start": "202",
+      "token_residue_end": "204",
+      "token_residue_start_number": 202,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 204,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

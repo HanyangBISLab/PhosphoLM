@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7M69",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4720610d0456244ed37743f030db115f89d10651a2bb801c4d3dedda20f9d3b0",
+  "coordinate_bytes": 2456487,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7m69.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 93,
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

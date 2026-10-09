@@ -1,0 +1,20 @@
+{
+  "pdb_id": "21JG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9adbb47c27ceb3d58bd4d8257b6ca3175b7e9538b4aeadc670490fa000eabd91",
+  "coordinate_bytes": 7113785,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/21JG.cif",
+    "resolved_url": "https://files.rcsb.org/download/21JG.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

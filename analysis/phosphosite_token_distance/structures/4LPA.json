@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LPA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ab9dad190c15da795e77feaa6bd2bf9d21eba26e24a57056557c3a36e1d81bb6",
+  "coordinate_bytes": 426394,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lpa.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

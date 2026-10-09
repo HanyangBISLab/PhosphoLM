@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5IL2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e2a987e43869ac11223f8d4c67ff58e81213a697c9ecd30547204f8fe2fd331",
+  "coordinate_bytes": 889250,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5il2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5IL2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.120",
+      "token_chain_id": "B",
+      "token_residue_start": "302",
+      "token_residue_end": "304",
+      "token_residue_start_number": 302,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 304,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

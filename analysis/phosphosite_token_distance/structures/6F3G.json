@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6F3G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "56626b1b442a07f14a65837f33522de1165b392a9f9637dd460d7c64699ed7f2",
+  "coordinate_bytes": 899876,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6f3g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

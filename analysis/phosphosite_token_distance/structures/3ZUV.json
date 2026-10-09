@@ -1,0 +1,58 @@
+{
+  "pdb_id": "3ZUV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e5c9bea49250cd2c6920a29384845944e671562a0f6deb5ec903066214f04dbd",
+  "coordinate_bytes": 1505781,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3zuv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3ZUV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 50,
+      "phospho_atom_count": 22,
+      "min_distance_A": "5.412",
+      "token_chain_id": "A",
+      "token_residue_start": "332",
+      "token_residue_end": "334",
+      "token_residue_start_number": 332,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 334,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "VAD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "3ZUV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 22,
+      "min_distance_A": "6.696",
+      "token_chain_id": "C",
+      "token_residue_start": "171",
+      "token_residue_end": "173",
+      "token_residue_start_number": 171,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 173,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 10,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

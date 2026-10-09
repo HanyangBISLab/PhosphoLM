@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1OI9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8fff2886fdb612bfd2e9ea2f94441dc185bdaec741a268197111a92b0ce59f84",
+  "coordinate_bytes": 988126,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1oi9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

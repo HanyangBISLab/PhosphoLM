@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3VRO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7449c6038b340f38e4c874025afa69763f86227f2130b5f8856581a2c9a00f12",
+  "coordinate_bytes": 321558,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3vro.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

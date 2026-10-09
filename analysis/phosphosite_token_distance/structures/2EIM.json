@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2EIM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "86ed1b93e99c29b4d7c242f4230691050ee15ffd65a4431389c074cb03cc0fb1",
+  "coordinate_bytes": 3441258,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2eim.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

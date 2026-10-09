@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2ZM4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bd60ba7ffaeb38635846d74c557b2922fa2b7a1bc53076f24a82625cd6ce5f1c",
+  "coordinate_bytes": 300899,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2zm4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

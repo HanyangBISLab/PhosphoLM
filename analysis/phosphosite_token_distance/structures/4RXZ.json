@@ -1,0 +1,20 @@
+{
+  "pdb_id": "4RXZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "601a6fe274e7d5e4b01b95833f5cf9943413a01486253c5c80dd98571d49753f",
+  "coordinate_bytes": 215780,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/4RXZ.cif",
+    "resolved_url": "https://files.rcsb.org/download/4RXZ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

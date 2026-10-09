@@ -1,0 +1,104 @@
+{
+  "pdb_id": "36LN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c0cd2aed831c913f02eae45cedfd6dcbdd1c34c32790c3f6fcba0aa5d89013b",
+  "coordinate_bytes": 1084170,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/36LN.cif",
+    "resolved_url": "https://files.rcsb.org/download/36LN.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "36LN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 22,
+      "min_distance_A": "6.964",
+      "token_chain_id": "B",
+      "token_residue_start": "461",
+      "token_residue_end": "463",
+      "token_residue_start_number": 461,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 463,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "GEV",
+      "phospho_monomer": "SEP",
+      "pdb_id": "36LN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 20,
+      "min_distance_A": "1.335",
+      "token_chain_id": "A",
+      "token_residue_start": "323",
+      "token_residue_end": "325",
+      "token_residue_start_number": 323,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 325,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "36LN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 22,
+      "min_distance_A": "5.999",
+      "token_chain_id": "A",
+      "token_residue_start": "252",
+      "token_residue_end": "253",
+      "token_residue_start_number": 252,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 253,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "36LN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 13,
+      "phospho_atom_count": 22,
+      "min_distance_A": "4.383",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 10,
+    "within_cutoff": 4,
+    "no_phospho_atoms": 7
+  },
+  "location_warnings": [
+    {
+      "token": "DEE",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4MPJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f3f0a582f6c381e984e05034a9cd75f7984d6207d30c5c16dcd937551dec3237",
+  "coordinate_bytes": 956379,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4mpj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

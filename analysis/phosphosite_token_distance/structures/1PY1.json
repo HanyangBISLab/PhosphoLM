@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1PY1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cfd7c1977b753737590e1d1a56a749259a042674f9db04a6e63b8c5b825ef547",
+  "coordinate_bytes": 507665,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1py1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

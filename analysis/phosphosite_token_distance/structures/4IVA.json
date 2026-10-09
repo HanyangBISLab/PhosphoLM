@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IVA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a3bf0c9f75cb1a9771928eeffe7a765b526f83b13f6c9e594146f0bb29b1a67",
+  "coordinate_bytes": 340198,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4iva.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

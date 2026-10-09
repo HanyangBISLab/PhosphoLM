@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5EFQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "455417a6dc0fef24d20293b47333f35e4ba332809285e4777c9c779a32ba0414",
+  "coordinate_bytes": 1927934,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5efq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

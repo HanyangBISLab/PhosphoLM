@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9YKO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0226ad7fd6d474b0af0cf502d4551a6ffb10968944918bf56dac11b6823347f8",
+  "coordinate_bytes": 2255641,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9yko.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9YKO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 64,
+      "min_distance_A": "3.158",
+      "token_chain_id": "A",
+      "token_residue_start": "232",
+      "token_residue_end": "233",
+      "token_residue_start_number": 232,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 233,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

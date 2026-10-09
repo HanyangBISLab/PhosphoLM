@@ -1,0 +1,58 @@
+{
+  "pdb_id": "2A19",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9917ea4f3868dd04beaf37df22000be27f633c23fcdd0ef7da90c9a8aaa013c6",
+  "coordinate_bytes": 626822,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2a19.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2A19",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.340",
+      "token_chain_id": "B",
+      "token_residue_start": "431",
+      "token_residue_end": "433",
+      "token_residue_start_number": 431,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 433,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2A19",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 59,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.829",
+      "token_chain_id": "B",
+      "token_residue_start": "442",
+      "token_residue_end": "444",
+      "token_residue_start_number": 442,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 444,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

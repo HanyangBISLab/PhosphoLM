@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4ZRT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "99cffa826fec688e4c0627c91c3dfcb6381479dc10dbd55f5159b75a370ac293",
+  "coordinate_bytes": 352536,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4zrt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4,
+    "no_token_atoms": 117
+  },
+  "location_warnings": []
+}

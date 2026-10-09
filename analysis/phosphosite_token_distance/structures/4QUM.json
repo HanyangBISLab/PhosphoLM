@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4QUM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "94c408c04f7c5a1e52213b81242ab6c2970d5294bab132f4a4c9c475f35247de",
+  "coordinate_bytes": 298002,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qum.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4QUM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 16,
+      "phospho_atom_count": 16,
+      "min_distance_A": "8.608",
+      "token_chain_id": "A",
+      "token_residue_start": "754",
+      "token_residue_end": "755",
+      "token_residue_start_number": 754,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 755,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

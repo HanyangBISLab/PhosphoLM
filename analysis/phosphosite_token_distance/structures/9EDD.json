@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9EDD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ef4e41e19f777040945e1923c27669f8c374902a7a22bc848e5a6be344c53e42",
+  "coordinate_bytes": 560841,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9edd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9EDD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 15,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.593",
+      "token_chain_id": "B",
+      "token_residue_start": "106",
+      "token_residue_end": "108",
+      "token_residue_start_number": 106,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 108,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 13,
+    "no_phospho_atoms": 7,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

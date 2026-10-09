@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7PIW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ea4e4ee50d4ddcc7c2b23562a554b631f4e52d48e370dbffd4b19a48f6e51e5d",
+  "coordinate_bytes": 16417355,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7piw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 57,
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 48
+  },
+  "location_warnings": []
+}

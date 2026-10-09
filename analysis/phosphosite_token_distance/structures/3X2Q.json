@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3X2Q",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1adad2a66f39f1e1f3683b8c7c63b59fbc235f4440f0319a96f5a70ba521a73b",
+  "coordinate_bytes": 6262738,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3x2q.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

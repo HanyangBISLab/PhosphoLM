@@ -1,0 +1,40 @@
+{
+  "pdb_id": "1CSY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "595e4e5135cde9daf9812d52fb36876cfe6fb6e8dfd2ff17a6c5aab3d9d112ee",
+  "coordinate_bytes": 3548949,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1CSY.cif",
+    "resolved_url": "https://files.rcsb.org/download/1CSY.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1CSY",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 24,
+      "min_distance_A": "3.484",
+      "token_chain_id": "A",
+      "token_residue_start": "40",
+      "token_residue_end": "42",
+      "token_residue_start_number": 40,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 42,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

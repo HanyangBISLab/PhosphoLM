@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6N7C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a28e22963eb11727aecf02c6f98a65ac98e74e1728098b07303e641f31733d25",
+  "coordinate_bytes": 578926,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6n7c.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

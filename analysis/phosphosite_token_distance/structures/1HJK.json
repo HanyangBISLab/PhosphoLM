@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1HJK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b43931665667d4f05b932f803ef2eded0759396d576775dfdea7fc1f88d26c12",
+  "coordinate_bytes": 775452,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1hjk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

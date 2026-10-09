@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5HO8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "27c266c3e1ab2f5498f6fb19e2247587573bd5133a805e376abb5ddb7f7ef6bf",
+  "coordinate_bytes": 499152,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ho8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

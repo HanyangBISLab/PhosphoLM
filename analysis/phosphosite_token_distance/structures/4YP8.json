@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YP8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "288b3c6cdd5084f23c968d766ed2e9eaa32e876c31a5bc29af6fb07e1a742adb",
+  "coordinate_bytes": 968099,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yp8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

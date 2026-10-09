@@ -1,0 +1,38 @@
+{
+  "pdb_id": "9TPI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eaf0b7564a572c3e98b36ac6349b850e7b8baa96b7ac9b5eaf544db2db83c8ff",
+  "coordinate_bytes": 324064,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9tpi.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9TPI",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 68,
+      "phospho_atom_count": 22,
+      "min_distance_A": "7.911",
+      "token_chain_id": "A",
+      "token_residue_start": "60",
+      "token_residue_end": "61",
+      "token_residue_start_number": 60,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 61,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

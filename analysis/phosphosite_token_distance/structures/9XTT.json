@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9XTT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "54511a63c1d94b46e27fa38bcf1cf51940881324171a08597a29abb7200f9483",
+  "coordinate_bytes": 14823918,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9XTT.cif",
+    "resolved_url": "https://files.rcsb.org/download/9XTT.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 41,
+    "no_phospho_atoms": 82,
+    "no_token_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7DJO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "76f0f266d775fce85f78117bde1de389d901b595e66bf25822b11251f32b08a2",
+  "coordinate_bytes": 577132,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7djo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

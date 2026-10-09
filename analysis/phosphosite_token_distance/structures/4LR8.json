@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LR8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3e54b2ab82e38053761b779aae7a4c8a8d4733fdbacf45eae3d36d577b0b7b07",
+  "coordinate_bytes": 1912162,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lr8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

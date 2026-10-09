@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7Q7I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fbee593efb30ee95e00609b9aaf2aceaf68ffe2a8800ad6f973aa19cac58c8f3",
+  "coordinate_bytes": 566830,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7q7i.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "pdb_id": "2P2I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7a44b14fe17f70b80c36cb4cdf6fd6471160b8f96f78584ef8dbb1f7d63c4530",
+  "coordinate_bytes": 501095,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2p2i.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

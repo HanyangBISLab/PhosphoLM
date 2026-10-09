@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3VRY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8f8e471b497bf323c35038a3aec0ca1ad5ec7711fb7986aacd0659fcbf148fc9",
+  "coordinate_bytes": 785261,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3vry.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

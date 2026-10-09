@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3UAT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fca9eb1165ddc4679fc5d780eb473cfe66b81ac2f7d2ae94866872ff0e604459",
+  "coordinate_bytes": 491556,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3uat.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3UAT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 10,
+      "min_distance_A": "6.295",
+      "token_chain_id": "A",
+      "token_residue_start": "793",
+      "token_residue_end": "794",
+      "token_residue_start_number": 793,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 794,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

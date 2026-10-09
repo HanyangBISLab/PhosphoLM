@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1T2V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cd7d36c51925d317558e528bf72fa3774d612f1d6f48c0fa6a42b9823416eda7",
+  "coordinate_bytes": 896030,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1t2v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

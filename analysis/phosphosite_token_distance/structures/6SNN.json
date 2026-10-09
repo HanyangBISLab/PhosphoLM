@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6SNN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1d92b348ec6f70e77e0ae86fdd7b538691ea353f64f0c4e3d1f953108abfcf35",
+  "coordinate_bytes": 662198,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6snn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,40 @@
+{
+  "pdb_id": "2HMH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cd0b7452b631882de660af649dddceecdac8addff1fe445a211174c234b9aeaa",
+  "coordinate_bytes": 170748,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2HMH.cif",
+    "resolved_url": "https://files.rcsb.org/download/2HMH.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "2HMH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.891",
+      "token_chain_id": "A",
+      "token_residue_start": "69",
+      "token_residue_end": "71",
+      "token_residue_start_number": 69,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 71,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YTC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5f1b7d750f31fe9a1b9e66b2bc4341bf7bbf7b43a3fba6a7dc73ff853fd8fb8c",
+  "coordinate_bytes": 328151,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ytc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

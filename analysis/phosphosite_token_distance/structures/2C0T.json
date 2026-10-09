@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2C0T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5ab53515e7708068d74739f09ad79e41961b998a932c09b19d433710177daf83",
+  "coordinate_bytes": 793961,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2c0t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

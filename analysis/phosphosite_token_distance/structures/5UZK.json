@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UZK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fc79cdb87d1e68b1c59fc22ac1eedf06ee3d808e5680b93dbab9d9a9754b8544",
+  "coordinate_bytes": 641356,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5uzk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

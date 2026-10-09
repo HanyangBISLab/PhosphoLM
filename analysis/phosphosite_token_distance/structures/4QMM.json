@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QMM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c572561efac7ffb14bb7b8935250a497aac2a41a5c83eb40146080bcea3b0e12",
+  "coordinate_bytes": 522568,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qmm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

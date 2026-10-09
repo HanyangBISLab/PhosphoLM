@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7ZBN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b0aacc7759d07bba2a79f7c5ff1ebc0b3af39572e6b6c87daffae3b23e7e5ab6",
+  "coordinate_bytes": 4117957,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7zbn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "outside_cutoff": 10,
+    "no_phospho_atoms": 20
+  },
+  "location_warnings": []
+}

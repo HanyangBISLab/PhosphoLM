@@ -1,0 +1,40 @@
+{
+  "pdb_id": "4WJP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3f20099ddd64010b97fb65b8ad0c46f3f28170b634006cb76392158633d0267a",
+  "coordinate_bytes": 486341,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/4WJP.cif",
+    "resolved_url": "https://files.rcsb.org/download/4WJP.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4WJP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 40,
+      "min_distance_A": "5.140",
+      "token_chain_id": "C",
+      "token_residue_start": "74",
+      "token_residue_end": "75",
+      "token_residue_start_number": 74,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 75,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7JIJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "44eeb6681350880f3013d1dc2045ab2740083fe34af5093f39e59eb7a320f9b0",
+  "coordinate_bytes": 1878606,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7jij.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 93,
+    "no_phospho_atoms": 24,
+    "outside_cutoff": 12
+  },
+  "location_warnings": []
+}

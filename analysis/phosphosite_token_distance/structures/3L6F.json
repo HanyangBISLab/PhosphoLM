@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3L6F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "325a260a075f0f3b7f6617075f082772ba5b79265c611eabdf5ef5412e58fdae",
+  "coordinate_bytes": 378706,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3l6f.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3L6F",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.026",
+      "token_chain_id": "B",
+      "token_residue_start": "70",
+      "token_residue_end": "72",
+      "token_residue_start_number": 70,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 72,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

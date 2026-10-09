@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2JDT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "954015a9839f23f85791b69fd6445e4b6e08403eac584cf004b617a0a188e6a3",
+  "coordinate_bytes": 394924,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2jdt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

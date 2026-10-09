@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2GNF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cb400645cf0631cdee36b6d44fff9296ce0440ab965d25ee97c94b768de1198c",
+  "coordinate_bytes": 371911,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2gnf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

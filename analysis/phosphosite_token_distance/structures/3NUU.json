@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3NUU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a92ddd73b2e5d4a80caa13b3d3ce831d657ef58cfa098e95a8687481db210d66",
+  "coordinate_bytes": 311100,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3nuu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

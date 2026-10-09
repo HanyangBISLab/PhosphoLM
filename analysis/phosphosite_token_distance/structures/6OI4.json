@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6OI4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0b0378c204167cd0fbd5503e0fb61c28491e5a7089e1127f6ed68540dcec3483",
+  "coordinate_bytes": 725765,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6oi4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

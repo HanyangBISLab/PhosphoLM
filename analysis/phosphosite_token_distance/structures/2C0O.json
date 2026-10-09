@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2C0O",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "158497be8c7a35e484df375fff8b5e842e446801a2f837948d45974e4ffb9ba4",
+  "coordinate_bytes": 808141,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2c0o.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

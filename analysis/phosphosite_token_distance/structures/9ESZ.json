@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a9c91e3787d0a04d0b473638f431a44d9d827f9b8efc14e0fd4e651872dba4f9",
+  "coordinate_bytes": 989337,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UIR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ac07147616f001abf600ccd80fe66c7a6d26c894c569df6b4b196a3e9727c363",
+  "coordinate_bytes": 890277,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5uir.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

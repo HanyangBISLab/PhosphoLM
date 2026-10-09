@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6N8G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "886fd070171dc46abee3713b6a34ff171f3a6a1b7211983ad56fd5ab7b889fbd",
+  "coordinate_bytes": 1027791,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6n8g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

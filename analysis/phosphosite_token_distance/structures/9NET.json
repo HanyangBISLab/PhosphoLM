@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9NET",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b6622e01e4733a0d9b43e31611a3e7e8bd76557286a4d1edff981639cc0f58c9",
+  "coordinate_bytes": 52510,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9NET.cif",
+    "resolved_url": "https://files.rcsb.org/download/9NET.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

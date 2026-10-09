@@ -1,0 +1,16 @@
+{
+  "pdb_id": "8GWH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dae160212bbf6fa8b71063cca477aa2ebab77c1e589489b1b16b4bd96834a324",
+  "coordinate_bytes": 541536,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8gwh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

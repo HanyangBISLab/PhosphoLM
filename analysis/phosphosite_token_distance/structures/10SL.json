@@ -1,0 +1,18 @@
+{
+  "pdb_id": "10SL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fcffd91b05e9af63d497878d02b335d192370e3dcefdf36efe49327cab1177d1",
+  "coordinate_bytes": 1067032,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/10sl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

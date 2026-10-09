@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8W3W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "47c8190937bad4a602355165d2d7c7e6f3763239e0ec8f47e46f7e31e37492d3",
+  "coordinate_bytes": 1927419,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8w3w.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

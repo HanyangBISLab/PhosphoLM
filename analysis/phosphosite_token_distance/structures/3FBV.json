@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3FBV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dac385e409f1db9de010b5282024e21e92f12452c63646301144d07685e9d7f6",
+  "coordinate_bytes": 9037082,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/3FBV.cif",
+    "resolved_url": "https://files.rcsb.org/download/3FBV.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

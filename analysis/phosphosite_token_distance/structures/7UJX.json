@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7UJX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8c4ff62fb357d8a774797d6f0ea5948c96e7910da68e701c4474f284994fdce2",
+  "coordinate_bytes": 825148,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ujx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

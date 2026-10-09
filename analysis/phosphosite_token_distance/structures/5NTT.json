@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NTT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "17faf526eef2c97fcaa921e9522e5fb38774e6a5db139299c93d320fbff5b584",
+  "coordinate_bytes": 507482,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ntt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7P74",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "55d528da4e6e8e47e28d0f5a6256ee3defbbf5a2929d502ae540757775906cdd",
+  "coordinate_bytes": 755780,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7p74.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

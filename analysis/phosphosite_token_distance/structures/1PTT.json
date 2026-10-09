@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1PTT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4ac894aa226186c514133bf4eebc6890619802b225ca626f1b6c6b73473b9321",
+  "coordinate_bytes": 286389,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ptt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3,
+    "no_token_atoms": 120
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ZTN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dec017025bb11aeb2ed7d1a30fb8bbb647c8eed639e25ef7ab2488bc0f3ff7fe",
+  "coordinate_bytes": 737130,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ztn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

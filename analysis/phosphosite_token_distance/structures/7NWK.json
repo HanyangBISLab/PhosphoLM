@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7NWK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b8cb117f00d7c722d44646dde2b2cfafa40895ea72e661dd63505f9c2f5d4ae1",
+  "coordinate_bytes": 888055,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7nwk.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GER",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7NWK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 11,
+      "min_distance_A": "4.756",
+      "token_chain_id": "A",
+      "token_residue_start": "202",
+      "token_residue_end": "204",
+      "token_residue_start_number": 202,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 204,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

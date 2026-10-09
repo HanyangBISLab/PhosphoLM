@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5WV3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "93670e16996709fb819a16beced034a7f3079ee7034e210f62bbcc71e077c4f3",
+  "coordinate_bytes": 1069545,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5wv3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

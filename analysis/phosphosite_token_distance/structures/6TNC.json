@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6TNC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "138d31ef99f35ef7bde1096f660923c4d3b6fb045ab0986aa8d803aca4191156",
+  "coordinate_bytes": 473599,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6tnc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2VGO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bcffc9a31e8fe943760fa38e1eacf0ed9b97c6101473ea59f033d6e4f7ef9389",
+  "coordinate_bytes": 656834,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vgo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

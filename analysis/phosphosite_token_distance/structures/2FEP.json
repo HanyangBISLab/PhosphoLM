@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2FEP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c561b0cb555521c7b7addb49bb38642627247134784e856d5627b0c00f8083a4",
+  "coordinate_bytes": 337087,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2fep.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

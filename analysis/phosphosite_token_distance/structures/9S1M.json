@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9S1M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1a981b41377c1de8be94ac4c5591d66d0ca5811855f7802c1474ec5bf1c42dc7",
+  "coordinate_bytes": 6238359,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9S1M.cif",
+    "resolved_url": "https://files.rcsb.org/download/9S1M.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 84,
+    "no_phospho_atoms": 30,
+    "outside_cutoff": 15
+  },
+  "location_warnings": []
+}

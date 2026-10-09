@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5VI9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3e3e9b4ea3c6be4a3155d57d447cd9cd0f16fd98dbaea054ff066b902bdc31cc",
+  "coordinate_bytes": 372467,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5vi9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

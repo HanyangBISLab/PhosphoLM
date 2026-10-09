@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QFS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a60ecf8f685a967bb3f8376c2d2f28ec44c44b98856f7f0b73aa240763a54ba1",
+  "coordinate_bytes": 1296373,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qfs.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8GI5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e12b33e2e63951234b660cea659603245dfe9f8abeba2a1ab9354b101629d48c",
+  "coordinate_bytes": 60409,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/8GI5.cif",
+    "resolved_url": "https://files.rcsb.org/download/8GI5.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

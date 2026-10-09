@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6HM4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "133260d7385a0bede42dc93dc24e87598b0f633d5b49807cb7169727d41749a7",
+  "coordinate_bytes": 276145,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hm4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7V3X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a03aa978fcecba007602e103b80eb27a51b02c2c6e5ece118b8a0c0714a57932",
+  "coordinate_bytes": 16117226,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7v3x.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2AZM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "16091b3f91ce297cd4094b2c626da6244cf769e910a1aa0e26f2ce9d903e3c5c",
+  "coordinate_bytes": 402071,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2azm.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GER",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2AZM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 48,
+      "phospho_atom_count": 20,
+      "min_distance_A": "8.679",
+      "token_chain_id": "B",
+      "token_residue_start": "1905",
+      "token_residue_end": "1907",
+      "token_residue_start_number": 1905,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1907,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

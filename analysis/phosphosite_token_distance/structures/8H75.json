@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8H75",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9b3e39be814ddcf7ed89bab2cff5b52c9c6f0863fe33f5393de547223804c49a",
+  "coordinate_bytes": 1046877,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8h75.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

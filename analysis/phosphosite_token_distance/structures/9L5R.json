@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9L5R",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5dc83abea4d04be60eb7065c78f1423e671ccc0697a4963105cbd2bf0d7b1ff6",
+  "coordinate_bytes": 13606476,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9l5r.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 39,
+    "no_phospho_atoms": 78,
+    "no_token_atoms": 12
+  },
+  "location_warnings": []
+}

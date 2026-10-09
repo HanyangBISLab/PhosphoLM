@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7DYN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ea0c36363dba8353433e8abc2dac6dc2451ba63d485729751d1ceffc64df7b10",
+  "coordinate_bytes": 474481,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dyn.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7DYN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 20,
+      "min_distance_A": "8.231",
+      "token_chain_id": "A",
+      "token_residue_start": "149",
+      "token_residue_end": "151",
+      "token_residue_start_number": 149,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 151,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LRE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c7f8512fc43a88ad121503f27b3b9c46d6b137150c03b21e9bd17f7ffaf6de0",
+  "coordinate_bytes": 1065429,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lre.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

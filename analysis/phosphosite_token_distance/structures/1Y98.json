@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1Y98",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5db056d26768e93d7fa7d85bc9165e8308f753a4cc1ee31037852c1cb0d2a6e3",
+  "coordinate_bytes": 247255,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1y98.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ING",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "621893f629d0b1547846855259c97f0c420e32b5f3a5531e97f2914e11244b61",
+  "coordinate_bytes": 669835,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ing.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

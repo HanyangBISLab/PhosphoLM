@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OW4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d929f38bea3054fca1c42545c3ac6ed531be411a3fb9f8ed7e0dfce7725ea92b",
+  "coordinate_bytes": 589897,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ow4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

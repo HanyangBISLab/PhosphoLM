@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4LRA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "93fa84bea7bff22d2821a18a6c5ab1c69a06d9998ae415ef805cf9a813a58ed9",
+  "coordinate_bytes": 1892211,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4lra.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

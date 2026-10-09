@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2EIK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f1bf73acea00ef81db9ff485bd13f6f5060d8ec2a75a717c7f604790272c6cca",
+  "coordinate_bytes": 3505255,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2eik.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

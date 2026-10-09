@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7LF8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "18fbeb84d82830fde15384e3546593f179ea7413be2b0baa51348ec99c45cd0d",
+  "coordinate_bytes": 1423882,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7lf8.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7LF8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 30,
+      "phospho_atom_count": 11,
+      "min_distance_A": "5.404",
+      "token_chain_id": "A",
+      "token_residue_start": "40",
+      "token_residue_end": "42",
+      "token_residue_start_number": 40,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 42,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

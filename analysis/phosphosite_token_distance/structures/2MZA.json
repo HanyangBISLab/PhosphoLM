@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2MZA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "387329bb2f2df05ffeff09435ee566f34c5618947351378a446d99fb7d6dde0f",
+  "coordinate_bytes": 534459,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2MZA.cif",
+    "resolved_url": "https://files.rcsb.org/download/2MZA.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

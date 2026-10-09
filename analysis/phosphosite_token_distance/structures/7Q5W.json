@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7Q5W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6ef0c4a698c669950d32916c47af36531507b4dfb2503adccb32aff2b99dcb5d",
+  "coordinate_bytes": 1488586,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7q5w.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7Q5W",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 324,
+      "phospho_atom_count": 192,
+      "min_distance_A": "2.611",
+      "token_chain_id": "FFF",
+      "token_residue_start": "193",
+      "token_residue_end": "195",
+      "token_residue_start_number": 193,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 195,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 12,
+      "token_occurrence_count": 12
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

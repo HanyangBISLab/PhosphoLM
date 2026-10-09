@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6QHD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "197e74457abe071d2bd95e4fce1d42438f6f1ad28f7da85bb0c21f364337ac46",
+  "coordinate_bytes": 1924140,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6qhd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VEP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6QHD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 32,
+      "min_distance_A": "3.515",
+      "token_chain_id": "B",
+      "token_residue_start": "637",
+      "token_residue_end": "639",
+      "token_residue_start_number": 637,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 639,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

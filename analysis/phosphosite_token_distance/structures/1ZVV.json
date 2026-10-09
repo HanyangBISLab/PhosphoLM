@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1ZVV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a03bfb2d8aa6d85ac94815042ff0692cc8e3fc49e0d95384b39ab44ddaf1d3e9",
+  "coordinate_bytes": 1163548,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1zvv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "SEP",
+      "pdb_id": "1ZVV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 63,
+      "phospho_atom_count": 30,
+      "min_distance_A": "9.450",
+      "token_chain_id": "P",
+      "token_residue_start": "13",
+      "token_residue_end": "15",
+      "token_residue_start_number": 13,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 15,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

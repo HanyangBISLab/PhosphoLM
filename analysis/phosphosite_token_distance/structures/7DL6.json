@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7DL6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e7f9f8b42a92fcc1268be439d31b3469c1d0fd0687410e3a0fd32023bb2badd",
+  "coordinate_bytes": 572538,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dl6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

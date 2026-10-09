@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7REE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "30d7f3309162c84550950b35053fb24e931810658c811e178e34cfc5bdd7990f",
+  "coordinate_bytes": 572494,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ree.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

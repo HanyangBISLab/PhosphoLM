@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8B54",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "87632511b072b2f2124b8f7ebff6bb5cf4d882d1b2d1fe090082875f91d19247",
+  "coordinate_bytes": 974119,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8b54.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

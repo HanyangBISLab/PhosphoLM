@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DG0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "21dd6b6046f078a26b525b28d229cd81e47c545c23b5fdc2e5f0316db5837ee2",
+  "coordinate_bytes": 739390,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dg0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

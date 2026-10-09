@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "005bf50e715105f5769baae0165f05db95e81fb2b8fe3f2cfb70bab8f49362a3",
+  "coordinate_bytes": 1690261,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eok.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

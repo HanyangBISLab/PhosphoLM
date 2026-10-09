@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2IW9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f7cc9d10b112fa62ca8293d2f5af1d7a18e673ae0921509b0b7e60bf4e975500",
+  "coordinate_bytes": 1003447,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2iw9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

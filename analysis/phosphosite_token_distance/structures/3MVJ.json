@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3MVJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1487f6f733488ce7f97e824ae951c70368c69afd4b5169a29334325fe8cf9632",
+  "coordinate_bytes": 932523,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3mvj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

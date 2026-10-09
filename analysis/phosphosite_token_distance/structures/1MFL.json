@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1MFL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b1ed31b4509275df924a6b81b2d46af1ddfa4cd74a8a717ad86e35799a3baa5d",
+  "coordinate_bytes": 133269,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1mfl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

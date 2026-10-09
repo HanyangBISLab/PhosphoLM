@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3P37",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bf71643da25c8f96d42fd8afba13a216d99bdc0913fa1eeace908cc4695f2455",
+  "coordinate_bytes": 1053415,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3p37.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

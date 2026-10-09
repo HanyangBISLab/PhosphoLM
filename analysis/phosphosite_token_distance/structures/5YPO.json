@@ -1,0 +1,102 @@
+{
+  "pdb_id": "5YPO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f956afa96cb421b760e4997e81c98493c79f6b3be51eb80e3508a37bc8fc8161",
+  "coordinate_bytes": 400303,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ypo.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5YPO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 20,
+      "min_distance_A": "8.846",
+      "token_chain_id": "A",
+      "token_residue_start": "687",
+      "token_residue_end": "688",
+      "token_residue_start_number": 687,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 688,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "AAR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5YPO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 20,
+      "min_distance_A": "6.159",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "RPR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5YPO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 66,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.984",
+      "token_chain_id": "A",
+      "token_residue_start": "651",
+      "token_residue_end": "653",
+      "token_residue_start_number": 651,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 653,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5YPO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.446",
+      "token_chain_id": "D",
+      "token_residue_start": "-3",
+      "token_residue_end": "-1",
+      "token_residue_start_number": -3,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": -1,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "within_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "AAR",
+      "monomer": "SEP",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

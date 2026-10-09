@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "68229f05cb9111e4e10836dbd4ac0bae853551a1bb75fc4d1ed7bb97f982f5a4",
+  "coordinate_bytes": 996673,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

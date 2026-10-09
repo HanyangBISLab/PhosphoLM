@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4GVC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "42a91072e93761e928799462d64244ef48eff778acdc220d9ff8f48005024e1b",
+  "coordinate_bytes": 220420,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/4GVC.cif",
+    "resolved_url": "https://files.rcsb.org/download/4GVC.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

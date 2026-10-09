@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5D3E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "813b6544801dd13c34eb105b5544fd2215fc1e43e50550a61ed7283927eec253",
+  "coordinate_bytes": 1203710,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5d3e.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5D3E",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 162,
+      "phospho_atom_count": 60,
+      "min_distance_A": "2.774",
+      "token_chain_id": "I",
+      "token_residue_start": "55",
+      "token_residue_end": "57",
+      "token_residue_start_number": 55,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 57,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 5,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

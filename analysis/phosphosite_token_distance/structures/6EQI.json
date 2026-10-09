@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6EQI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "949e5180c9e96039e77b3128540aec911116b41466b44cbfe9077754f7951ba1",
+  "coordinate_bytes": 902194,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6eqi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 16,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

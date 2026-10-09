@@ -1,0 +1,60 @@
+{
+  "pdb_id": "25GN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f8a016b3ed260eb229d63e639ead7f83da7b17455e30940454751907343317bd",
+  "coordinate_bytes": 769998,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/25GN.cif",
+    "resolved_url": "https://files.rcsb.org/download/25GN.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "HED",
+      "phospho_monomer": "TPO",
+      "pdb_id": "25GN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 22,
+      "min_distance_A": "8.085",
+      "token_chain_id": "C",
+      "token_residue_start": "295",
+      "token_residue_end": "297",
+      "token_residue_start_number": 295,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 297,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "25GN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.079",
+      "token_chain_id": "C",
+      "token_residue_start": "290",
+      "token_residue_end": "292",
+      "token_residue_start_number": 290,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 292,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 12,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 7,
+    "no_token_atoms": 108
+  },
+  "location_warnings": []
+}

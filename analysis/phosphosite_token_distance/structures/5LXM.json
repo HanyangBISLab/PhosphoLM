@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5LXM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3905de2f8544047c3ac5224350f82cda3d5409b5b16978b35e3f3c71e4d3f0f1",
+  "coordinate_bytes": 581850,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lxm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

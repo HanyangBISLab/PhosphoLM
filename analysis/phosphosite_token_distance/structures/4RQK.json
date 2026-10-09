@@ -1,0 +1,16 @@
+{
+  "pdb_id": "4RQK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7dae22ce8b53ae6adf7eff3df57858e2e6de5b3380a758be6952e6d12275d23b",
+  "coordinate_bytes": 825041,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4rqk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

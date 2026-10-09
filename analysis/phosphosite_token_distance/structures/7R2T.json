@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7R2T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "45c877243a3229c0f27703f9f6d0432881192e55617f3d81d3c7082752a89895",
+  "coordinate_bytes": 700242,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7r2t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

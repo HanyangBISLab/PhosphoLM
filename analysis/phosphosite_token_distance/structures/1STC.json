@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1STC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d28712cdeb8cf1e92e4deff1c97cb2b32234058c7a59104f36bb8da71b0296e7",
+  "coordinate_bytes": 355811,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1stc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

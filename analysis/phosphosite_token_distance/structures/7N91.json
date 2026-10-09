@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7N91",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3c5fdef2276d780a3fae251f608e27022c388cdf20e0efdb1cd76afaa6201d7d",
+  "coordinate_bytes": 556101,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7n91.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

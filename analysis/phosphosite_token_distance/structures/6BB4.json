@@ -1,0 +1,77 @@
+{
+  "pdb_id": "6BB4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f28186d710220916e42e1f172a3fd595bca9dbfee75faeb5b7b989edad439f4c",
+  "coordinate_bytes": 1165331,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6bb4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6BB4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 66,
+      "phospho_atom_count": 30,
+      "min_distance_A": "9.852",
+      "token_chain_id": "H",
+      "token_residue_start": "47",
+      "token_residue_end": "48",
+      "token_residue_start_number": 47,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 48,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    },
+    {
+      "token": "GDD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6BB4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 60,
+      "phospho_atom_count": 30,
+      "min_distance_A": "9.463",
+      "token_chain_id": "H",
+      "token_residue_start": "53",
+      "token_residue_end": "55",
+      "token_residue_start_number": 53,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 55,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    },
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6BB4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 81,
+      "phospho_atom_count": 30,
+      "min_distance_A": "2.697",
+      "token_chain_id": "H",
+      "token_residue_start": "93",
+      "token_residue_end": "95",
+      "token_residue_start_number": 93,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 95,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "within_cutoff": 3,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,79 @@
+{
+  "pdb_id": "30TS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a1756fe2f5c2f752237418244a9f9429196c531a9fb39cf3ee2e86066ea58643",
+  "coordinate_bytes": 298486,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/30TS.cif",
+    "resolved_url": "https://files.rcsb.org/download/30TS.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "30TS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.272",
+      "token_chain_id": "A",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "AAA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "30TS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 15,
+      "phospho_atom_count": 10,
+      "min_distance_A": "1.339",
+      "token_chain_id": "B",
+      "token_residue_start": "1251",
+      "token_residue_end": "1253",
+      "token_residue_start_number": 1251,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1253,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "VPA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "30TS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 19,
+      "phospho_atom_count": 10,
+      "min_distance_A": "1.336",
+      "token_chain_id": "B",
+      "token_residue_start": "1255",
+      "token_residue_end": "1257",
+      "token_residue_start_number": 1255,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1257,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "within_cutoff": 3,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6RR0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fcb7b59eb67fd920787effe3091d9b2b6464e01883afc4303a53f5d36e31da84",
+  "coordinate_bytes": 1455658,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6RR0.cif",
+    "resolved_url": "https://files.rcsb.org/download/6RR0.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

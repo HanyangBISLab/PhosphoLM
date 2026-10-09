@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3P35",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "46b07fd6eba21d3a80fd973f77e3824b8ca858abdefe5c0b158d715274c004e2",
+  "coordinate_bytes": 1098261,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3p35.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

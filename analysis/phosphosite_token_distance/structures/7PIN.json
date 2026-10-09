@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7PIN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "594468fb30ec0d5961a410cedea02b90c70dd89e657a05564902bdd4f0742caf",
+  "coordinate_bytes": 16529728,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7pin.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 57,
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 48
+  },
+  "location_warnings": []
+}

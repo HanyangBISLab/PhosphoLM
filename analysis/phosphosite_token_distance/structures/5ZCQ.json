@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ZCQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "03ff073e969d6a1cc98d534a2180a93c551c276873fa7652bb4c1205ac581890",
+  "coordinate_bytes": 6511964,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5zcq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

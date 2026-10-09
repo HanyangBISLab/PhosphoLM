@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2IVU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "63f5431f5d4442ca1a01e7862d61231d0c8df2b23449911f0ac11b392772a55d",
+  "coordinate_bytes": 302780,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2ivu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

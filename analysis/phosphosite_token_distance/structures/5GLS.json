@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5GLS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0a33d9835e86bf2ed2f4b5a04ea13328e2bde2b9be6060327c52d1692a02cbf3",
+  "coordinate_bytes": 635122,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5gls.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

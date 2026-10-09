@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5AEP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bffed60a34c36d707177f48d0f9bbb5a15d879c8742e72dfa4743b3e551a7233",
+  "coordinate_bytes": 320967,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5aep.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

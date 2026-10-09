@@ -1,0 +1,17 @@
+{
+  "pdb_id": "7RN6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c77a0b3b7fdf1ea779005d00f2652615764969a65178b7ff05fa08c940c3b87e",
+  "coordinate_bytes": 523223,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7rn6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

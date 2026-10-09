@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7KUE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7aa3b77559f099963c63635dcc65dc3f47db8cf6a396b93a9a9b2c4e2cf16ec0",
+  "coordinate_bytes": 597894,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7kue.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

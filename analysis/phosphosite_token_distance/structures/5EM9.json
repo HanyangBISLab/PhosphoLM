@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5EM9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f52c05b0cc0016620125203ea7e7877442a9fadc661f618581ec4b17d8ceb3f5",
+  "coordinate_bytes": 300663,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5em9.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5EM9",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 43,
+      "phospho_atom_count": 14,
+      "min_distance_A": "7.445",
+      "token_chain_id": "A",
+      "token_residue_start": "96",
+      "token_residue_end": "98",
+      "token_residue_start_number": 96,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 98,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

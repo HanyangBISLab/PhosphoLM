@@ -1,0 +1,16 @@
+{
+  "pdb_id": "7B1F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0c52e0215b74f02329ad91b30fa5d4403492550b30ea1b1a368923aed5fb9cab",
+  "coordinate_bytes": 308614,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7b1f.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6HRA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f6033a2f324e5ad80766380dd325b9d866c66b88ff1654a8718a3aab6e79eaa2",
+  "coordinate_bytes": 1132749,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hra.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

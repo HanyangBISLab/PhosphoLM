@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4ZTL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "880b5a8c5ca203ee342bbbcb8b7b49048e66068e16f20d855f1811fe287afdfb",
+  "coordinate_bytes": 959221,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ztl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

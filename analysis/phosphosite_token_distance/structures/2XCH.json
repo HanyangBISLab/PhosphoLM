@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2XCH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3e276ddabf59d2afeb346c66f8aa603d536a0f900562f40efd6b6c2b5cd62e88",
+  "coordinate_bytes": 318106,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2xch.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

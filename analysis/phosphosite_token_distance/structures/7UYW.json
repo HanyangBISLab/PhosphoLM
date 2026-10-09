@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7UYW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b719e2cabe1c7f04aa0f6178a658b5bde0d7630837d24e7cd4ce0654707dc68b",
+  "coordinate_bytes": 311795,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7uyw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

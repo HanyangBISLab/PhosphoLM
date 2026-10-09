@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "74f3f672a8e4520061beea20af333be76ca4ba158aab61daacfc3b140fa78a0c",
+  "coordinate_bytes": 1730774,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eom.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

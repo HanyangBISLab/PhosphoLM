@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2LID",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d3ea8dd6df60a5c6c6126962c70e7d7a2ea5f3ab04e3079703a535b67d27bba0",
+  "coordinate_bytes": 1022721,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LID.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LID.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

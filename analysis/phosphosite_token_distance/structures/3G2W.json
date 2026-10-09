@@ -1,0 +1,17 @@
+{
+  "pdb_id": "3G2W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9fb3c8bc5f3bb789a5b4a3e195f0eef81b21c64b8a54a63401704156f04f6a55",
+  "coordinate_bytes": 492339,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3g2w.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

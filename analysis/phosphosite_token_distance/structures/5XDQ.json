@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5XDQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "94db9b2b150d8d891358d06ce3fdd7c201efb8544768bbb56d0f9a53b5665aee",
+  "coordinate_bytes": 6457628,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5xdq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ORN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a51b1c3f548f7f5632312de4b5704a809e66a651aef224c640f5b671b35a867e",
+  "coordinate_bytes": 498610,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5orn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

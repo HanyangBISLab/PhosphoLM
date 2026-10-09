@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1U54",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7f5f7acdff1050cc69f1de626a644341817bcffa7ef915b221bbcc4f71a53369",
+  "coordinate_bytes": 519957,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1u54.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1U54",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 16,
+      "min_distance_A": "9.443",
+      "token_chain_id": "A",
+      "token_residue_start": "269",
+      "token_residue_end": "271",
+      "token_residue_start_number": 269,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 271,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

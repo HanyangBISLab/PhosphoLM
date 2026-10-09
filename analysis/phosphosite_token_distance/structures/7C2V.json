@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7C2V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f73748e6a64bf9fcf663c6caf0729a1f530479d0859fc0743b98d099c1b26400",
+  "coordinate_bytes": 1025903,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7c2v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

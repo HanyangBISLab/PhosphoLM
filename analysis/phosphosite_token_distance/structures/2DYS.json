@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2DYS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "08697997d75f0e1dee2fab080e2a9b1f84cd8f8c107a2e460c7793b4db832274",
+  "coordinate_bytes": 3466171,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2dys.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

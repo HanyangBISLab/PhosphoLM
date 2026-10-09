@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8P81",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "76087a82c6c16394ddd34b5e9beb69a1f5c86a32d97d9daed8143871b52adb69",
+  "coordinate_bytes": 929448,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8p81.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

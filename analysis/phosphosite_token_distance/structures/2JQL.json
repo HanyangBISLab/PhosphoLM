@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2JQL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "579547f8edfb1c15264c3baf0d3da75ece91c5946a882055152ed6c4b45570ee",
+  "coordinate_bytes": 4473113,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2jql.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

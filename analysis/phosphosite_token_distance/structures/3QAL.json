@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3QAL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e8392764bc27b5997194df7c8cf7d884add505b630edf92dfcee4738080a7217",
+  "coordinate_bytes": 410496,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qal.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

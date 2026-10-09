@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1A1C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "482da49ac3d72909cf9364079a7add2a6e7f369cb74c55c866dd8fa541f6aa2f",
+  "coordinate_bytes": 288432,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1a1c.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

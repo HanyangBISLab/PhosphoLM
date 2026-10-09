@@ -1,0 +1,18 @@
+{
+  "pdb_id": "28OQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "abcc9b53c150f61c69c11215ac804ea0057ff858dce0e01ad7adb50581dd2170",
+  "coordinate_bytes": 971306,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/28oq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

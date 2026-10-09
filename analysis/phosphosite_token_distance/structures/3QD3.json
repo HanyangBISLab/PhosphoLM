@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3QD3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "96b6b3867df5fb144eee643ff34e50d9f25a79eb8a0cf311d8d1277036b35bbe",
+  "coordinate_bytes": 302246,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qd3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

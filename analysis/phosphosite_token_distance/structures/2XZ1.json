@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2XZ1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7cdff9f1d5684e291e5b5079d94eebcd41f78c54058eb649d2cdf4e073044f77",
+  "coordinate_bytes": 1368167,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2xz1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7S6U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fd9cd77ee966033846df69ae955b0160afe8b3bd8daf90953fcf95ce71baba95",
+  "coordinate_bytes": 606495,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7s6u.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

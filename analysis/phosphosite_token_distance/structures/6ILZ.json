@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ILZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ae67e1ed34ebcbe33602f9cf41fa8522251a703714bd5b481aaee4c41b1633d0",
+  "coordinate_bytes": 1864121,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ilz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

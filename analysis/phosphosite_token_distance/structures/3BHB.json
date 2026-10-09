@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3BHB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a95baf1f015e3acdbcd2f03329a695c1f05525b35f5d6292face64f457fe07eb",
+  "coordinate_bytes": 374665,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3bhb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "pdb_id": "29RY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b089fe1766b386f835f3c03f03ba23385d9d164c94b70175882ff991de606f8a",
+  "coordinate_bytes": 616684,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/29RY.cif",
+    "resolved_url": "https://files.rcsb.org/download/29RY.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

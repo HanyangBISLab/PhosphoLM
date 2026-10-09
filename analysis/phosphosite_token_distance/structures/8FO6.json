@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8FO6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f826e530be0c7b389eb76d1f95958c5ec81a5bf6404fa284da186e7c19112d22",
+  "coordinate_bytes": 642142,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8fo6.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8FO6",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 26,
+      "phospho_atom_count": 11,
+      "min_distance_A": "6.502",
+      "token_chain_id": "B",
+      "token_residue_start": "118",
+      "token_residue_end": "120",
+      "token_residue_start_number": 118,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 120,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4IIR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7276b8b60ad2749979717062ef9965e2f0c8ce9b4b0c9d9b62db3d69b1fc2a71",
+  "coordinate_bytes": 685201,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4iir.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4IIR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.838",
+      "token_chain_id": "B",
+      "token_residue_start": "895",
+      "token_residue_end": "896",
+      "token_residue_start_number": 895,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 896,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

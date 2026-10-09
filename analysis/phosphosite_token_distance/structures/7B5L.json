@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7B5L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ec80384059e713427811cbe4528cc3c90f8d1f049f132b07420da3aaf4ec1cc3",
+  "coordinate_bytes": 2302585,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7b5l.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 34,
+    "outside_cutoff": 17,
+    "no_token_atoms": 78
+  },
+  "location_warnings": []
+}

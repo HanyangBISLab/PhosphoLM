@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6VNY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "68b291a525f5c5a5a61f0c3c63d8bee1c362633066759cb51666b43aed87940b",
+  "coordinate_bytes": 325169,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6vny.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

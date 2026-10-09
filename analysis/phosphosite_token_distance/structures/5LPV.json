@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5LPV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1617716ab5df48a95536bd7ec88ad1b7a30d60af55ff754f44899a3d67e5435c",
+  "coordinate_bytes": 490756,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lpv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5LPV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 17,
+      "phospho_atom_count": 20,
+      "min_distance_A": "5.540",
+      "token_chain_id": "A",
+      "token_residue_start": "920",
+      "token_residue_end": "922",
+      "token_residue_start_number": 920,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 922,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 1,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a985dac4efc8c2ef64e2caed21af64813bbe2ef88e74b835160966432e9cb70b",
+  "coordinate_bytes": 998880,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

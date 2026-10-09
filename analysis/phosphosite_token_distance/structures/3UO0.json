@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3UO0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8132ab464b7256a3ade43a5b5a76bb1c5ff142e1dfe39e1a88e7f709e08ebb40",
+  "coordinate_bytes": 1873351,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3uo0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

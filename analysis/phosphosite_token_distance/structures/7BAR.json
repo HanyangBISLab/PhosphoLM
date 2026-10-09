@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7BAR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "88435b95e66c972f4b257213093d08612a7683fd5c95cfd2d7c1ea4a02c42e9f",
+  "coordinate_bytes": 961202,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7bar.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

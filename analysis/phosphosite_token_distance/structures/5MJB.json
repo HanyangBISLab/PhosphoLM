@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5MJB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ef3ec3fbe80a9a8d0555bfdfba1e41b6bdb9c39d162da953fc37c7149e24e65b",
+  "coordinate_bytes": 928018,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5mjb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

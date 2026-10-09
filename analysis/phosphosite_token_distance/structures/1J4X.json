@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1J4X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7cc4cd755574d4e624d241a3b8c80bf303e738334ced000f46c399ad18e72260",
+  "coordinate_bytes": 208114,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1j4x.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

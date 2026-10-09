@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2PIL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1edbc7ddf55527cd31a090c30787a8648b6593d990c2a961a9b15069033c7da0",
+  "coordinate_bytes": 216412,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2pil.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

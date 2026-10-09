@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3QAM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "88b0c9b167a3ee13472d5643bedd6fb8e56ee04cd240fb1fd3d7cb5db8c233c2",
+  "coordinate_bytes": 406895,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qam.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

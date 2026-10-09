@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2VX3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9e98259d99b64c4b011e251ca1f807e4e0a723293534c289a525fd1517759b1c",
+  "coordinate_bytes": 1270604,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vx3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

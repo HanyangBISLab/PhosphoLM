@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5VAX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a6589d3b1b9ecdb5c41834ee1cbfddd417dad285d23d018cdb6d7afa88dda203",
+  "coordinate_bytes": 593499,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5vax.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "FGG",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5VAX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 76,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.544",
+      "token_chain_id": "B",
+      "token_residue_start": "153",
+      "token_residue_end": "155",
+      "token_residue_start_number": 153,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 155,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

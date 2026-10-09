@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ORW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "83b1a67bbf6e57cb5dcfb6015eb88f1c29e831821203dad8c5c31b88fd885695",
+  "coordinate_bytes": 317206,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5orw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

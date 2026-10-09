@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7DXQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d6ac67814917766c6b4a55f33c751e0e02b7321a830964c7b8ccc930b909b4c6",
+  "coordinate_bytes": 2366544,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dxq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

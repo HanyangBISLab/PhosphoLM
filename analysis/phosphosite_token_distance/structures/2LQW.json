@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2LQW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "74ee58380da1d8f4c10c81f0405ced74e1eaa4dcb516ca5e0537ae294933cc4e",
+  "coordinate_bytes": 8669810,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2lqw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

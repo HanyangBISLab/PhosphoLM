@@ -1,0 +1,57 @@
+{
+  "pdb_id": "3P9Y",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "910bcb205fec51b617d64f7dde6751065d9bbdc474d681ecebd8087f876753fe",
+  "coordinate_bytes": 1381657,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3p9y.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GER",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3P9Y",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 184,
+      "phospho_atom_count": 53,
+      "min_distance_A": "6.603",
+      "token_chain_id": "B",
+      "token_residue_start": "40",
+      "token_residue_end": "42",
+      "token_residue_start_number": 40,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 42,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "EDA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3P9Y",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 148,
+      "phospho_atom_count": 53,
+      "min_distance_A": "5.854",
+      "token_chain_id": "C",
+      "token_residue_start": "147",
+      "token_residue_end": "149",
+      "token_residue_start_number": 147,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 149,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

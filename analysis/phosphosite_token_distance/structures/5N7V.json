@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5N7V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "068e327b2ca6f1b169ab3b86df36f0d36975744ee4ea33fb9c23d4f8f0688432",
+  "coordinate_bytes": 303467,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5n7v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

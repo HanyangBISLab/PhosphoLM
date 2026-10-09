@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6HCE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5766309251b15be31b6b90e877e0bc5cde7d80a7bbe3cd7d46fe7a0ca275a90a",
+  "coordinate_bytes": 404156,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hce.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8TVM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "49cf62ee6992102b4a9fa423797d92c456dec9b43759228dea94f6748bd09f3f",
+  "coordinate_bytes": 1891040,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8tvm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

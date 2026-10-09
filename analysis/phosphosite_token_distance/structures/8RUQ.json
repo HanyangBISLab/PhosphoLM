@@ -1,0 +1,17 @@
+{
+  "pdb_id": "8RUQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f3cf0e46745b9731b5f93f39f07b7f98630ea34ec488af8e0847edeca9f74910",
+  "coordinate_bytes": 2315864,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ruq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 24
+  },
+  "location_warnings": []
+}

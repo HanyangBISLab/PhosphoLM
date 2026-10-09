@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1AD5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "901edde7a49f27b4a39611ed2c78f04abf65a98f080767e8058ece5d36570298",
+  "coordinate_bytes": 927444,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ad5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

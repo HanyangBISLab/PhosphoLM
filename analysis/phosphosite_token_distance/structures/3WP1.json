@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3WP1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f6ab95ccaa3f41a7ea6ef73766fd8670f0dc6c2b6622ab298c2c0742d2513f79",
+  "coordinate_bytes": 345563,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3wp1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

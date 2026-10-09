@@ -1,0 +1,58 @@
+{
+  "pdb_id": "1IRS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fbb26ebb5c8fae26118b15de3c9cc9dcecebb75df81015c6a2aab03c75d2f223",
+  "coordinate_bytes": 233814,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1irs.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LEA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1IRS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 25,
+      "min_distance_A": "8.326",
+      "token_chain_id": "A",
+      "token_residue_start": "254",
+      "token_residue_end": "256",
+      "token_residue_start_number": 254,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 256,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "RPR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1IRS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 63,
+      "phospho_atom_count": 25,
+      "min_distance_A": "9.462",
+      "token_chain_id": "A",
+      "token_residue_start": "265",
+      "token_residue_end": "267",
+      "token_residue_start_number": 265,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 267,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

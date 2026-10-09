@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6EM6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e507f419b32ae887f01a3d5465c68256765c64eed21c9c912fc11e0bedc8de3e",
+  "coordinate_bytes": 908126,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6em6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6B2Q",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fa55e086cd6ff333eb1409ff91730dbeb26ade74674eafac9e6c1869f2b3db92",
+  "coordinate_bytes": 1624777,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6b2q.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

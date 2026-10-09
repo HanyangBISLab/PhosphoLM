@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2VIF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d73ef48904f4be0d0a4280a3d27c896206ed8ecbe86fd56c79e180ade250cc03",
+  "coordinate_bytes": 302946,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vif.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

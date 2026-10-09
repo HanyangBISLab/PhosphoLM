@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ISO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5b2df5397e61f9fa4b3615446a58bdcb00ee4b232f52dd38091a60e205a0591b",
+  "coordinate_bytes": 3030956,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5iso.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

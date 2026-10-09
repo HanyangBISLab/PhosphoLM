@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2PIE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4934c13754e0004cec14e4fa3f4cae78eaad53f0ead5cc36a8c0dd0ee0e27d10",
+  "coordinate_bytes": 198801,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2pie.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2PIE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 11,
+      "min_distance_A": "4.703",
+      "token_chain_id": "A",
+      "token_residue_start": "62",
+      "token_residue_end": "63",
+      "token_residue_start_number": 62,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 63,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

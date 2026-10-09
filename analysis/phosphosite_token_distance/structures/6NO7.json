@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6NO7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "be446e339bd6195c12c488b8bf59c410199b4ec5cf22636e2dfca4faabbc03c8",
+  "coordinate_bytes": 3831038,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6no7.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6NO7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.431",
+      "token_chain_id": "D",
+      "token_residue_start": "106",
+      "token_residue_end": "108",
+      "token_residue_start_number": 106,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 108,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

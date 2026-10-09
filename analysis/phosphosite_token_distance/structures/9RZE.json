@@ -1,0 +1,17 @@
+{
+  "pdb_id": "9RZE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2ea18d82a62d845b6a3f0184255d4fc67ab2704a87c69100c79b10c94d96762a",
+  "coordinate_bytes": 8786149,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rze.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 114,
+    "no_token_atoms": 15
+  },
+  "location_warnings": []
+}

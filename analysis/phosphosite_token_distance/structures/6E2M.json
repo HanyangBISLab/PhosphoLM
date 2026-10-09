@@ -1,0 +1,45 @@
+{
+  "pdb_id": "6E2M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "60a6e6759fc8e35484efcde420d1e517eda531bfa22001bc2787d83c1d3b6c97",
+  "coordinate_bytes": 479744,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6e2m.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "INP",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6E2M",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 7,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.423",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "INP",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

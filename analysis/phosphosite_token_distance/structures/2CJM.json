@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2CJM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7f18ffb65b76f2f6ea687bb1e6e7a1498e47cb19136c21a3d40d9b9abc58e480",
+  "coordinate_bytes": 1075965,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2cjm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 5,
+    "outside_cutoff": 10,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

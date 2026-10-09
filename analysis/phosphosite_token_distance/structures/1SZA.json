@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SZA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "48e1b7499f25bdb9a404816928525de6794b42d4bc22b1dfa872452b6a6130ed",
+  "coordinate_bytes": 399682,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1sza.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

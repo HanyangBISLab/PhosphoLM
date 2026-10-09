@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8GBT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ae6d90254370a4fae23dec58da8f6fbe3422e8b9d02a47d33b12a20c63cf65f9",
+  "coordinate_bytes": 3387548,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8gbt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

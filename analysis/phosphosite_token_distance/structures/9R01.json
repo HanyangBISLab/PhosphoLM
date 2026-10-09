@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9R01",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b200d7535ee0af6dd4aca78bcfe5f9bcc23eb9cf954b7d7b1c97538af41a4969",
+  "coordinate_bytes": 7641510,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9r01.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9R01",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 10,
+      "min_distance_A": "9.319",
+      "token_chain_id": "k",
+      "token_residue_start": "229",
+      "token_residue_end": "231",
+      "token_residue_start_number": 229,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 231,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 32,
+    "no_phospho_atoms": 66,
+    "no_token_atoms": 30,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

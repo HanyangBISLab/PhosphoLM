@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ZML",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "71b9c4587bc54215715d1f2b3cfc4525d9f3ba05df4affb2a6418255f7b8e076",
+  "coordinate_bytes": 634531,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8zml.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

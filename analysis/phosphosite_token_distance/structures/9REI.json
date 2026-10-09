@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9REI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "92d7dcba705008d0be27ba2d3f0cd7d87b01157602707c52baf0c584b473fd4a",
+  "coordinate_bytes": 742401,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rei.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

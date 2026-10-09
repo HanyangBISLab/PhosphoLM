@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6SPY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "358db1097a5db81a70afea582f664ddaeca9ac2cf0056bdabf33b7cb61ea1820",
+  "coordinate_bytes": 959673,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6spy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

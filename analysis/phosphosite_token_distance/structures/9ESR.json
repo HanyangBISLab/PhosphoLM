@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "67201600b9592fb0563e53a79067d0713249d29f5b291c0d1d06518ff6807461",
+  "coordinate_bytes": 961749,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9esr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,58 @@
+{
+  "pdb_id": "5FUR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "05365f48a8d31ea57ef2e5466cfc87971f734946e08659821c1fb3d609247ba2",
+  "coordinate_bytes": 2696243,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5fur.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5FUR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 10,
+      "min_distance_A": "6.112",
+      "token_chain_id": "H",
+      "token_residue_start": "133",
+      "token_residue_end": "134",
+      "token_residue_start_number": 133,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 134,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5FUR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.813",
+      "token_chain_id": "H",
+      "token_residue_start": "133",
+      "token_residue_end": "134",
+      "token_residue_start_number": 133,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 134,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 81,
+    "outside_cutoff": 30,
+    "no_phospho_atoms": 16,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

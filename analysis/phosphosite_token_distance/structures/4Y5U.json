@@ -1,0 +1,58 @@
+{
+  "pdb_id": "4Y5U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e4a6ffaa490671b76ff5e7aa475a6011fdc0bb8889314a9c4ed92a8c49c03fdb",
+  "coordinate_bytes": 793905,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4y5u.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AQK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4Y5U",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.330",
+      "token_chain_id": "A",
+      "token_residue_start": "478",
+      "token_residue_end": "480",
+      "token_residue_start_number": 478,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 480,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "VPA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4Y5U",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 38,
+      "phospho_atom_count": 32,
+      "min_distance_A": "1.306",
+      "token_chain_id": "A",
+      "token_residue_start": "642",
+      "token_residue_end": "644",
+      "token_residue_start_number": 642,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 644,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 6,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4MSF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c64bef1e4be577ce09a9c497ed857a147ca07449955b3d83ad45ac3c77cf9de6",
+  "coordinate_bytes": 1046039,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4msf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

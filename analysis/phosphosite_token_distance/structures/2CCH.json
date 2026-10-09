@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2CCH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "11c52060f14d6896357915a7481f931c4a14d4a0fec02b5d72a1490889a71408",
+  "coordinate_bytes": 2146071,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2cch.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

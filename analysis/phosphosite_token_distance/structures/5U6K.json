@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5U6K",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6308794487e24f91f62ed2d7664df6b188cc3f84ac1efdcbfbb921e6e2abd006",
+  "coordinate_bytes": 2330185,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5u6k.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

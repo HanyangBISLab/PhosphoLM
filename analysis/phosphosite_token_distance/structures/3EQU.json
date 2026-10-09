@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3EQU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "623db276817fff1b95c4c823d327d65b66a4507aed676e08247c45d1f5805cb3",
+  "coordinate_bytes": 737485,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3equ.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

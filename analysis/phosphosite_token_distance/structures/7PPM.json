@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7PPM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5e10558f61ce2246286db67be223b995c953234b500c3534d249ea455abb69be",
+  "coordinate_bytes": 562709,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ppm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

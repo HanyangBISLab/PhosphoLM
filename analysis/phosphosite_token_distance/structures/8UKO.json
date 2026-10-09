@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8UKO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6b215aa532c4e46ef22ded206770bf23e1a8727a1427a155af3ccc7181112130",
+  "coordinate_bytes": 639893,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8uko.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

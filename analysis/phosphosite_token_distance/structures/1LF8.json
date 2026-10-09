@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1LF8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7c358e5c6e5bd8a521b5bb1c99204d52235947761faca638f6fc38ae69c273e4",
+  "coordinate_bytes": 603243,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1lf8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

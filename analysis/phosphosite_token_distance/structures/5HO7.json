@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5HO7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6fff66c2b7a4ef035631d147a43a02c16eb8e9c2f5b44e61aa41d0710ba34cbe",
+  "coordinate_bytes": 493969,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ho7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

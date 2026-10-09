@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5LQ0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9ddd38c75eef991d5f9ad249ff483a53eb611561b4aa76d793b10388af7b1562",
+  "coordinate_bytes": 1003834,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lq0.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GGD",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5LQ0",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 32,
+      "min_distance_A": "9.306",
+      "token_chain_id": "B",
+      "token_residue_start": "336",
+      "token_residue_end": "338",
+      "token_residue_start_number": 336,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 338,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

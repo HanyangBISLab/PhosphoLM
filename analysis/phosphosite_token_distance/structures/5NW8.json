@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NW8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a78642de75139852337eb30db753009baa96fc9fe2de4d8c8fc2b1edf9508114",
+  "coordinate_bytes": 618998,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5nw8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

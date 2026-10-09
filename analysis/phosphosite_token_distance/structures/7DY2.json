@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7DY2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "592b012603a8c24db0f6d86f5aec5d3aeddc00e141c944fcc0031fa4fa19db6d",
+  "coordinate_bytes": 8062080,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dy2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

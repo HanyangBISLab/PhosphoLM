@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9D0V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e061467f9f43fdfeb1f85d1c8a1561c72ed92d1690117e4d18f487cbd394074",
+  "coordinate_bytes": 1030907,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9d0v.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9D0V",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "4.122",
+      "token_chain_id": "B",
+      "token_residue_start": "102",
+      "token_residue_end": "103",
+      "token_residue_start_number": 102,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 103,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "within_cutoff": 1,
+    "outside_cutoff": 11,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

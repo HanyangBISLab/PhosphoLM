@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5KX8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "36be2f9a7484d30584e971459b006051d75b24295294c71653b4e61a9937219b",
+  "coordinate_bytes": 958749,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5kx8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

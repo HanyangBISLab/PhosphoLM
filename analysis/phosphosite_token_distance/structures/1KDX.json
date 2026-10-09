@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1KDX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b7403fbf11510220d66873563624d66b38be4a78d7f3f266d103a6b14619de9f",
+  "coordinate_bytes": 2828678,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1kdx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

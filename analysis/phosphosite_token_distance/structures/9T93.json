@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9T93",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "25985b50d559c6c58a4f71be75bea8a5a0917a433bdbc03a997a67a6d8f7b85e",
+  "coordinate_bytes": 2817036,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9t93.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 48,
+    "no_token_atoms": 57
+  },
+  "location_warnings": []
+}

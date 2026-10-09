@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SMH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c69b42e4ec9c7076f2f99bc6cbc1f851031dd5c3e08cc80adb7cb80b94cac9bb",
+  "coordinate_bytes": 379704,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1smh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

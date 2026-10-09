@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UIS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "001a4ecd634f828c58342c9504f354f71b533b15befdd4fd4dbdb7517735c11e",
+  "coordinate_bytes": 1700645,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5uis.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

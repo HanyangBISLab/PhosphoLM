@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7NDY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6ec11471c1036116a551a681299a8a48c52fa99ffd6d6ccd75034ee827ac70f5",
+  "coordinate_bytes": 426643,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ndy.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7NDY",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 22,
+      "min_distance_A": "8.285",
+      "token_chain_id": "B",
+      "token_residue_start": "27",
+      "token_residue_end": "29",
+      "token_residue_start_number": 27,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 29,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 3,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

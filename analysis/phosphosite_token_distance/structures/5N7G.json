@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5N7G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "60ea9b747a6df1e4c860506279e0f70c165a02750f2951ba015236e7583d1623",
+  "coordinate_bytes": 1177584,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5n7g.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GGD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5N7G",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 48,
+      "phospho_atom_count": 10,
+      "min_distance_A": "6.083",
+      "token_chain_id": "A",
+      "token_residue_start": "488",
+      "token_residue_end": "490",
+      "token_residue_start_number": 488,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 490,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

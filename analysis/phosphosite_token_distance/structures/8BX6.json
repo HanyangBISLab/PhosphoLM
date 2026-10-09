@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BX6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9327f9922ac6de35e47158c2fadc9a43e78c371d9b35acafc632b2cfb4f9f768",
+  "coordinate_bytes": 648774,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bx6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

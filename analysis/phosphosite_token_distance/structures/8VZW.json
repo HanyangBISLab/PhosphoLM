@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8VZW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9100d00945c282c68f48eb599230a3185cfc832c04563cf607218b7cfc6c5e1a",
+  "coordinate_bytes": 728486,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8vzw.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8VZW",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 10,
+      "min_distance_A": "5.901",
+      "token_chain_id": "H",
+      "token_residue_start": "36",
+      "token_residue_end": "37",
+      "token_residue_start_number": 36,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 37,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3LXP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6a3457abd1100daddbef8aed9fc815436ede8489945b3fce3b8cd882cd774f1a",
+  "coordinate_bytes": 315365,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3lxp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

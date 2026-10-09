@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "84d09803bc803dac484ced150e2c7b13eb083142e63c75f2ddabb02dacb5a235",
+  "coordinate_bytes": 1751055,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eoi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

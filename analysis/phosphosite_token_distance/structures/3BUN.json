@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3BUN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5649fe6095bebedde4e4e619f7a6bb61361cb75b8b0ea3fe06108daf81110b1c",
+  "coordinate_bytes": 348257,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3bun.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

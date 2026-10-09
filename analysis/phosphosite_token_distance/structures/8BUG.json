@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BUG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "26ad9ee6582654dce2b03b503435bd6c6e796e45878aec7d5e73a7470b661e8f",
+  "coordinate_bytes": 10501956,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bug.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

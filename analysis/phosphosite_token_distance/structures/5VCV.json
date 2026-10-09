@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5VCV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6a636c392c561e2dfaf97eaa4c88f882a067deeed1c6ff2142da7ccbef467ea7",
+  "coordinate_bytes": 731405,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5vcv.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5VCV",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 76,
+      "phospho_atom_count": 16,
+      "min_distance_A": "6.343",
+      "token_chain_id": "A",
+      "token_residue_start": "264",
+      "token_residue_end": "266",
+      "token_residue_start_number": 264,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 266,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6MOM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e4edaed1af41177bf93b23558c54572bace577da7b8ff456bb113f0cd3777ea7",
+  "coordinate_bytes": 1952521,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6mom.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

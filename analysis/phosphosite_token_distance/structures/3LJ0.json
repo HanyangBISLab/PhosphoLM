@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3LJ0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bea4c39576b9f9c65e851a2ae10ab99f6683443bf2751cbc3d39f6024096f160",
+  "coordinate_bytes": 754958,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3lj0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

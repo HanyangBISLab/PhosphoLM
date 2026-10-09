@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5MRD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "22e890353f26c4e053a54dc7ad1b1af20f471727a3706e2e3056076d25ac2b6c",
+  "coordinate_bytes": 807819,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5mrd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

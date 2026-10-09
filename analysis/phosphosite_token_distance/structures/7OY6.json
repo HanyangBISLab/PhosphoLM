@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7OY6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "acd60bbf09f9effc1ea73df9fd905305fbfd17eca16478b01a814ddbf44e6668",
+  "coordinate_bytes": 349699,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7oy6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

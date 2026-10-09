@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4YM4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f63e24da7eb9982df05d7d866bf0dddb2b016ce3e2d3a278730b51d6b3e82e55",
+  "coordinate_bytes": 180257,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ym4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "4YM4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 11,
+      "min_distance_A": "3.925",
+      "token_chain_id": "B",
+      "token_residue_start": "5",
+      "token_residue_end": "7",
+      "token_residue_start_number": 5,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 7,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 1,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

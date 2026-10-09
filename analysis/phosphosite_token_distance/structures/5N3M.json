@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5N3M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e80d025a566df36faf893fa5f67cd1a345777b1860cc2fb4aee2e3f843c525b",
+  "coordinate_bytes": 909862,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5n3m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SXK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fbee3cc93f48bcafd8bfdc7ac613efaad8fa7abf56c6884366f5c06ae2fe3754",
+  "coordinate_bytes": 1175198,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sxk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

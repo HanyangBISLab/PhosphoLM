@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4BCO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "233072ae0715f3361eefa4fba3716720ce24163afb052b2e7c50d35b5f444e3f",
+  "coordinate_bytes": 1750752,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bco.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

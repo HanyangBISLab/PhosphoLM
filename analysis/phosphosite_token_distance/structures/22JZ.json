@@ -1,0 +1,66 @@
+{
+  "pdb_id": "22JZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a163a35b0075f881afe9fa59c218598ba2314cd4daac6320ca8390dc4c100967",
+  "coordinate_bytes": 2160329,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/22JZ.cif",
+    "resolved_url": "https://files.rcsb.org/download/22JZ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "HED",
+      "phospho_monomer": "TPO",
+      "pdb_id": "22JZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 59,
+      "phospho_atom_count": 22,
+      "min_distance_A": "7.838",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "22JZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.257",
+      "token_chain_id": "C",
+      "token_residue_start": "290",
+      "token_residue_end": "292",
+      "token_residue_start_number": 290,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 292,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 14,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 8,
+    "no_token_atoms": 105
+  },
+  "location_warnings": [
+    {
+      "token": "HED",
+      "monomer": "TPO",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

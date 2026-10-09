@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2G57",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9d5a5a410b232fefa2ab4da99393b9bc1d1873e580d2c222c2357f2485204e5b",
+  "coordinate_bytes": 380752,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2G57.cif",
+    "resolved_url": "https://files.rcsb.org/download/2G57.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

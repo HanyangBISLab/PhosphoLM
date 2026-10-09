@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3I6N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7eef120ca02717d9e6f0656423d82b3e69ab00181fe217a89ce0d124fb31ec58",
+  "coordinate_bytes": 599612,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3i6n.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3I6N",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.215",
+      "token_chain_id": "A",
+      "token_residue_start": "252",
+      "token_residue_end": "254",
+      "token_residue_start_number": 252,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 254,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

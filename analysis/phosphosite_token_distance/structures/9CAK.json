@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9CAK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e6521d966ec003b3747a669e13ac363db6a02b08f509efdc43eba6a842fc9a81",
+  "coordinate_bytes": 713984,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9cak.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

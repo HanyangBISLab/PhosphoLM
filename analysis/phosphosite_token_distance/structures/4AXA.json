@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4AXA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "05f9618a6640e19ff4449a3dfe192cf3534f26cd8ceb448c7b91baab69dd7319",
+  "coordinate_bytes": 666710,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4axa.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

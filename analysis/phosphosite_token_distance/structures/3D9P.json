@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3D9P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "56aab32b3644234426210b2be3ff73a8f7c5130cb4e07b28e640469a9a3154fe",
+  "coordinate_bytes": 318461,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3d9p.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

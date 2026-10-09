@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6G2I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "13e343abce071c1bb7eb1a1ada515cba99bea06e3a3a00b9751c1917b6633b70",
+  "coordinate_bytes": 32080288,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6g2i.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6G2I",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 496,
+      "phospho_atom_count": 112,
+      "min_distance_A": "9.245",
+      "token_chain_id": "R",
+      "token_residue_start": "1255",
+      "token_residue_end": "1256",
+      "token_residue_start_number": 1255,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1256,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 16,
+      "token_occurrence_count": 16
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 69,
+    "outside_cutoff": 19,
+    "no_phospho_atoms": 40,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7EJV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dfefe985d329439fb6e78d799cd3312c8972598e42c0db60fb8eb0926ff500b4",
+  "coordinate_bytes": 1251832,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ejv.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

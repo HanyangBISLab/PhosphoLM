@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3A77",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0e0483d9b6729799161007754eaff84ad109a03b24da43285d78d61db9152d4a",
+  "coordinate_bytes": 893918,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3a77.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

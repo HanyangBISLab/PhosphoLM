@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5O21",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b9ffcc7b4ae83a15dc816b272a93aa2aec633032a35acf5079f20a954ddad53b",
+  "coordinate_bytes": 547982,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5o21.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

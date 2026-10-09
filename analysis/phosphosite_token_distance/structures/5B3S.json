@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5B3S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ca5652df08402bc061a19503891d8472c9b15bf4739cf64db4bd74778a56ffd5",
+  "coordinate_bytes": 6297053,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5b3s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

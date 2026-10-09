@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5LVL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "41da3c7eae66c945486577452b4a795bb5d522dce1e9e4ace237891b8f1f5b20",
+  "coordinate_bytes": 809580,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lvl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

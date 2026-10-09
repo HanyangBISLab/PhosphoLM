@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7JFL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1fd6e291e6bc30651b3984c00ab6f608c2a32243be42f111231a219cbd1a9176",
+  "coordinate_bytes": 785468,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7jfl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

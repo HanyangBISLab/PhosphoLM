@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8X5Z",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a30434462ff7e253f7f4a2b9d079caba6f835ac3f31d992ba5294cdb0445cc98",
+  "coordinate_bytes": 338303,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8x5z.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

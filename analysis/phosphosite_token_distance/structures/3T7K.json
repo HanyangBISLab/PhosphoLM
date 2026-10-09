@@ -1,0 +1,38 @@
+{
+  "pdb_id": "3T7K",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "26362d292c41e973b096ed358a0a01c5a8a5395636810d84daff42042c3f0feb",
+  "coordinate_bytes": 453842,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3t7k.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3T7K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 34,
+      "phospho_atom_count": 20,
+      "min_distance_A": "4.620",
+      "token_chain_id": "B",
+      "token_residue_start": "844",
+      "token_residue_end": "845",
+      "token_residue_start_number": 844,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 845,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

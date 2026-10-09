@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9NA2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "68bfeb51b642ea83448b2c16e405f514ab3a5d07d4f7906d0825e28d46a057e9",
+  "coordinate_bytes": 625093,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9na2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

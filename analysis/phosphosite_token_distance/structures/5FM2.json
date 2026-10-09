@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5FM2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5695351f041d460d98342309fb5bd5a068f94cb127faa9b3f0556dc394fde4cc",
+  "coordinate_bytes": 461140,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5fm2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "5FM2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 21,
+      "phospho_atom_count": 48,
+      "min_distance_A": "9.597",
+      "token_chain_id": "A",
+      "token_residue_start": "876",
+      "token_residue_end": "878",
+      "token_residue_start_number": 876,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 878,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

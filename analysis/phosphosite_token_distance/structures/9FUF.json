@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9FUF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "eada9d7dce0fb1856c07730ffbe995fc4d9546a5c982d437ede5c0e2eb808a3a",
+  "coordinate_bytes": 365780,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9fuf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

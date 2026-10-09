@@ -1,0 +1,45 @@
+{
+  "pdb_id": "7Z5N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f98b9565a9e93377bf710e664d893ba0925f6a1a730ee22c0fa3d8c90f279a06",
+  "coordinate_bytes": 4181845,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7z5n.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7Z5N",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 33,
+      "phospho_atom_count": 128,
+      "min_distance_A": "6.659",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "DGK",
+      "monomer": "PTR",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

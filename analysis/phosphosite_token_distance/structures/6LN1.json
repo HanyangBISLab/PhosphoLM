@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6LN1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ad65dd3f46bf6c2920296d51900c27ee870fdf439f730fb352a8f71930e80eea",
+  "coordinate_bytes": 613865,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ln1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

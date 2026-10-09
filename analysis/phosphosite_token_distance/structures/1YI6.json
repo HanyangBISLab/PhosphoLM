@@ -1,0 +1,58 @@
+{
+  "pdb_id": "1YI6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "75f3db8f74279c6eb0ec604008cf67df7c062d015fdded3d011279bc495da2d7",
+  "coordinate_bytes": 535454,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1yi6.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GEV",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1YI6",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 64,
+      "min_distance_A": "7.296",
+      "token_chain_id": "A",
+      "token_residue_start": "279",
+      "token_residue_end": "281",
+      "token_residue_start_number": 279,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 281,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "CF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1YI6",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 34,
+      "phospho_atom_count": 64,
+      "min_distance_A": "9.236",
+      "token_chain_id": "B",
+      "token_residue_start": "277",
+      "token_residue_end": "278",
+      "token_residue_start_number": 277,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 278,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 2,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

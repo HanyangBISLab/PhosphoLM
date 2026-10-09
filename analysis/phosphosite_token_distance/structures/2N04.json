@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2N04",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1b2dcd0313e22851c9da9fba93f79dad71da1bd7ccb23d20e706ce2e7ff65e1f",
+  "coordinate_bytes": 3108876,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2n04.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

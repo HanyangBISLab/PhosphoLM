@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7DHK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9fd1da10f0f9e915069ade3d0499d09dc472cd13da86067453052ef340f6a1e7",
+  "coordinate_bytes": 574442,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7dhk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

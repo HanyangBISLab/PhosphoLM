@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YO6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "00b5d5bd6261829aa7c93d479946fdbb27c2c4799559a00c6f8a9e756c32833a",
+  "coordinate_bytes": 983833,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yo6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

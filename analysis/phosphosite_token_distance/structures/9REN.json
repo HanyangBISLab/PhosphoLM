@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9REN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3fbacbbb6545cff3fd345645580b638d8e426f543affeb69265adf1c66c771a8",
+  "coordinate_bytes": 740487,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ren.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,38 @@
+{
+  "pdb_id": "2B2T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fc2bc6b75167a87935b4beb2a912c1256307e84e334d4530481f70dd96c4e517",
+  "coordinate_bytes": 438215,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2b2t.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2B2T",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 69,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.591",
+      "token_chain_id": "A",
+      "token_residue_start": "64",
+      "token_residue_end": "65",
+      "token_residue_start_number": 64,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 65,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

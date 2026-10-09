@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QO9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e603de3aa5a508f64b4d604d8f96d1503aae1fb1cf574aea9ea7c5f56e98772e",
+  "coordinate_bytes": 541702,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qo9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

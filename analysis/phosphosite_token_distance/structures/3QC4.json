@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3QC4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "45c4791d031a01de0b38d0a56949476a3b499f60d12168b36ec6a9252f4fe2ed",
+  "coordinate_bytes": 945214,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qc4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

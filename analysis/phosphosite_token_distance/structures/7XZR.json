@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7XZR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8b9195b2c15f66ffeebca0efd8421cd319085ecc649083235ba6337a44da70ae",
+  "coordinate_bytes": 1049958,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7xzr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

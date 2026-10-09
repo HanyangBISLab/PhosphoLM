@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7TII",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b0c2b09bf34dd39bf3c967f56c94808863c0445b556e5e79235e0ea8d27d665e",
+  "coordinate_bytes": 3555436,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7tii.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

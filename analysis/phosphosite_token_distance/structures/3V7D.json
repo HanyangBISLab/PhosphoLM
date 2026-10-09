@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3V7D",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "68a52cbb8327e8972588b2bd85591315154268af5502b10552b742ede58110a6",
+  "coordinate_bytes": 1854652,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3v7d.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6TYL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bc17b46a94154adba50898de833e57eb88e8930b7c39e0842188a5fe0f0d20ec",
+  "coordinate_bytes": 3020135,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6tyl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 93,
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6J9X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "88e666a56283cf7c0874b75d17c27e56e9f85742ced8e3f4baff2bc2a967f72a",
+  "coordinate_bytes": 1657082,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6j9x.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6J9X",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 204,
+      "phospho_atom_count": 22,
+      "min_distance_A": "8.548",
+      "token_chain_id": "C",
+      "token_residue_start": "278",
+      "token_residue_end": "279",
+      "token_residue_start_number": 278,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 279,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 9,
+      "token_occurrence_count": 12
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

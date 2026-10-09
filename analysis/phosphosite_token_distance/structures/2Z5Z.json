@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2Z5Z",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0f02618c425b47da2afe327ba35b4e8837575adcd6ade5ee5c78f89bc7c2e725",
+  "coordinate_bytes": 569309,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2z5z.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2Z5Z",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.419",
+      "token_chain_id": "A",
+      "token_residue_start": "252",
+      "token_residue_end": "254",
+      "token_residue_start_number": 252,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 254,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4O0M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "99fa9fde40477a97feb5e71816fce3e6eaf11d2f0f1f26057fe3cafefa3549fd",
+  "coordinate_bytes": 1311351,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4o0m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

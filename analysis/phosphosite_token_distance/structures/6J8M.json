@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6J8M",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f3e3947c9f5f9c04dfe3b48cd85369db204b32e4a1e18f3c41a4f63d9302e656",
+  "coordinate_bytes": 6385350,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6j8m.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

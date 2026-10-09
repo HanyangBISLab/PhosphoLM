@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6EMA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "845b1f3c366d0261c5bc0ac5e08ea2bb08b546c574084b1d4c7e6cc73bf0991a",
+  "coordinate_bytes": 853830,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ema.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

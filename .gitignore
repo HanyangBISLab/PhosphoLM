@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+/.vscode/
+/models/**
+!/models/**/
+!/models/**/README.md
+/output/**
+!/output/**/
+!/output/**/README.md
+/datasets/**
+!/datasets/**/
+!/datasets/**/*.md

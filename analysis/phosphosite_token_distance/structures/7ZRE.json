@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7ZRE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "05abee5688d2af7225fd418abbfb0716521bdeef0fa99c651f294d1158b72f49",
+  "coordinate_bytes": 1174686,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7zre.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

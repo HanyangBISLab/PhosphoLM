@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4YTI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bd30b7ddd4a11b3d6f3b2e5f827bce061b1decb3b8f093052aa8e3ead69fbd94",
+  "coordinate_bytes": 314127,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4yti.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

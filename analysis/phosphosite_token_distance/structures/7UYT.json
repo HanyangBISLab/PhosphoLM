@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7UYT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7fd41acf7de9c0500ca24152ea101997f1874a01e4bc33a38dd5dcd1a1212216",
+  "coordinate_bytes": 502457,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7uyt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "7UYT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 20,
+      "phospho_atom_count": 32,
+      "min_distance_A": "9.278",
+      "token_chain_id": "A",
+      "token_residue_start": "944",
+      "token_residue_end": "945",
+      "token_residue_start_number": 944,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 945,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "within_cutoff": 1,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

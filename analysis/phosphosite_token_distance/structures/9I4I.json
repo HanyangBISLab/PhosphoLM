@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9I4I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "422ec41da8829c091d657f95a60d6b07c6017793c230fa2bd26aad62335de7de",
+  "coordinate_bytes": 15800294,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9i4i.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 32,
+    "no_phospho_atoms": 64,
+    "no_token_atoms": 33
+  },
+  "location_warnings": []
+}

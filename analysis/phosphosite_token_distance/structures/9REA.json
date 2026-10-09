@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9REA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fa1befb24bdb7ea665f40f7780122039440a43ea18b04a35b5b8a8e193df75b3",
+  "coordinate_bytes": 450825,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rea.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

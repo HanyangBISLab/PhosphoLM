@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4JIZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "07bd185c1b367ae7f1d86993c2d7d85524971dda24f8a90026302f416e42e24c",
+  "coordinate_bytes": 481590,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4jiz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

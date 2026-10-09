@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2BFY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b3b3ff8a16eae4df91f9532af38059edba5343ccbd6a16215c8fb7668147e03e",
+  "coordinate_bytes": 618165,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2bfy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

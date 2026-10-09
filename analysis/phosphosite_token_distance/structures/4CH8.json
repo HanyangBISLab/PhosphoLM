@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4CH8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5dd61c0358762a99fc288cca879f525f3118c590f50d5afd3f3cb0be6eba7962",
+  "coordinate_bytes": 1855365,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ch8.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4CH8",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 64,
+      "min_distance_A": "6.603",
+      "token_chain_id": "B",
+      "token_residue_start": "569",
+      "token_residue_end": "570",
+      "token_residue_start_number": 569,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 570,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5BTI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "309b285482789980cb22f70a6d11164c43e43f26fe11032b474a6cbbb92b678f",
+  "coordinate_bytes": 3931784,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5bti.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

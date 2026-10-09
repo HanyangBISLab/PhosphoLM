@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4DFY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7345e1a08e7da13f78c46c39d37d9dee13642acb7deb7e791217d5e23b6dad0a",
+  "coordinate_bytes": 984673,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4dfy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

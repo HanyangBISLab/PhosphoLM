@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SHD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b8354eb109cd5bde1468129d589fa7742950a4b460fe57f64449b08869438e6b",
+  "coordinate_bytes": 166659,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1shd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

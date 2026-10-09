@@ -1,0 +1,59 @@
+{
+  "pdb_id": "2LUE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2654931df447b874caeb6715a595b80126d3857fcff7e027d825fafa5da25e36",
+  "coordinate_bytes": 4178255,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LUE.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LUE.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2LUE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 62,
+      "phospho_atom_count": 70,
+      "min_distance_A": "5.440",
+      "token_chain_id": "A",
+      "token_residue_start": "22",
+      "token_residue_end": "24",
+      "token_residue_start_number": 22,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 24,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "QRR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2LUE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 65,
+      "phospho_atom_count": 70,
+      "min_distance_A": "2.149",
+      "token_chain_id": "A",
+      "token_residue_start": "9",
+      "token_residue_end": "11",
+      "token_residue_start_number": 9,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 11,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

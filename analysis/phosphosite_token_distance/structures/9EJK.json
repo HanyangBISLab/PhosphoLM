@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9EJK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "38c29d3863a2be27057d974d638a5a3ff5cf170c9d1fafcf8d60ba40f5762c38",
+  "coordinate_bytes": 1103673,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ejk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14,
+    "no_token_atoms": 87
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7M4O",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6c28eba64177a1ac5d502ba1fb709f6c18a4347364000ff428295b7446599e33",
+  "coordinate_bytes": 523579,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7m4o.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

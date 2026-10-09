@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4N7T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "78e7d922e49809f9678e5806941b8d7a06dc0efd5d57bbc885c92a84860a5dd3",
+  "coordinate_bytes": 1261191,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4n7t.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3,
+    "no_token_atoms": 120
+  },
+  "location_warnings": []
+}

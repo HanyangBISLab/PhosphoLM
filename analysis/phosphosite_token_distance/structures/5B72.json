@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5B72",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "aa4cf13ae1bce90acb01b8e4a3a402416bb95a7f5b33fcfc7eb3b92371be1be2",
+  "coordinate_bytes": 618018,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5b72.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5TWH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "461ea106bc74fdf6467c85e199748a96a79a1f3a22a5f8467d9e0be045adeded",
+  "coordinate_bytes": 360063,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5twh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

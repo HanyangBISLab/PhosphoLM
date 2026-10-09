@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9HM8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3e7dda804d6677e12f34a0f9aac65cca93ab5ec4eec62cfd972262fb9a0ed828",
+  "coordinate_bytes": 4128305,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9hm8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

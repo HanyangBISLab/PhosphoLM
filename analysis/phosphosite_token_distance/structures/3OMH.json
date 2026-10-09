@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OMH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e6d034029ef9466a7f5c8c135d26184a8a0ea4f99465f5c4f25459d1f7a4f16c",
+  "coordinate_bytes": 1048559,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3omh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

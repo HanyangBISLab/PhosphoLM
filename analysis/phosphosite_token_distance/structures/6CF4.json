@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6CF4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c10cc4cf4fabc10976387bfbdf7f17762fe40181621e4897ee58dd04bf15923",
+  "coordinate_bytes": 70907,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6CF4.cif",
+    "resolved_url": "https://files.rcsb.org/download/6CF4.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

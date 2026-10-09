@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3PXE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0ca4da11cb04ba29079dd297c361600c1952019b52797cdd77c9479622a13577",
+  "coordinate_bytes": 1309172,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3pxe.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

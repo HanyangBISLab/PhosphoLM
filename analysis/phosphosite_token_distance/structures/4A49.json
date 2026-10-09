@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4A49",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7e8cc0a3cc9d9fef7e13e9cf0c29de5ac4cfc385d778503bfdad6856ab4a3712",
+  "coordinate_bytes": 424471,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4a49.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

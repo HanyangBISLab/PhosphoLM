@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8SE3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0c23853903b1ed5dab25c199dfc0f97f6344b6c794a0e98b93f6b42fd740416e",
+  "coordinate_bytes": 998248,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8se3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8SE3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 34,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.256",
+      "token_chain_id": "A",
+      "token_residue_start": "409",
+      "token_residue_end": "410",
+      "token_residue_start_number": 409,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 410,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 11,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

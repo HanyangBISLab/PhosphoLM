@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5ODS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a32e5fc89611a50e2615e6acde3bd85435b82221ea9172689f052986be763176",
+  "coordinate_bytes": 3417509,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ods.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "FDP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5ODS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 104,
+      "phospho_atom_count": 40,
+      "min_distance_A": "5.815",
+      "token_chain_id": "E",
+      "token_residue_start": "563",
+      "token_residue_end": "565",
+      "token_residue_start_number": 563,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 565,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

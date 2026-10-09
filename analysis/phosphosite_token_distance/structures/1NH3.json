@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1NH3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d6b060e736c5bf90323cf9be6d0420f036a9f1f1e6afe1ba8a8d811945a19540",
+  "coordinate_bytes": 570384,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1nh3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ARR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1NH3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "6.832",
+      "token_chain_id": "A",
+      "token_residue_start": "447",
+      "token_residue_end": "449",
+      "token_residue_start_number": 447,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 449,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 5,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2UZE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ff6e3a99f3ffeef24a250321871e318f954241d91694d74f90940293b457de0f",
+  "coordinate_bytes": 968453,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2uze.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

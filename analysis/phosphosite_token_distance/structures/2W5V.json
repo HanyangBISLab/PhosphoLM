@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2W5V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "28ed92d7b2b85e4dc5445c484e0bb4f7a071283d92cd1813dad876b2ca9a86b5",
+  "coordinate_bytes": 1139277,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2w5v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

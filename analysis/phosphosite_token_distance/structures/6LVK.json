@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6LVK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e22c0826a97f722cb039f09fc0a0bee076545c9ced738b4f0325ce91add5b59f",
+  "coordinate_bytes": 545248,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6lvk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3TJD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "122ce3503c9c0c53c88921d3f6adbb9b3a4b29e7a2df28d569b468d86108ad4a",
+  "coordinate_bytes": 534241,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3tjd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9UVG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4f4525c3e5aebea8d7951691771912b40611d009673934357913a51b4349d9c3",
+  "coordinate_bytes": 1366996,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9uvg.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GER",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9UVG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 10,
+      "min_distance_A": "6.844",
+      "token_chain_id": "B",
+      "token_residue_start": "814",
+      "token_residue_end": "816",
+      "token_residue_start_number": 814,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 816,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 32,
+    "no_token_atoms": 81,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

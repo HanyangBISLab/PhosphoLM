@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7SIY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6bb98e325c6ce21d1882b3f5849e6b6c3c7afc8f9193a12d493df7d8a04a2148",
+  "coordinate_bytes": 671245,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7siy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3L9N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "16ccfc61ae1ca28c102aad0be2ffac5966731d7314cc34409f461a17cf073cdb",
+  "coordinate_bytes": 373889,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3l9n.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9PA7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5a478292f8c52f283665f45ce156c15e972e9a17257ebbf88b4704b6afc06192",
+  "coordinate_bytes": 27138713,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9pa7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 21,
+    "outside_cutoff": 36,
+    "no_phospho_atoms": 72
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2R7B",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9a035a1ffe7bd5c259a881748cbe36a705c9ebac6dd8ca96e4f5da737a40f7a2",
+  "coordinate_bytes": 287493,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2r7b.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

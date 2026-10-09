@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ECK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2d9d6326f81571b3f2b21a63f7791b6eaf1fda48e13f68b7211cda4c05433425",
+  "coordinate_bytes": 916205,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6eck.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 16
+  },
+  "location_warnings": []
+}

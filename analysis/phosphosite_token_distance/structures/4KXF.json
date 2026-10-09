@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4KXF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f64173790405ea0fb44e6a1d3d3ac65d1fd8d6c1ed04ffcfdc6f1b5a02e5f04e",
+  "coordinate_bytes": 11357846,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4kxf.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4KXF",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 432,
+      "phospho_atom_count": 66,
+      "min_distance_A": "4.429",
+      "token_chain_id": "B",
+      "token_residue_start": "614",
+      "token_residue_end": "616",
+      "token_residue_start_number": 614,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 616,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 16
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 96,
+    "outside_cutoff": 10,
+    "no_phospho_atoms": 22,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

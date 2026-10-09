@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5V4B",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e226a9cb318a1c137093f9a29d4cd719e4a3b69c1d591e9c4815a2d994388f52",
+  "coordinate_bytes": 968682,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5v4b.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

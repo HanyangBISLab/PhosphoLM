@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SXF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d3d5b938b47877b01b8145dfe2c7203f7f019ea63f6b77237994c45b5ceb2c71",
+  "coordinate_bytes": 1088825,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sxf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

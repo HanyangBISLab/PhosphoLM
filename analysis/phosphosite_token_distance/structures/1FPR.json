@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1FPR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b879d6739bc6a6860fbef18439956e1c742617667d2451ff0b485ce173001e3a",
+  "coordinate_bytes": 281420,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1fpr.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LEA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1FPR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 16,
+      "min_distance_A": "9.967",
+      "token_chain_id": "A",
+      "token_residue_start": "330",
+      "token_residue_end": "332",
+      "token_residue_start_number": 330,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 332,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

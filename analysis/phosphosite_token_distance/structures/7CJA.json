@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7CJA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4c1972013e1993c93631115d062e9488729fd2823905d1e396412bc4d1e2c4ab",
+  "coordinate_bytes": 311893,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7cja.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

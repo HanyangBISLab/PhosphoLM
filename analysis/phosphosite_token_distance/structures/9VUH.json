@@ -1,0 +1,41 @@
+{
+  "pdb_id": "9VUH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f986ab45d3b27e133950a729851de32e4f189180f8ddac9bbc4167a07925ed8a",
+  "coordinate_bytes": 614300,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9VUH.cif",
+    "resolved_url": "https://files.rcsb.org/download/9VUH.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9VUH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.778",
+      "token_chain_id": "A",
+      "token_residue_start": "557",
+      "token_residue_end": "558",
+      "token_residue_start_number": 557,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 558,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "within_cutoff": 1,
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

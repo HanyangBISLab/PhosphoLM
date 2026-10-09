@@ -1,0 +1,58 @@
+{
+  "pdb_id": "2RLT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "339c0a972794e8a30b49d1494ee5823519d80a618b7919c5f9f2076a0bc5eec4",
+  "coordinate_bytes": 193249,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2rlt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2RLT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 43,
+      "phospho_atom_count": 17,
+      "min_distance_A": "1.524",
+      "token_chain_id": "A",
+      "token_residue_start": "34",
+      "token_residue_end": "35",
+      "token_residue_start_number": 34,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 35,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "QRR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2RLT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 65,
+      "phospho_atom_count": 17,
+      "min_distance_A": "6.903",
+      "token_chain_id": "A",
+      "token_residue_start": "26",
+      "token_residue_end": "28",
+      "token_residue_start_number": 26,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 28,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

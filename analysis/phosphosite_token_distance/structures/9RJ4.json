@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9RJ4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7a0e97345e528721e3b6524f1ac71aa081ff28939cc6ec37b76e2e4b3c2977ae",
+  "coordinate_bytes": 1329611,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rj4.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9RJ4",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 96,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.684",
+      "token_chain_id": "B",
+      "token_residue_start": "918",
+      "token_residue_end": "920",
+      "token_residue_start_number": 918,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 920,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

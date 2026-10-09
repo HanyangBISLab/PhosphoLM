@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5HZ1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "24d01e77c23b582016292ed6c7b95ff9253360f701ca05f7340f67af38d85bd4",
+  "coordinate_bytes": 549260,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hz1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

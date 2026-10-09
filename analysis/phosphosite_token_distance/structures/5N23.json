@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5N23",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "95897d6d15dd625c77a780861259303dfc4c55b97930e0fe2ad569916cc10253",
+  "coordinate_bytes": 382592,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5n23.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "5N23",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 30,
+      "min_distance_A": "7.920",
+      "token_chain_id": "A",
+      "token_residue_start": "302",
+      "token_residue_end": "303",
+      "token_residue_start_number": 302,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 303,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 1,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

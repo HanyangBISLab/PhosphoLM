@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6KZQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6b134530989ff2e402270b0131b3f384e98ddd6e2c471f7ecfa1ec8bede281d9",
+  "coordinate_bytes": 333501,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6kzq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

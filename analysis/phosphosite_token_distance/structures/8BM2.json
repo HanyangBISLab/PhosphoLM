@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BM2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "14833099f896c89b3b652b859b3c37eea840170c2b6120e7ac4cb032f6c03930",
+  "coordinate_bytes": 1247161,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bm2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

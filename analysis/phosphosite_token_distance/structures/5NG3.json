@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NG3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ee9540bcc8f4dcec91f21bc2c00f792ad7165fa8562c29dfa9256528683849db",
+  "coordinate_bytes": 989421,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ng3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5TQ7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d1804b67dacfc93ff5958d16f4bb786d5304e27fe81b5f8402d7335b396c454f",
+  "coordinate_bytes": 545216,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5tq7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

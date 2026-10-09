@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7JFM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e19074bddc601a0f5cece1f9389208f1db724173761c8e4c9469546018bd6817",
+  "coordinate_bytes": 757159,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7jfm.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "7JFM",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 40,
+      "phospho_atom_count": 20,
+      "min_distance_A": "9.835",
+      "token_chain_id": "B",
+      "token_residue_start": "319",
+      "token_residue_end": "321",
+      "token_residue_start_number": 319,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 321,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4IAY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b86de3b2c1b22ad6b547cea702beeef7fbc63aa13e60a954d283288fb637e1ea",
+  "coordinate_bytes": 406849,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4iay.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

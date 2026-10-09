@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8I0V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6a286404404576dca636a4fcd9b90c812f6012ca1ac42d0ae53a5aa64c19b578",
+  "coordinate_bytes": 13713975,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i0v.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8I0V",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 232,
+      "phospho_atom_count": 20,
+      "min_distance_A": "5.150",
+      "token_chain_id": "T",
+      "token_residue_start": "370",
+      "token_residue_end": "371",
+      "token_residue_start_number": 370,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 371,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 12,
+      "token_occurrence_count": 16
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 41,
+    "no_phospho_atoms": 84,
+    "no_token_atoms": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3ZTB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3348ab3812e07ac1a987ce4e17923e8f184d5f1070503556e320c7fca7557772",
+  "coordinate_bytes": 225891,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ztb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

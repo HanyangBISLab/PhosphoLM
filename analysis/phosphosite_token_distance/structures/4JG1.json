@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4JG1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1d9fa73ff3834c340d64852337ade944e28261ea450b754bd1aea999ba5a6113",
+  "coordinate_bytes": 1128482,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4jg1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

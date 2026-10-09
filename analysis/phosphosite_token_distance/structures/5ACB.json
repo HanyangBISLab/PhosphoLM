@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ACB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a2f7a7e821f5dd4e8766c57ca63f3569b28b01d61d8f4e88a63050e90bd9274",
+  "coordinate_bytes": 969875,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5acb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

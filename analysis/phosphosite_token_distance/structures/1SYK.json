@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SYK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "db0d9f6c881fde8592c7f3a38a1b8c3b514f50886045bc0c54a7b5c1affa6cdb",
+  "coordinate_bytes": 598353,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1syk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

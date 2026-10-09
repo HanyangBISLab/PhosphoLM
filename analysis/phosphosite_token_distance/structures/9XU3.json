@@ -1,0 +1,41 @@
+{
+  "pdb_id": "9XU3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ac1e8716c83394c3a6eafba2d3d8cd48fbf2fc8a8615725e0002ca286ef48a36",
+  "coordinate_bytes": 15807820,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9XU3.cif",
+    "resolved_url": "https://files.rcsb.org/download/9XU3.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9XU3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 140,
+      "phospho_atom_count": 20,
+      "min_distance_A": "5.012",
+      "token_chain_id": "K",
+      "token_residue_start": "370",
+      "token_residue_end": "371",
+      "token_residue_start_number": 370,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 371,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 9,
+      "token_occurrence_count": 10
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 40,
+    "no_phospho_atoms": 82,
+    "no_token_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

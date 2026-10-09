@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3Q52",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "13a47da92457273d6b29610ddaa44c398f8e1966dcf6d3e109d93ca056882bf5",
+  "coordinate_bytes": 504805,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3q52.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

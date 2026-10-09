@@ -1,0 +1,16 @@
+{
+  "pdb_id": "8YFM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d0f4c1ad69f7d093978cde38db546331e83d9202d35b01ab42a3b37045cc688c",
+  "coordinate_bytes": 425708,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8yfm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

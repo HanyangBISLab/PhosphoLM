@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2HDX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a615258ce06e6acc8172ac18abcaec4a563762b9996bd487b56222183dfcb32a",
+  "coordinate_bytes": 612884,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2HDX.cif",
+    "resolved_url": "https://files.rcsb.org/download/2HDX.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

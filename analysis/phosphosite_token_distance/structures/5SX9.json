@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SX9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3a804e4322cbf69faece07d2a03a52f56cda1993bd0d6621847901fd49bcb10a",
+  "coordinate_bytes": 1154170,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sx9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

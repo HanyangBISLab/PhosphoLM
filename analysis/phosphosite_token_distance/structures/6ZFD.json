@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6ZFD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d857cfdd6cb4dac6a7e835999d541b396ccf24a0b5d2575efdedac187d7d9b01",
+  "coordinate_bytes": 922137,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6zfd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

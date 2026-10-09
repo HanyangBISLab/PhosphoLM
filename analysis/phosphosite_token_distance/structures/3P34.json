@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3P34",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ad1e0b0580a0074f261fa632cbe63fa2aaa984ca798857aa373884a97dc8b310",
+  "coordinate_bytes": 426293,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3p34.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

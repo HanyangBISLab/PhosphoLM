@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5J19",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "adc4863927fa3af27f457857aac3cdf712421cb688017d27b91fa4e8974d76b9",
+  "coordinate_bytes": 757429,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5j19.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

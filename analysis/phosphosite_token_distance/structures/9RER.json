@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RER",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "da9b3c4ae2e00089ec5ede7e2a8c6060d1dc9771e3d474f0d39db9aa16b044f4",
+  "coordinate_bytes": 736213,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rer.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

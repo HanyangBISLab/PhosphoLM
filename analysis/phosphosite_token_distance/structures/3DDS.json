@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3DDS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "521da5b63088e413a5ac1198bd9335522973ac8548e38b2e9c5382e91822c16c",
+  "coordinate_bytes": 1553879,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3dds.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GLQ",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3DDS",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 10,
+      "min_distance_A": "5.855",
+      "token_chain_id": "A",
+      "token_residue_start": "103",
+      "token_residue_end": "105",
+      "token_residue_start_number": 103,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 105,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 99,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 20,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

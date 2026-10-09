@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7YPY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "80912f89f8d096a9dd49f9370b7a1ca8c21856212c4b1ab40a4ea2bff9c8db3f",
+  "coordinate_bytes": 6314961,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ypy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

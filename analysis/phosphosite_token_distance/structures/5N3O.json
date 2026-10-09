@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5N3O",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3026c9631de05cb294ff20643eb0093f20c8d7bc446d8d45aa5426a123733fea",
+  "coordinate_bytes": 926111,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5n3o.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

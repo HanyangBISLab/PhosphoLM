@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1D4W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "feb501b2310443f86030393f0aab2b2c5ed8c3d9a1af9a0ad8de392490344fbd",
+  "coordinate_bytes": 273368,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1D4W.cif",
+    "resolved_url": "https://files.rcsb.org/download/1D4W.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

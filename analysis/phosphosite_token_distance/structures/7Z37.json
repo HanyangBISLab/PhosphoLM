@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7Z37",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "da4a170935c886ed2424a3de87e90d7c45cb4dd6d474a27b0d49a27ec4fc1a3b",
+  "coordinate_bytes": 1762659,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7z37.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 24,
+    "no_token_atoms": 93
+  },
+  "location_warnings": []
+}

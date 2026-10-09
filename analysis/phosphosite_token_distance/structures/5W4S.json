@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5W4S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ecfcdc92e6d20543d9ac6152a309a9a85427f4ff14a25f09645205fd0303ce26",
+  "coordinate_bytes": 4584102,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5w4s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BUC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0a0531eb49796b99edddff9412b795a4a752c713ab0dc7d13f84c8fc4ac37ecf",
+  "coordinate_bytes": 10575842,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8buc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

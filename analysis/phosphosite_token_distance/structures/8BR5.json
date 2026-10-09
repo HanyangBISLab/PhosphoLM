@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BR5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "abb974e55e110bb5a5b0aa9d2928b8edd874f0922ac806d4884e1f36d8c8f61f",
+  "coordinate_bytes": 1051800,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8br5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

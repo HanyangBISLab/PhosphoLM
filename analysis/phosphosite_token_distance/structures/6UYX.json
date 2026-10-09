@@ -1,0 +1,20 @@
+{
+  "pdb_id": "6UYX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "40e90bc4dff15d651d6a36bd31ce216f5cc56c022afaf55b006fd7167f6da962",
+  "coordinate_bytes": 482703,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6UYX.cif",
+    "resolved_url": "https://files.rcsb.org/download/6UYX.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

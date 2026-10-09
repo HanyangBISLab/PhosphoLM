@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8P5J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bba768ebffe95ddd9e5c722f497aea25fcfe12aed16fa53538be9fbc98cbba28",
+  "coordinate_bytes": 1001190,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8p5j.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8P5J",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 82,
+      "phospho_atom_count": 34,
+      "min_distance_A": "8.494",
+      "token_chain_id": "A",
+      "token_residue_start": "199",
+      "token_residue_end": "201",
+      "token_residue_start_number": 199,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 201,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

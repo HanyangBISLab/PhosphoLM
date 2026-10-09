@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4EOS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c7ce4b9b4293e1fc388ba46dc8acde4a77a234f7fc9696a6185ff9395179cf91",
+  "coordinate_bytes": 1703118,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4eos.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

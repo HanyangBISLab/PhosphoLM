@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5AP0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "64addcb57976338b4ce0cc6eb28d94967f1d91d5cac2914e377e7d6b5b1612ab",
+  "coordinate_bytes": 472994,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ap0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

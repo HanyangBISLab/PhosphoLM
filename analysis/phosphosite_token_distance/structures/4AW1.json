@@ -1,0 +1,16 @@
+{
+  "pdb_id": "4AW1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dab6e5097288d21878e356cf5daf991eb9b9ffc87a3550f1147b1540b0b40673",
+  "coordinate_bytes": 752062,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4aw1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

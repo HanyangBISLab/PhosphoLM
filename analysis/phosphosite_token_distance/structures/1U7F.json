@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1U7F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4579e993628095f0fa8bf2929c01a3f6b7bb214bb9fc62860ebb7b0fb7e80ba1",
+  "coordinate_bytes": 547615,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1u7f.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

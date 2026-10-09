@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SVH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4be584f06ae4ab1808d29cdd45379d845ccbfbb3916d612249304438cfb756ec",
+  "coordinate_bytes": 359860,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1svh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

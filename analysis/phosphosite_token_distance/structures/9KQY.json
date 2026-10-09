@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9KQY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d8bce1d034b75d02505643e62ed407916c7da070cb316dd17481f6b855156a4f",
+  "coordinate_bytes": 707889,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9kqy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,38 @@
+{
+  "pdb_id": "6JHK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8e8036327e67fb755365f38ec761b7249ee8117a28ccb9a33cd0cd94e2516a9a",
+  "coordinate_bytes": 492990,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6jhk.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6JHK",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 125,
+      "phospho_atom_count": 50,
+      "min_distance_A": "8.990",
+      "token_chain_id": "B",
+      "token_residue_start": "22",
+      "token_residue_end": "24",
+      "token_residue_start_number": 22,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 24,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 5
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

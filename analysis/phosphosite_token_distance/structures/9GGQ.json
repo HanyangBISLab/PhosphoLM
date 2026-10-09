@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9GGQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d85782a62af67d7a055310062484c327a8909d4b848d7ce4475ee43eadfff0a0",
+  "coordinate_bytes": 2727364,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ggq.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9GGQ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 30,
+      "phospho_atom_count": 32,
+      "min_distance_A": "3.148",
+      "token_chain_id": "C",
+      "token_residue_start": "117",
+      "token_residue_end": "119",
+      "token_residue_start_number": 117,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 119,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 75,
+    "no_phospho_atoms": 36,
+    "outside_cutoff": 17,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

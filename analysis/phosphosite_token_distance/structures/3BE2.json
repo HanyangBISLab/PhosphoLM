@@ -1,0 +1,17 @@
+{
+  "pdb_id": "3BE2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f7387ee344d8cb11b9320f3d1d525ab836c7c44f4d42b37ae034328b6eab93f8",
+  "coordinate_bytes": 319989,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3be2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

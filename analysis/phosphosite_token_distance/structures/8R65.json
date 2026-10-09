@@ -1,0 +1,58 @@
+{
+  "pdb_id": "8R65",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "57a0ebc8b231f3ae3c653ca37f7effa15186f7047a74656f5bdd5f28d2049a45",
+  "coordinate_bytes": 3660450,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8r65.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8R65",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 172,
+      "phospho_atom_count": 30,
+      "min_distance_A": "3.294",
+      "token_chain_id": "A",
+      "token_residue_start": "422",
+      "token_residue_end": "423",
+      "token_residue_start_number": 422,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 423,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "VNP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8R65",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 30,
+      "min_distance_A": "6.126",
+      "token_chain_id": "B",
+      "token_residue_start": "3",
+      "token_residue_end": "5",
+      "token_residue_start_number": 3,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 5,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 63,
+    "outside_cutoff": 20,
+    "no_phospho_atoms": 44,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

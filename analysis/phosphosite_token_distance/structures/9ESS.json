@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "440e9a53e4b2ed3907ab13e30d4c15f5424978f5b59f9306a35be55e36dae806",
+  "coordinate_bytes": 971687,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ess.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

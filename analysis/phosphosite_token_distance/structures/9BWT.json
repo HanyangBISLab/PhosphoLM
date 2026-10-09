@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9BWT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "22b2fd7c310e3f98c5e0b8b4977df2bd16042243e399e17d6c96a92ed66ded39",
+  "coordinate_bytes": 1202371,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9bwt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "9BWT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 22,
+      "min_distance_A": "6.979",
+      "token_chain_id": "B",
+      "token_residue_start": "1006",
+      "token_residue_end": "1008",
+      "token_residue_start_number": 1006,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 1008,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "outside_cutoff": 15,
+    "no_phospho_atoms": 8,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

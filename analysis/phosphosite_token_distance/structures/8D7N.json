@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8D7N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a4f17e708fdd173409ff3d63c0d7ea14f6c2a7d5d560dd446da291daacd0934d",
+  "coordinate_bytes": 1457239,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8d7n.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

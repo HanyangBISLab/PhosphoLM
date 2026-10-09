@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3AC2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5dbc6f6e01f33b4dd7af217f9f4f0e4173746dc6daa81d3d18e715c74cae1f72",
+  "coordinate_bytes": 314458,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ac2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

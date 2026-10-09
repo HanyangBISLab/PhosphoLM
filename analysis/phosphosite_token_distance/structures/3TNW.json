@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3TNW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c57bd4de1f1a986e250624b61bba5d4bb072c05295f57b235a290e581ee955c8",
+  "coordinate_bytes": 1052286,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3tnw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

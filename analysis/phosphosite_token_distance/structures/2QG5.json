@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2QG5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5f310a1d2a88ad8a37839e104ed5cacb3109f0745aa01b613e0d65d630462cbb",
+  "coordinate_bytes": 745605,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2qg5.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

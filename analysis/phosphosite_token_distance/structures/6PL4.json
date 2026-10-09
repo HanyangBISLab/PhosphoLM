@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6PL4",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c4782b272f39397c6d864276f8aec157dd980ce9093b55b62ae4aa7ab3169cd7",
+  "coordinate_bytes": 536438,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6pl4.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

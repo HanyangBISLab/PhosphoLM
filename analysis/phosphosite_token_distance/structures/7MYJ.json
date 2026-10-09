@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7MYJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a40e5a3a5479daf88a1d097bd2f9a545af1b3637f74cb358a532ad1bf744ac20",
+  "coordinate_bytes": 3021985,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7myj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

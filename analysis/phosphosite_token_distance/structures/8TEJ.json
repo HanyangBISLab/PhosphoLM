@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8TEJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1bd1e8bffbb7d5568027074c93fc9cfb4b31eedcbaf055eeac2ddf648d4b7aa6",
+  "coordinate_bytes": 461655,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8tej.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

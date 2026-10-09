@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2AUH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cb10dae2f4ce8a99af41be07daa6ba922e4bca787fafdeb0561d2241dd5957c9",
+  "coordinate_bytes": 327033,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2auh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

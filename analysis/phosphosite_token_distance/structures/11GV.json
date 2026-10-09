@@ -1,0 +1,20 @@
+{
+  "pdb_id": "11GV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a787f7d310f6cff83698b2bf0805b94c428e4f60b82bf393f4310b469994a73d",
+  "coordinate_bytes": 1039903,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/11GV.cif",
+    "resolved_url": "https://files.rcsb.org/download/11GV.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

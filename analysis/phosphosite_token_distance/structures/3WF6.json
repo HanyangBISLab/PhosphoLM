@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3WF6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "292928d9184d390147d213e55663404f57e7f1a95a238209bdde218696f5d8f5",
+  "coordinate_bytes": 491891,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3wf6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

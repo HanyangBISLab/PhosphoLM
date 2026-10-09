@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QMO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "28637020a4cd539dde5d3c5969f885ddc22872bf9c29038428447bac28be00b2",
+  "coordinate_bytes": 328227,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qmo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

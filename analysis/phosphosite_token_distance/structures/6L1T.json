@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6L1T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b590eb2b49daebb18f9903b3a6781954642e342e9d35460df08fe0bb456e6e8f",
+  "coordinate_bytes": 754634,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6l1t.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AQK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6L1T",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 230,
+      "phospho_atom_count": 160,
+      "min_distance_A": "6.941",
+      "token_chain_id": "B",
+      "token_residue_start": "78",
+      "token_residue_end": "80",
+      "token_residue_start_number": 78,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 80,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 10
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

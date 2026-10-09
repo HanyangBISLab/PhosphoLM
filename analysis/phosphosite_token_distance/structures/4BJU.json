@@ -1,0 +1,58 @@
+{
+  "pdb_id": "4BJU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "dc1ec3547c3fd436664d05185c1a1716ce8e3c71f8161b9f582031c15504036d",
+  "coordinate_bytes": 889068,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bju.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4BJU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.932",
+      "token_chain_id": "A",
+      "token_residue_start": "253",
+      "token_residue_end": "255",
+      "token_residue_start_number": 253,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 255,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "INP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4BJU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 20,
+      "min_distance_A": "9.931",
+      "token_chain_id": "A",
+      "token_residue_start": "248",
+      "token_residue_end": "250",
+      "token_residue_start_number": 248,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 250,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 102,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 18,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,58 @@
+{
+  "pdb_id": "4IJP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7976590268ff0783b8c2179e154fdfbdc772164fee6cd4776a3f2d71c25c8862",
+  "coordinate_bytes": 638889,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ijp.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4IJP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 32,
+      "min_distance_A": "7.922",
+      "token_chain_id": "B",
+      "token_residue_start": "895",
+      "token_residue_end": "896",
+      "token_residue_start_number": 895,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 896,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "IKP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4IJP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 48,
+      "phospho_atom_count": 32,
+      "min_distance_A": "9.922",
+      "token_chain_id": "A",
+      "token_residue_start": "816",
+      "token_residue_end": "818",
+      "token_residue_start_number": 816,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 818,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 4,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

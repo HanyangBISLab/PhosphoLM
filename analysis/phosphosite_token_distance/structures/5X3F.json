@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5X3F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fe1f04e804e1c1baa1aef2fc52c08e6a3959c23985745c17cf2b2a51c99e7f23",
+  "coordinate_bytes": 1282444,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5x3f.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 99,
+    "no_phospho_atoms": 20,
+    "outside_cutoff": 10
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,79 @@
+{
+  "pdb_id": "9IF7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0ab4d6078b5e490134b89660720168cf0e676cd0a4222abfa0ec22a922bd4489",
+  "coordinate_bytes": 16408634,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9IF7.cif",
+    "resolved_url": "https://files.rcsb.org/download/9IF7.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9IF7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 138,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.190",
+      "token_chain_id": "LJ",
+      "token_residue_start": "380",
+      "token_residue_end": "381",
+      "token_residue_start_number": 380,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 381,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 6
+    },
+    {
+      "token": "GDF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9IF7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 46,
+      "phospho_atom_count": 10,
+      "min_distance_A": "4.705",
+      "token_chain_id": "LJ",
+      "token_residue_start": "385",
+      "token_residue_end": "387",
+      "token_residue_start_number": 385,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 387,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9IF7",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 208,
+      "phospho_atom_count": 10,
+      "min_distance_A": "7.300",
+      "token_chain_id": "SJ",
+      "token_residue_start": "320",
+      "token_residue_end": "322",
+      "token_residue_start_number": 320,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 322,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 8
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 6,
+    "outside_cutoff": 38,
+    "no_phospho_atoms": 82,
+    "within_cutoff": 3
+  },
+  "location_warnings": []
+}

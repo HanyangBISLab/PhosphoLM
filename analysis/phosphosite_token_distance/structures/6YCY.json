@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6YCY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7fae781f5e85de0613abc1e65c6a24b76b924951dc6f801d3cd13a15bc2b7ca8",
+  "coordinate_bytes": 1754261,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ycy.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6YCY",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 18,
+      "phospho_atom_count": 10,
+      "min_distance_A": "2.803",
+      "token_chain_id": "A",
+      "token_residue_start": "106",
+      "token_residue_end": "107",
+      "token_residue_start_number": 106,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 107,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 99,
+    "outside_cutoff": 9,
+    "no_phospho_atoms": 20,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

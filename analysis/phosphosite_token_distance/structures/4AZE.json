@@ -1,0 +1,58 @@
+{
+  "pdb_id": "4AZE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "59f0da2eed210b06782e21551e475ec518110efdd4381009caec8ee34086bd3a",
+  "coordinate_bytes": 1645716,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4aze.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "DGK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4AZE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 57,
+      "phospho_atom_count": 56,
+      "min_distance_A": "9.347",
+      "token_chain_id": "A",
+      "token_residue_start": "410",
+      "token_residue_end": "412",
+      "token_residue_start_number": 410,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 412,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 3
+    },
+    {
+      "token": "DGK",
+      "phospho_monomer": "PTR",
+      "pdb_id": "4AZE",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 57,
+      "phospho_atom_count": 48,
+      "min_distance_A": "4.826",
+      "token_chain_id": "B",
+      "token_residue_start": "410",
+      "token_residue_end": "412",
+      "token_residue_start_number": 410,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 412,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 3
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 3,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6F3I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "20ceb3fe8172c36c5294f83d3b7b041c52c627d10058c24cc1b0e726cb64c415",
+  "coordinate_bytes": 885345,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6f3i.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

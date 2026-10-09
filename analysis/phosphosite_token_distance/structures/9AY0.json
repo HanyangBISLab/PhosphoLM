@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9AY0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "47c3c4435c2bbd81035cd6540907def94e1af55663661ba67ba52a1f66104c84",
+  "coordinate_bytes": 1346043,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ay0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 93,
+    "outside_cutoff": 24,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

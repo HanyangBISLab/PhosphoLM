@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3HRF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d62cd5c9da5f6effda83283b06e0893ccf9d2716bd8a78189cc1e8ca24ca18a4",
+  "coordinate_bytes": 341314,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3hrf.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

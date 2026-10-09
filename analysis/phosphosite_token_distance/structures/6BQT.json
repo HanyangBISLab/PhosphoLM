@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6BQT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e5be061b9e7e0278f4d388ab824d11d464c30656eec98c0e586ed36d2a75acd9",
+  "coordinate_bytes": 4503431,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6bqt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6BQT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 424,
+      "phospho_atom_count": 128,
+      "min_distance_A": "2.218",
+      "token_chain_id": "A",
+      "token_residue_start": "172",
+      "token_residue_end": "174",
+      "token_residue_start_number": 172,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 174,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 8
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

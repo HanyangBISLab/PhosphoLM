@@ -1,0 +1,58 @@
+{
+  "pdb_id": "5E2W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3d0ded4f90f16d3cdd82afe1cba0b0bd14abba783bf125230d3d49e46683f957",
+  "coordinate_bytes": 429445,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5e2w.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5E2W",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.013",
+      "token_chain_id": "H",
+      "token_residue_start": "37",
+      "token_residue_end": "38",
+      "token_residue_start_number": 37,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 38,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "FGG",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5E2W",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 19,
+      "phospho_atom_count": 11,
+      "min_distance_A": "9.177",
+      "token_chain_id": "L",
+      "token_residue_start": "103",
+      "token_residue_end": "105",
+      "token_residue_start_number": 103,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 105,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 8,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 5
+  },
+  "location_warnings": []
+}

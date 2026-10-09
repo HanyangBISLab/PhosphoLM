@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8H6P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9a40a9134e651eb7e65da7732bd8c832916f062586e4101bf4b824d4f05eb1b6",
+  "coordinate_bytes": 527239,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8h6p.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

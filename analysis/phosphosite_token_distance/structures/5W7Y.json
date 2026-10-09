@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5W7Y",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "97b8b186239f351e7092ccb78de0049c64ecd3d79cc8340f1d1056d0e62cfb35",
+  "coordinate_bytes": 245024,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5w7y.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

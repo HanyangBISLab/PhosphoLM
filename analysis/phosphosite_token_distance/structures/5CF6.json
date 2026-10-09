@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5CF6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fe28949d7b5f94b5e19ea57eb13b53a3df9e05983facaa47a573aa341ffb6fe4",
+  "coordinate_bytes": 576117,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5cf6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

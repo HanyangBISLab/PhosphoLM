@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8G8X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2dab1430456f3ce4da4233fc5ba9a362d6564bfb64cea4b7f4aa45d620886216",
+  "coordinate_bytes": 982846,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8g8x.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

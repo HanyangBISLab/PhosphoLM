@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NA0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e2d427a10fbd1f03f2f3f0ddf8c63b8ee8998534a591252e6c025173e9ff4672",
+  "coordinate_bytes": 286172,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5na0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

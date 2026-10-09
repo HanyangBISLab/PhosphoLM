@@ -1,0 +1,58 @@
+{
+  "pdb_id": "8EKG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "04c2091d6396766f3d8beffc262e00a34d47c61d4e30b961a4cc583e206a3077",
+  "coordinate_bytes": 4793582,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ekg.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8EKG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 60,
+      "min_distance_A": "2.603",
+      "token_chain_id": "F",
+      "token_residue_start": "527",
+      "token_residue_end": "528",
+      "token_residue_start_number": 527,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 528,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 6,
+      "token_occurrence_count": 6
+    },
+    {
+      "token": "EGM",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8EKG",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 126,
+      "phospho_atom_count": 60,
+      "min_distance_A": "5.176",
+      "token_chain_id": "B",
+      "token_residue_start": "230",
+      "token_residue_end": "232",
+      "token_residue_start_number": 230,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 232,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 14,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

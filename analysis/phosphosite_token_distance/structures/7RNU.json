@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7RNU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "278a550a6ecff1f2c494f7e7351a30d78d0f819c820ee5002c01cb356273772d",
+  "coordinate_bytes": 535697,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7rnu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

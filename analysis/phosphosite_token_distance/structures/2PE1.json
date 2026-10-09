@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2PE1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f05969ddfc150afde241ba01f86a40850b3890d9652341c3d7cb8a89d8db47e9",
+  "coordinate_bytes": 297953,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2pe1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

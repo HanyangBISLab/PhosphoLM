@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4BCQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ce1db1bbfa3835b390f20e72e5940a8d2bda544ae062143ea18412d0499a91c6",
+  "coordinate_bytes": 1768862,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bcq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

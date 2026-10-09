@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7Y1G",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3f50cf7bb3270a35499276fac310aa16936b197e3f1ff14b6fd96dce7af34573",
+  "coordinate_bytes": 658246,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7y1g.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

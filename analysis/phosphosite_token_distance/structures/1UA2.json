@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1UA2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "aa3e69b79109dc54e5544f246fe233d963c79773c85ccf2ade52f708711b2a06",
+  "coordinate_bytes": 1014693,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ua2.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LDF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "1UA2",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.313",
+      "token_chain_id": "D",
+      "token_residue_start": "15",
+      "token_residue_end": "17",
+      "token_residue_start_number": 15,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 17,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

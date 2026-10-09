@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5Z86",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "153ea9ff5468e5d5bac11c298ae80a0fe31874d2855c28398551a7dd2a6d3884",
+  "coordinate_bytes": 6474594,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5z86.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

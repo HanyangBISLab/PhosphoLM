@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NAD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9c4dee1b785e9bca306d827512d1072670f494ef62139ecf33f773bf87556b4b",
+  "coordinate_bytes": 282133,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5nad.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

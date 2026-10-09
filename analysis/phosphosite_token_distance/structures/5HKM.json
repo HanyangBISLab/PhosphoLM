@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5HKM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9501b818efee0b2305b972ead6f3a214e6fa1c1ddbeb0c0b0309f5e21507e0ba",
+  "coordinate_bytes": 498012,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5hkm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

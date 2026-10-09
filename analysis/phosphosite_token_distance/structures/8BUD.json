@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BUD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5d86ca8d2cfc8de0ca8fa31451cba76fde31a70e632730eae36f1fdbf74aaeed",
+  "coordinate_bytes": 10682094,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bud.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 90,
+    "no_phospho_atoms": 26,
+    "outside_cutoff": 13
+  },
+  "location_warnings": []
+}

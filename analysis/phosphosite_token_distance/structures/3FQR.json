@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3FQR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b061ef523967997c1fe6e5f1e04494cfd1ba170d5e637736ca5dc68369687010",
+  "coordinate_bytes": 746754,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3fqr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

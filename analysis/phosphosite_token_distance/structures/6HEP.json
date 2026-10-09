@@ -1,0 +1,88 @@
+{
+  "pdb_id": "6HEP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c13e61a4c4a6bf5df9c404577938dca51a6501abac0760b8f0f3d041558569c1",
+  "coordinate_bytes": 885870,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6hep.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LNF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6HEP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 40,
+      "min_distance_A": "3.247",
+      "token_chain_id": "B",
+      "token_residue_start": "174",
+      "token_residue_end": "176",
+      "token_residue_start_number": 174,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 176,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6HEP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 92,
+      "phospho_atom_count": 40,
+      "min_distance_A": "7.953",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "ARR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6HEP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 152,
+      "phospho_atom_count": 40,
+      "min_distance_A": "2.635",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "within_cutoff": 3,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "ELD",
+      "monomer": "SEP",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    },
+    {
+      "token": "ARR",
+      "monomer": "SEP",
+      "reason": "4 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

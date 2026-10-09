@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6J7S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d324a6bb8eb68eace4708eb312cc23f736fe454762ef362423e20eff1909382b",
+  "coordinate_bytes": 529467,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6j7s.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AQK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6J7S",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 49,
+      "phospho_atom_count": 13,
+      "min_distance_A": "4.671",
+      "token_chain_id": "A",
+      "token_residue_start": "187",
+      "token_residue_end": "189",
+      "token_residue_start_number": 187,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 189,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

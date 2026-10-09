@@ -1,0 +1,20 @@
+{
+  "pdb_id": "5LMB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "64ff4fc0d233cf80c1256e03017279a6e8e1c2fef272edafa81380bbca2a45db",
+  "coordinate_bytes": 925817,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/5LMB.cif",
+    "resolved_url": "https://files.rcsb.org/download/5LMB.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

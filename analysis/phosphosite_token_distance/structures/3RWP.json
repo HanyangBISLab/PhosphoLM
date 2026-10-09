@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3RWP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ab27cfb0f5605939f022bdcbaf1f9e98c06a1b7185082b24f643d92e6d84b240",
+  "coordinate_bytes": 317331,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3rwp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

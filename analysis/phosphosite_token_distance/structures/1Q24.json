@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1Q24",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "3d5a23b3650013a7727ddf301e394decd04a41402efdfc4c2ee85a85a2d3f5f6",
+  "coordinate_bytes": 395184,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1q24.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

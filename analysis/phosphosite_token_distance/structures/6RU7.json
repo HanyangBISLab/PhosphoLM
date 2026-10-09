@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6RU7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4528d660e62f940d80ebb3d3a16da33b3a49d8444edd9ca04f7694c6be7a8198",
+  "coordinate_bytes": 1064850,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ru7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

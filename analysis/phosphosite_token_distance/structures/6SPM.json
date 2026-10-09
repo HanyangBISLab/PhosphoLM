@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6SPM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9940953eaf314cbd970a8d41e5a511ecfcad29dec62964c35cc0b3273ab376f3",
+  "coordinate_bytes": 971744,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6spm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

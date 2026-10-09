@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5AZI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ba29682b55d83eb5bb9cd03aaba1f4fc0d9f2f10a46887e172c780ebc6609d9e",
+  "coordinate_bytes": 3023333,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5azi.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5AZI",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 204,
+      "phospho_atom_count": 22,
+      "min_distance_A": "4.712",
+      "token_chain_id": "D",
+      "token_residue_start": "278",
+      "token_residue_end": "279",
+      "token_residue_start_number": 278,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 279,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 12,
+      "token_occurrence_count": 12
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

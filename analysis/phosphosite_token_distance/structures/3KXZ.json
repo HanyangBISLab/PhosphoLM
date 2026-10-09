@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3KXZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8ea26f43f707ddeecd4adc10bf114db5714e8792719e80317e220917385acd85",
+  "coordinate_bytes": 285401,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3kxz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

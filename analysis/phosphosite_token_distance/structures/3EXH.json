@@ -1,0 +1,39 @@
+{
+  "pdb_id": "3EXH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "365d063efedb8707db4ca87105c59a1953df60bfc2e1d585b27a00dc6bbd0be3",
+  "coordinate_bytes": 2412251,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3exh.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3EXH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 64,
+      "phospho_atom_count": 20,
+      "min_distance_A": "3.593",
+      "token_chain_id": "C",
+      "token_residue_start": "62",
+      "token_residue_end": "63",
+      "token_residue_start_number": 62,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 63,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 90,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 26,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

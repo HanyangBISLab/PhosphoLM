@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3GQI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b282d077795973c3155d0fdb0a986e4511b2c27c0475f90ed7026bd5db2fe778",
+  "coordinate_bytes": 522071,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3gqi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

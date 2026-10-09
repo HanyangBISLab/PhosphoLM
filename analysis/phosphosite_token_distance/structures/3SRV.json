@@ -1,0 +1,20 @@
+{
+  "pdb_id": "3SRV",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "08ff67efd33e3812dc1db80e61d149459d61d44273084488436bf35e607992ac",
+  "coordinate_bytes": 548021,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/3SRV.cif",
+    "resolved_url": "https://files.rcsb.org/download/3SRV.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

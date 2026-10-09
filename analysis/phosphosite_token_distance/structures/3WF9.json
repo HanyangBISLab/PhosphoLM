@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3WF9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c41c0fcb2ec6c5e52d09915f48450f9ffd598e9838c3bcfc00bdfce6ba78c2bd",
+  "coordinate_bytes": 537415,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3wf9.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

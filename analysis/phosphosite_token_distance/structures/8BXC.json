@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8BXC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "764ac5821e480dce447b4670d13489849f9466cd4cfcd108ee85ca721f20ad61",
+  "coordinate_bytes": 1172816,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8bxc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9KBO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "17050c8adbfd193652ccc2511016cff82209507588d3d983ede18941be6cf4b7",
+  "coordinate_bytes": 1748399,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9kbo.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VPA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9KBO",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 160,
+      "phospho_atom_count": 110,
+      "min_distance_A": "9.302",
+      "token_chain_id": "A",
+      "token_residue_start": "142",
+      "token_residue_end": "144",
+      "token_residue_start_number": 142,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 144,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

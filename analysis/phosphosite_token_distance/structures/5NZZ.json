@@ -1,0 +1,58 @@
+{
+  "pdb_id": "5NZZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a92dcccf31b6b78dfb2b5c039764f6f377a19edec49bb81b9ede73eb8415273c",
+  "coordinate_bytes": 2446131,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5nzz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5NZZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 44,
+      "min_distance_A": "8.271",
+      "token_chain_id": "F",
+      "token_residue_start": "337",
+      "token_residue_end": "338",
+      "token_residue_start_number": 337,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 338,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "LDF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5NZZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 108,
+      "phospho_atom_count": 44,
+      "min_distance_A": "9.209",
+      "token_chain_id": "G",
+      "token_residue_start": "167",
+      "token_residue_end": "169",
+      "token_residue_start_number": 167,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 169,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 22,
+    "no_token_atoms": 93,
+    "within_cutoff": 2
+  },
+  "location_warnings": []
+}

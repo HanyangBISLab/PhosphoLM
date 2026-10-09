@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9DCD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d12f2cc4cab0603db43934afe435d90b0364a4f8842238bdbd98bf5f3c6195b3",
+  "coordinate_bytes": 437337,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9dcd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

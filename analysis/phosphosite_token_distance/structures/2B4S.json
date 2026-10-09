@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2B4S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "85f914b2a027d5b710b04dfde8d607c16a7766277156f9d897f1bbcc2420c47e",
+  "coordinate_bytes": 1004340,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2b4s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6I5J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0c6dca47c61ecdb81ee6d642dcbdcb8bfb716df8ff7c2f5bc9fb1485610d7e55",
+  "coordinate_bytes": 1223189,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6i5j.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6I5J",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 64,
+      "min_distance_A": "2.854",
+      "token_chain_id": "A",
+      "token_residue_start": "71",
+      "token_residue_end": "73",
+      "token_residue_start_number": 71,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 73,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

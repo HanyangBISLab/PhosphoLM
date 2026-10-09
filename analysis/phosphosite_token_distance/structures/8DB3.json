@@ -1,0 +1,45 @@
+{
+  "pdb_id": "8DB3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "490549ed592cae697d75b0fbee0f224842d5ebe2eebe807d98f255057eec1df7",
+  "coordinate_bytes": 3268713,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8db3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8DB3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 82,
+      "phospho_atom_count": 14,
+      "min_distance_A": "8.311",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3
+  },
+  "location_warnings": [
+    {
+      "token": "GDR",
+      "monomer": "SEP",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6GUB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7429711fdb792cc3bc5fb1ed1d0e6e2b9396d758eecbcaa61aaf3626020bf48a",
+  "coordinate_bytes": 956769,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6gub.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

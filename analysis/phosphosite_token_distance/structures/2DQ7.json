@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2DQ7",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "342280d97e3aa70ff9d5131ed77c06138aa3e1c09b77381e16e67f0006719431",
+  "coordinate_bytes": 286716,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2dq7.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

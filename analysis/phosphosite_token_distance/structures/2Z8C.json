@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2Z8C",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a31d27a1075b4ca136fee20208816a4bf053d2a39dd104ff70abd59da44ba443",
+  "coordinate_bytes": 302162,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2z8c.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

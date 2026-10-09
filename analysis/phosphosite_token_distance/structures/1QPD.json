@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1QPD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "774097ab94071dd3dd39a4d677074ad7c19e0be5fbc5ff1ed7fcd5778f910e5a",
+  "coordinate_bytes": 288977,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1qpd.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1QPD",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 16,
+      "min_distance_A": "4.657",
+      "token_chain_id": "A",
+      "token_residue_start": "390",
+      "token_residue_end": "392",
+      "token_residue_start_number": 390,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 392,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

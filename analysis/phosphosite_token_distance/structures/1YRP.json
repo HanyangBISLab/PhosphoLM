@@ -1,0 +1,58 @@
+{
+  "pdb_id": "1YRP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "89451ad1249617cf15ff3fafc88f568cc5d01a07fa8d1512bbc917c383ceae70",
+  "coordinate_bytes": 493635,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1yrp.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "TPO",
+      "pdb_id": "1YRP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.511",
+      "token_chain_id": "B",
+      "token_residue_start": "274",
+      "token_residue_end": "275",
+      "token_residue_start_number": 274,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 275,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    },
+    {
+      "token": "LEA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "1YRP",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 22,
+      "min_distance_A": "6.199",
+      "token_chain_id": "B",
+      "token_residue_start": "196",
+      "token_residue_end": "198",
+      "token_residue_start_number": 196,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 198,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

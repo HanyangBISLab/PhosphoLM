@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5OPD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4b347d1a8d019008b7abbf98b2829566d701870da26c1661003715e7c0eca887",
+  "coordinate_bytes": 1203236,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5opd.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

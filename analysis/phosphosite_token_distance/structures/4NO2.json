@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4NO2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1d3fc17306809fe5edcaba9365a2228c58b65ea33b24ef3db2f53fc39983afdf",
+  "coordinate_bytes": 415436,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4no2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 10
+  },
+  "location_warnings": []
+}

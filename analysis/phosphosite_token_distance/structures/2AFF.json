@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2AFF",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "76cc285f6accda685cfe2063f47524876287bfad8c9fdcc993d0f9e441d0ff6d",
+  "coordinate_bytes": 20706968,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2aff.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

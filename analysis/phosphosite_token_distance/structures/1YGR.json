@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1YGR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a6834c30927d8e86fdf87f4e1d7ccaa54749790ece8e39185fb1bd3d25dab59",
+  "coordinate_bytes": 1015900,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ygr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

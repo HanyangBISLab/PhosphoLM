@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7VVR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "322e56eda904bd205e1c0b62dd85843cd7b584cb5d0f2146ad6fd3585f8c5734",
+  "coordinate_bytes": 6253369,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7vvr.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

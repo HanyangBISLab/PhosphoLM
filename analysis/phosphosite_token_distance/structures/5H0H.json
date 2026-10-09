@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5H0H",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4467f115545efd6470d6e13444c6761fc184c6f030dfc62450a2624580566fa9",
+  "coordinate_bytes": 484290,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5h0h.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9CAL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "775a17aa2e19ba7ef11fc378ad32a5305a7412c7a66b43e86500ccafc5bef58b",
+  "coordinate_bytes": 713753,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9cal.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ANP",
+      "phospho_monomer": "PTR",
+      "pdb_id": "9CAL",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 20,
+      "phospho_atom_count": 16,
+      "min_distance_A": "9.732",
+      "token_chain_id": "A",
+      "token_residue_start": "92",
+      "token_residue_end": "94",
+      "token_residue_start_number": 92,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 94,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "within_cutoff": 1,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

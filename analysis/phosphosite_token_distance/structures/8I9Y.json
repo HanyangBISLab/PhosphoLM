@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8I9Y",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bdadeb92409ff71978b137583667959e55440103c2b00cb70798468de55217e1",
+  "coordinate_bytes": 20203631,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8i9y.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 18,
+    "outside_cutoff": 74,
+    "no_phospho_atoms": 37
+  },
+  "location_warnings": []
+}

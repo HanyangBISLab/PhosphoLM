@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SWO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5d1dc20f6dbd6c0a30f74238a2b58cfba8784d1c8a0c2a88f9409ac0305f925b",
+  "coordinate_bytes": 1196196,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5swo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4RMZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "698144299ab780461c0ff7991d4f131d1e9890a520c50182c0fe1b982f88d638",
+  "coordinate_bytes": 523588,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4rmz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

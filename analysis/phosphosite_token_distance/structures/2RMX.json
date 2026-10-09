@@ -1,0 +1,38 @@
+{
+  "pdb_id": "2RMX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "81ead34e4830839477c5af7152470773895ce5bcf4ab72ebc56c75c8a290d782",
+  "coordinate_bytes": 3653859,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2rmx.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "2RMX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 39,
+      "phospho_atom_count": 24,
+      "min_distance_A": "5.181",
+      "token_chain_id": "A",
+      "token_residue_start": "41",
+      "token_residue_end": "43",
+      "token_residue_start_number": 41,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 43,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

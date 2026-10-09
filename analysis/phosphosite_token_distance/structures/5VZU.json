@@ -1,0 +1,17 @@
+{
+  "pdb_id": "5VZU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "855c6b9f5745837f0ba4c99af555bd185104772e8bcf5ce1f2ada21f0b3a4b8d",
+  "coordinate_bytes": 1811004,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5vzu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 9
+  },
+  "location_warnings": []
+}

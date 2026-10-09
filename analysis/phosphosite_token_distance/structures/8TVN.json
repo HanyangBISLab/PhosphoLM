@@ -1,0 +1,107 @@
+{
+  "pdb_id": "8TVN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2e1f3b974d6729c9f4d46384fad7fd493de6a228ee12c95cc503215e88a214f7",
+  "coordinate_bytes": 1912124,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8tvn.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8TVN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 63,
+      "phospho_atom_count": 40,
+      "min_distance_A": "7.564",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "GDD",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8TVN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 63,
+      "phospho_atom_count": 88,
+      "min_distance_A": "8.330",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8TVN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 88,
+      "min_distance_A": "9.653",
+      "token_chain_id": "D",
+      "token_residue_start": "305",
+      "token_residue_end": "306",
+      "token_residue_start_number": 305,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 306,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8TVN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 104,
+      "phospho_atom_count": 88,
+      "min_distance_A": "9.020",
+      "token_chain_id": "D",
+      "token_residue_start": "405",
+      "token_residue_end": "407",
+      "token_residue_start_number": 405,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 407,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 4,
+    "no_phospho_atoms": 3,
+    "outside_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "GDD",
+      "monomer": "SEP",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    },
+    {
+      "token": "GDD",
+      "monomer": "TPO",
+      "reason": "2 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

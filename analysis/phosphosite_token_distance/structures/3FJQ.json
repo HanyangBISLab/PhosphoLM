@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3FJQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "40329b0d8d52c3f1be9efff32be2cabcab33df92da782fa28dcdd9fee166dbc7",
+  "coordinate_bytes": 714114,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3fjq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

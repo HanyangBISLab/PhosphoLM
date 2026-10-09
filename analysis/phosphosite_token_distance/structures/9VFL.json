@@ -1,0 +1,16 @@
+{
+  "pdb_id": "9VFL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b3d7bfd383065f508df1e83b8e797ddd2b1774a3c725cfdf2d915c6b38aaa2de",
+  "coordinate_bytes": 2217443,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9vfl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

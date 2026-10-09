@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3IOK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9e6e0686cc8361acc4ab0ef4896490c4e3150c4c46fa36b281c3e7ed16ba98a5",
+  "coordinate_bytes": 307729,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3iok.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

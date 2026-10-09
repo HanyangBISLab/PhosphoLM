@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2SRC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e23344d75e7bd39c81791547b257e1fb8d9e267a74c3b39b4173d5d4d4477d05",
+  "coordinate_bytes": 461738,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2src.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

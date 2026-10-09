@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6Y89",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a399093e9d056045c63d452b724ca5afa7e27b08942ab1581c9246f7d54ea9c6",
+  "coordinate_bytes": 715130,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6y89.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

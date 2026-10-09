@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5LMK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5a7d8135c41fad9eadb06d80f14cab811ae9bf5c2e8f9867d17461fdbd90ee6d",
+  "coordinate_bytes": 967883,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lmk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ORS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5a813cc7e689294d10a54df2ff69584cc6166fb42bf118b2a9e3e118a2a7cfd4",
+  "coordinate_bytes": 325966,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ors.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

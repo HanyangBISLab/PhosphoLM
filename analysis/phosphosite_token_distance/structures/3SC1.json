@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3SC1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2a73cf6b07d75a41be41b5b751a1ec4ca1dbd408c143e2291a365127b34b7dba",
+  "coordinate_bytes": 288513,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3sc1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

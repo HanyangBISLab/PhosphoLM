@@ -1,0 +1,45 @@
+{
+  "pdb_id": "8HTU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5fa77adee761213013656cbf3434a6bcaff016e6ec23dd8e7ed127e808fdbc21",
+  "coordinate_bytes": 6563018,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8htu.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8HTU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 11,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.803",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 75,
+    "no_phospho_atoms": 36,
+    "outside_cutoff": 17,
+    "within_cutoff": 1
+  },
+  "location_warnings": [
+    {
+      "token": "CF",
+      "monomer": "TPO",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

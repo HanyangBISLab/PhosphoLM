@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4Y73",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "012d7cbe443449071f6b2414e2639d97e0180f9b00acfdd7e4b1adc2892598f3",
+  "coordinate_bytes": 1033781,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4y73.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

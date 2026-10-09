@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4CFM",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9d388623d47d7e4e98b191ad4d6353d099b9c8948dbba04b4063edee0d9ac77a",
+  "coordinate_bytes": 1669763,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4cfm.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6,
+    "no_token_atoms": 111
+  },
+  "location_warnings": []
+}

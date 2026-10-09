@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5ORP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "86a3107f60c12d5714ee06430c5137f83baf5a762338160e1e03fbce84eda785",
+  "coordinate_bytes": 315802,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5orp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

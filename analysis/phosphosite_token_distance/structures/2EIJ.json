@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2EIJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "729287e4156638bd9a63ff17470f29faa74037b26aa26ed2564b32f18397f049",
+  "coordinate_bytes": 3501630,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2eij.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

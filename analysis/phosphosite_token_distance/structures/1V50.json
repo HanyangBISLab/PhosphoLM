@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1V50",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a81b492a0af338807136fb899b5d3eeb4c3f71dc9cab643e2f16bb22eeaf81c2",
+  "coordinate_bytes": 57612,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1V50.cif",
+    "resolved_url": "https://files.rcsb.org/download/1V50.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

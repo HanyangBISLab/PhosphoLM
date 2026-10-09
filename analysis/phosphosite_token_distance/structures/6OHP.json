@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6OHP",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "6d78f7536bb39178ccc9f14562b9a5f9e1e7e984a2f8364bf8e9ca09e3731285",
+  "coordinate_bytes": 3632123,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ohp.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

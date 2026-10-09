@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1M0V",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "350a3a4b60dd9facb05ee76931febf33339d7a11a38010da5d2c8db62019c9c8",
+  "coordinate_bytes": 3907971,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1m0v.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

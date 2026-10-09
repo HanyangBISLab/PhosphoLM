@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7A51",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1b82477cfb0668475f8636f0c66c1c78603485ad058c71484bdfe6ac0c8eb666",
+  "coordinate_bytes": 372263,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7a51.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

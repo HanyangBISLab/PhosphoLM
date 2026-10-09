@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1FOT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "277ac5ad41373389fd605b941c4f36562163aafe725077d6ff591c59a8e5a223",
+  "coordinate_bytes": 299784,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1fot.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

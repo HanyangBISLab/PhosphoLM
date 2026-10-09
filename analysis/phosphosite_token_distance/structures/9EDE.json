@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9EDE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "39a024b98c11badc486c0223aabe31d0bd998273613ae3782e591da3661c82dd",
+  "coordinate_bytes": 537884,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ede.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

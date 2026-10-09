@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9Z6Y",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8570a5c8c1de1d09d454ebc3fce22afd38510d0c5bf95338c9015d163d8ab397",
+  "coordinate_bytes": 7550411,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9z6y.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 102,
+    "no_phospho_atoms": 18,
+    "outside_cutoff": 9
+  },
+  "location_warnings": []
+}

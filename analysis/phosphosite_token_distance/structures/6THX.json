@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6THX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0f40ee28031b1508e21ff0f9ed8d1e726b35fb615eca518ac81c1d44a01d662e",
+  "coordinate_bytes": 923166,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6thx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

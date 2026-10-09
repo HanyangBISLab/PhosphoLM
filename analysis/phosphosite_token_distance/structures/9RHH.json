@@ -1,0 +1,20 @@
+{
+  "pdb_id": "9RHH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4c0038e633f52205fb516c2daaa77d67c0e17b81c6e3886bb955db9610faf066",
+  "coordinate_bytes": 568808,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/9RHH.cif",
+    "resolved_url": "https://files.rcsb.org/download/9RHH.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

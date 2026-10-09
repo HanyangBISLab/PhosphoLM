@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2VO6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0c520c50b69a38c8e50134d45a9145a0867461e26994abd43ffe3167c1665959",
+  "coordinate_bytes": 418350,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2vo6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

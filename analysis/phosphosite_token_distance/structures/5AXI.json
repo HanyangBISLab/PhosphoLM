@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5AXI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "03069cc8f093ab2b8c18d042ad61720b5fc0d36c0ba21a170646ec9b0e64b1e2",
+  "coordinate_bytes": 833877,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5axi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

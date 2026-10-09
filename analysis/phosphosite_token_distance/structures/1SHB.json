@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1SHB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "61bac947c42dcfda092018ffbd00b24832630472b8eb1ef70f4c4345cac2fdd0",
+  "coordinate_bytes": 138896,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1shb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

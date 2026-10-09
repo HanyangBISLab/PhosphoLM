@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ZN6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4d3e090b4d096435de95733e228f1d826cfefb9ef105e087f024dd27a580c854",
+  "coordinate_bytes": 4703257,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8zn6.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

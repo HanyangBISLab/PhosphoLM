@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6NKN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "39e55dc184a7c5de92cf5822fd6b30ea8745c851361f0eed8fa73147343f9b52",
+  "coordinate_bytes": 3353953,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6nkn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 87,
+    "no_phospho_atoms": 28,
+    "outside_cutoff": 14
+  },
+  "location_warnings": []
+}

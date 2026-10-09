@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5N3I",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e932fb75cbbd8dadbf14861863915c77f3d8560d6e8f9f42b8e4b91f86eb3021",
+  "coordinate_bytes": 950045,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5n3i.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

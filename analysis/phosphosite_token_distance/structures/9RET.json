@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RET",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "716fc1a0e78ca3b7a8173a02220043647270102dbefe70f0d4f705a9ac54445d",
+  "coordinate_bytes": 419249,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9ret.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

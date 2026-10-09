@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6DAT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "43e27f1a526d336189828b00beb05e063067751834994411f7eee9e4d8ee3352",
+  "coordinate_bytes": 1064271,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6dat.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

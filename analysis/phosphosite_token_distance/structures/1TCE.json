@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1TCE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "aabf7d1747e3b849615ce25da56462fb275a8d0ee615a7ecd9b595cf9c57c0ee",
+  "coordinate_bytes": 226400,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1tce.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

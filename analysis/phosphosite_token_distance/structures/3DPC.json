@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3DPC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "27753dcb4ec4383103d794cf467b5559f998e902a667daa750a3f89499a5f2f9",
+  "coordinate_bytes": 728441,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3dpc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

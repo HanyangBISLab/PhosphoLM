@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3K16",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8cadb6cff45f282334d07386300742a05e1a231f7025f612a8b9e49720ff1c2d",
+  "coordinate_bytes": 239726,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3k16.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

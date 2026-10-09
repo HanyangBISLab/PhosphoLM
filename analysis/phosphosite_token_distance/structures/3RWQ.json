@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3RWQ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7f4e6ffd8c0d731e5fe668b8d6abc8811680223c20560801b7830fd50a6b4830",
+  "coordinate_bytes": 308215,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3rwq.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

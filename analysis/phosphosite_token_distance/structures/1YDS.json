@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1YDS",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ef701f0c2cc6b2c3e14b19f66b71c742326d192c0ba534871f957d19b033e0e3",
+  "coordinate_bytes": 363656,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1yds.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

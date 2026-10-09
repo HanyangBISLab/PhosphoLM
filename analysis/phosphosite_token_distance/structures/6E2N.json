@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6E2N",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f36bc52c26409639fcc36722d7180526b117d92885ffc12cc26a4b0bfbbf87f0",
+  "coordinate_bytes": 496226,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6e2n.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

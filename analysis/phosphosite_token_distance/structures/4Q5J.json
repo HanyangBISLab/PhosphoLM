@@ -1,0 +1,45 @@
+{
+  "pdb_id": "4Q5J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ce7a514a72028751ca5b27804fa5e0316988e35e8638be7c347292e719ac2bd8",
+  "coordinate_bytes": 1006235,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4q5j.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4Q5J",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 38,
+      "phospho_atom_count": 60,
+      "min_distance_A": "3.435",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "within_cutoff": 1,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": [
+    {
+      "token": "GDR",
+      "monomer": "SEP",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

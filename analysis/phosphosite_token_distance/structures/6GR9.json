@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6GR9",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "12be18e3ba62b8242d0ee3af713ce1c8c8ad1d3c46ed91046b10ac598abe69da",
+  "coordinate_bytes": 353899,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6gr9.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ARR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6GR9",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.321",
+      "token_chain_id": "A",
+      "token_residue_start": "113",
+      "token_residue_end": "115",
+      "token_residue_start_number": 113,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 115,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

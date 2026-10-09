@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6F3D",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5cd36b3185a845e078c3251036fb6575aa6898fdb089364b0ae215be854aa654",
+  "coordinate_bytes": 903972,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6f3d.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

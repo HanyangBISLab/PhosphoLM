@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5NFU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4ab73e2ce44e2bd1ae02a1c7f5324873cc27ffb4745b3fd2022e3fab9a394423",
+  "coordinate_bytes": 254359,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5nfu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

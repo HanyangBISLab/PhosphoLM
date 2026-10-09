@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2HCK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "194ce34a370c8ef59fea1df5e8d64903df259e74ba14e1c39fb159213ae8cd5d",
+  "coordinate_bytes": 902730,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2hck.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

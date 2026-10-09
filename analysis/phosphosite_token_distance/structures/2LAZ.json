@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2LAZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0b2ac8487ca8aa70a172b0f055ef517236027900a1ce900a6243b671e1d8b6c2",
+  "coordinate_bytes": 1473204,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LAZ.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LAZ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7QG2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "00eb2c9cfe37f64c649cd2561c689baa70f8ae6147bbc399fd319dbf4cc557d6",
+  "coordinate_bytes": 1717634,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7qg2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4EUU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fdec5f644130419bc4530b9fe291ae5260d28a3c91165c64f7cb9bb9bfa6607a",
+  "coordinate_bytes": 1084502,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4euu.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4EUU",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 42,
+      "phospho_atom_count": 20,
+      "min_distance_A": "2.819",
+      "token_chain_id": "B",
+      "token_residue_start": "160",
+      "token_residue_end": "162",
+      "token_residue_start_number": 160,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 162,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 2,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

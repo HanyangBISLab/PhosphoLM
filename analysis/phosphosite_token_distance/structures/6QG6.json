@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6QG6",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0265cccebed445e049461d50d93119b6e8097d127c7cd972b6f8ec18e135c80a",
+  "coordinate_bytes": 3883377,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6qg6.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "SEP",
+      "pdb_id": "6QG6",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 54,
+      "phospho_atom_count": 20,
+      "min_distance_A": "6.703",
+      "token_chain_id": "K",
+      "token_residue_start": "62",
+      "token_residue_end": "64",
+      "token_residue_start_number": 62,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 64,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 93,
+    "outside_cutoff": 11,
+    "no_phospho_atoms": 24,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

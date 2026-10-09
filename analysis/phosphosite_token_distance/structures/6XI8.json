@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6XI8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1dd6b291e869d023a15920424712305cd078ac4bae12f819ec4987afa2aeba4c",
+  "coordinate_bytes": 605621,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6xi8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 105,
+    "no_phospho_atoms": 16,
+    "outside_cutoff": 8
+  },
+  "location_warnings": []
+}

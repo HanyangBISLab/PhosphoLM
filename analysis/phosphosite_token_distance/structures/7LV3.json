@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7LV3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "00ec0fa90c05cc09b549ac33140626509a91fd57093021cd92ece97c0ac2a598",
+  "coordinate_bytes": 2100609,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7lv3.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

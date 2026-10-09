@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7KPL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ac387d4c30d3c7ebe2f5593b1f6e5b2892536063a6ba35d0f46a636dece17261",
+  "coordinate_bytes": 272471,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7kpl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3QKK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0cdd611d80a51ce47e0b8bedbe519ce220bb9bf4766c8e96fe9e68e67e4a634f",
+  "coordinate_bytes": 344492,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3qkk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5
+  },
+  "location_warnings": []
+}

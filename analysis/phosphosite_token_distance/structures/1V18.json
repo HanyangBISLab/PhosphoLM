@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1V18",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4b56b24460a5b40586d9ff11737c5aec84c36572d944c29b81ae915110cea5f4",
+  "coordinate_bytes": 490300,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1v18.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

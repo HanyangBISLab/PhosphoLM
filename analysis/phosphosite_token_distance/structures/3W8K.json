@@ -1,0 +1,83 @@
+{
+  "pdb_id": "3W8K",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "234fe5b426d5dbb96b926a83542ba74a3c65867d6b5ef80657f794b30e9ba36c",
+  "coordinate_bytes": 380842,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3w8k.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "VAF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3W8K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 23,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.530",
+      "token_chain_id": "A",
+      "token_residue_start": "323",
+      "token_residue_end": "325",
+      "token_residue_start_number": 323,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 325,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "VNP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3W8K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 7,
+      "phospho_atom_count": 10,
+      "min_distance_A": "9.534",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "LEA",
+      "phospho_monomer": "SEP",
+      "pdb_id": "3W8K",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.404",
+      "token_chain_id": "A",
+      "token_residue_start": "293",
+      "token_residue_end": "295",
+      "token_residue_start_number": 293,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 295,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "within_cutoff": 3,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 3
+  },
+  "location_warnings": [
+    {
+      "token": "VNP",
+      "monomer": "SEP",
+      "reason": "PyMOL selected token atoms, but no chain-specific token occurrence could be reconstructed"
+    }
+  ]
+}

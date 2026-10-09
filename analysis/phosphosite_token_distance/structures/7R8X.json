@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7R8X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "00e6a5efc7b9d6ac3558cfa092019e5441e82b1390b48388d2fac1ea87c6bae9",
+  "coordinate_bytes": 163990,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/7R8X.cif",
+    "resolved_url": "https://files.rcsb.org/download/7R8X.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

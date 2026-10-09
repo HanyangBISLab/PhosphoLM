@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1Q8T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "cc06b3b8d6045e18b5bfd6d1f91b5fb4048d24913725e0053428af717c50a90b",
+  "coordinate_bytes": 385217,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1q8t.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "1Q8T",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 22,
+      "phospho_atom_count": 20,
+      "min_distance_A": "8.145",
+      "token_chain_id": "A",
+      "token_residue_start": "302",
+      "token_residue_end": "303",
+      "token_residue_start_number": 302,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 303,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

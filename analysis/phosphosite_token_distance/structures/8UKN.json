@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8UKN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a60edf7a6720817c7f8086db1f88ab3ea11a73b651fca6ae9a7bdf82d5d1f2cf",
+  "coordinate_bytes": 2149004,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ukn.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8UKN",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 144,
+      "phospho_atom_count": 80,
+      "min_distance_A": "9.774",
+      "token_chain_id": "H",
+      "token_residue_start": "293",
+      "token_residue_end": "294",
+      "token_residue_start_number": 293,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 294,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 8,
+      "token_occurrence_count": 8
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

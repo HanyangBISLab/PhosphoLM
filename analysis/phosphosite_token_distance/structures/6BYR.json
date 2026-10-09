@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6BYR",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9debcf616ed138ca90fb688dfb10f3ccdda6870685d24cb3c0fb84057a6f4a05",
+  "coordinate_bytes": 1259200,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6byr.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "EDA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6BYR",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 44,
+      "phospho_atom_count": 22,
+      "min_distance_A": "9.758",
+      "token_chain_id": "B",
+      "token_residue_start": "106",
+      "token_residue_end": "108",
+      "token_residue_start_number": 106,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 108,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 102,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 9,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

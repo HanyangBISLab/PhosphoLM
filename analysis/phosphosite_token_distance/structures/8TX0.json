@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8TX0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "c7acd01ebf821544bd1a79ea8ae2930859d751f113dde53abf2a98f65bc4d958",
+  "coordinate_bytes": 1015187,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8tx0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

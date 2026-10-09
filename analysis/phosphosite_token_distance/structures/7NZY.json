@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7NZY",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "32280c514ac716b55af3aff0e54bcabd194f273f2ffbb4578ed9542f61a1802e",
+  "coordinate_bytes": 2078697,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7nzy.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9D0W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "53977f5db9a84830108debf67404b7b43f1bd80336e54c2d168ae3be807f0790",
+  "coordinate_bytes": 1612926,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9d0w.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 81,
+    "no_phospho_atoms": 32,
+    "outside_cutoff": 16
+  },
+  "location_warnings": []
+}

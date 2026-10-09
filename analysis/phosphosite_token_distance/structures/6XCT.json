@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6XCT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bbbad5ec2797885fe8e1ed6f4f7b3f919f5ba5b963a75a0b9056f7dfcd738e86",
+  "coordinate_bytes": 614444,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6xct.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

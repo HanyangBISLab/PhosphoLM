@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2PLD",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bb6d3799d3a9481d7408afe9dedf98d31b88174d7f57fdeaec85cbc219b279ca",
+  "coordinate_bytes": 225994,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2PLD.cif",
+    "resolved_url": "https://files.rcsb.org/download/2PLD.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

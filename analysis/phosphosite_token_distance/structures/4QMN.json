@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4QMN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "85cbbc34aaf4740bc765602e7839f8124698b65e5428cb6070bb80c33fc8ffc9",
+  "coordinate_bytes": 306485,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4qmn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

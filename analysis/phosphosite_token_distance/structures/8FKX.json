@@ -1,0 +1,69 @@
+{
+  "pdb_id": "8FKX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8d0951c1a65a2c41d97a65b150d7d06bbe882692b8091725909b9e3207ca1000",
+  "coordinate_bytes": 16823082,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8fkx.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WK",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8FKX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 203,
+      "phospho_atom_count": 20,
+      "min_distance_A": "7.614",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    },
+    {
+      "token": "DEE",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8FKX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 88,
+      "phospho_atom_count": 20,
+      "min_distance_A": "1.330",
+      "token_chain_id": "",
+      "token_residue_start": "",
+      "token_residue_end": "",
+      "token_residue_start_number": "",
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": "",
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": "",
+      "token_occurrence_count": 0
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 15,
+    "outside_cutoff": 36,
+    "no_phospho_atoms": 76,
+    "within_cutoff": 2
+  },
+  "location_warnings": [
+    {
+      "token": "WK",
+      "monomer": "SEP",
+      "reason": "1 selected token residue(s) were not assigned to a complete occurrence"
+    },
+    {
+      "token": "DEE",
+      "monomer": "SEP",
+      "reason": "4 selected token residue(s) were not assigned to a complete occurrence"
+    }
+  ]
+}

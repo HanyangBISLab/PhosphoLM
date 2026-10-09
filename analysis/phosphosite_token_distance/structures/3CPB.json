@@ -1,0 +1,17 @@
+{
+  "pdb_id": "3CPB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4fcb59bd8cabfccb5c0c3cfdfbf5bbd08c068ab3e0666231c9232cee081aeada",
+  "coordinate_bytes": 506282,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3cpb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

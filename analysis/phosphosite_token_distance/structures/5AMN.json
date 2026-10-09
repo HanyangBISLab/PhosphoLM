@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5AMN",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "62e20e6743e10f84879a6e61a6096bfa40c864c33b7165442b6f8d68afb17f17",
+  "coordinate_bytes": 491764,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5amn.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6MM8",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "781911c73a3fae756d6a9925f987ce44b548ea590b46d7661fe1e664f57a3d35",
+  "coordinate_bytes": 614896,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6mm8.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

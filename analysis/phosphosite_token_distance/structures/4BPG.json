@@ -1,0 +1,16 @@
+{
+  "pdb_id": "4BPG",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "afb715d38f89444454113093237607b1afbbf1a78081eca88db6eba911adb014",
+  "coordinate_bytes": 292208,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4bpg.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

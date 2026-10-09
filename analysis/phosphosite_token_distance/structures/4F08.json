@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4F08",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1794ac0f3e199e795a1e72d879dd889d43aeb3df87865f5ad58bd03c2b8f75fb",
+  "coordinate_bytes": 534959,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4f08.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9S9T",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8afc2eae9845165c2d25ce58bcdf6a786aa050a014552110743b278dc4a44e7e",
+  "coordinate_bytes": 1096652,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9s9t.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CF",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9S9T",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 30,
+      "phospho_atom_count": 14,
+      "min_distance_A": "2.463",
+      "token_chain_id": "A",
+      "token_residue_start": "409",
+      "token_residue_end": "410",
+      "token_residue_start_number": 409,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 410,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "within_cutoff": 1,
+    "outside_cutoff": 3,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

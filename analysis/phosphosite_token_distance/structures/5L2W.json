@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5L2W",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7cde25ff51348852ab84607247b1766732ad539c5b438065b2329feff5346d00",
+  "coordinate_bytes": 541395,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5l2w.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

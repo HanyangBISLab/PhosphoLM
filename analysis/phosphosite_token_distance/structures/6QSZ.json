@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6QSZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f11b7acd115d9795dd2084f8d99876d872e6f37ba252560b29966868ef1cfc4e",
+  "coordinate_bytes": 1573826,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6QSZ.cif",
+    "resolved_url": "https://files.rcsb.org/download/6QSZ.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

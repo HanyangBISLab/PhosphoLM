@@ -1,0 +1,59 @@
+{
+  "pdb_id": "2LAX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5ce3c4618bcbf01a29088ef6f69bfef5ad7b79071e66ed54ba681eef66e6ba8d",
+  "coordinate_bytes": 1358609,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/2LAX.cif",
+    "resolved_url": "https://files.rcsb.org/download/2LAX.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "2LAX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 14,
+      "min_distance_A": "9.995",
+      "token_chain_id": "A",
+      "token_residue_start": "191",
+      "token_residue_end": "192",
+      "token_residue_start_number": 191,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 192,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    },
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "2LAX",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 32,
+      "phospho_atom_count": 17,
+      "min_distance_A": "2.914",
+      "token_chain_id": "A",
+      "token_residue_start": "191",
+      "token_residue_end": "192",
+      "token_residue_start_number": 191,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 192,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 126,
+    "within_cutoff": 2,
+    "no_phospho_atoms": 1
+  },
+  "location_warnings": []
+}

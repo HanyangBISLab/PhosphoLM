@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9MXB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "42c8624c85693adfe4a0430371f14f9ae27d5d155a08dd23a6ccf287877e9ac9",
+  "coordinate_bytes": 874870,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9mxb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

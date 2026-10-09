@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8UCC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b02443c33ae235a8641774e98b15f038cc77ec246d191758df9e42887eb016fb",
+  "coordinate_bytes": 595163,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8ucc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

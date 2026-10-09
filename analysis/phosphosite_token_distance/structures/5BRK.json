@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5BRK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b716ca4cf5d2f5ce0e941768f21852ae6f228d102fa68fd4b7b80f34aa1b3bd6",
+  "coordinate_bytes": 675281,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5brk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

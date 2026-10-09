@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8EYC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "848733f70f062f7c4c3f1e83ac0f94396f57a057faba7001565fa8bb2dc60a7e",
+  "coordinate_bytes": 309217,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8eyc.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3,
+    "no_token_atoms": 120
+  },
+  "location_warnings": []
+}

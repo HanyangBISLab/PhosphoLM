@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7D0E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "24fb33b33ecb46bd280f928c3211e94fbe8fc0e8263f7f089d452bc1177f21de",
+  "coordinate_bytes": 280516,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7d0e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

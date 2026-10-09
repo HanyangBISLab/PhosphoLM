@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5VKL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "1e01e3698222a535344278dcfb9eb9adefe5bd67d03b999f40305f45f190ad7c",
+  "coordinate_bytes": 449812,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5vkl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

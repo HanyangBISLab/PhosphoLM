@@ -1,0 +1,16 @@
+{
+  "pdb_id": "3SDJ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b6b457f9dc35e59a4aa3828bf8c414a39f76fc4cc77e5893b1068232e7ca15b6",
+  "coordinate_bytes": 9112772,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3sdj.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

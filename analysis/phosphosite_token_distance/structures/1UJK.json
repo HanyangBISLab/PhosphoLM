@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1UJK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "da7c87d9c43572ed8ae93144868dfebcc2ffb5e017ea71509fbb80aec4e860f3",
+  "coordinate_bytes": 319451,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1ujk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

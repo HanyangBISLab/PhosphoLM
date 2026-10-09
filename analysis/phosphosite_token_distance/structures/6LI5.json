@@ -1,0 +1,41 @@
+{
+  "pdb_id": "6LI5",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "0fd91b6001e858f1ee6b3f56123ee0630b16e6c82e8c3bb12c09d7dee0ab8163",
+  "coordinate_bytes": 570978,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6LI5.cif",
+    "resolved_url": "https://files.rcsb.org/download/6LI5.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "6LI5",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 22,
+      "min_distance_A": "2.932",
+      "token_chain_id": "A",
+      "token_residue_start": "394",
+      "token_residue_end": "395",
+      "token_residue_start_number": 394,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 395,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "within_cutoff": 1,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

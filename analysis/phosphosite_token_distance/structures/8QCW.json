@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8QCW",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a118995c6ee5e685d83be8f03e1f19cbe6145e185f32553289635baf75ed424e",
+  "coordinate_bytes": 365667,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8qcw.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

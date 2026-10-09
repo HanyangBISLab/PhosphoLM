@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6GUE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "16c8b8e652c07892238763245030123684a9f08ca823e0c74fd096ca6a3d4cb3",
+  "coordinate_bytes": 1007781,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6gue.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

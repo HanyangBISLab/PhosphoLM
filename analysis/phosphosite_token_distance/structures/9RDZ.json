@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9RDZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "330621a027c43492ad8fcdea3edf831933cb78aa177b6afdc4c8ba190fbb6f6c",
+  "coordinate_bytes": 446424,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9rdz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

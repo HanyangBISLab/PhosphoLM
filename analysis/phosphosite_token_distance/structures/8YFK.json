@@ -1,0 +1,16 @@
+{
+  "pdb_id": "8YFK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2fb42ab2c45b6e5a7d1df561b0d0d770edd65c3c1e3cd99e0f85be72cfa21103",
+  "coordinate_bytes": 722623,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8yfk.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

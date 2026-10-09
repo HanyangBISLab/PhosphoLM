@@ -1,0 +1,16 @@
+{
+  "pdb_id": "2BVA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a163605dd3546546cecff2c42971d7bf9367913e37ee3f984f14ab9573808ffa",
+  "coordinate_bytes": 472333,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2bva.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

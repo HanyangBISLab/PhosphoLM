@@ -1,0 +1,39 @@
+{
+  "pdb_id": "4CKT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "51260234896ad275a0484145450af48c89f4742dd547380ce5f9ffdf60c67450",
+  "coordinate_bytes": 273631,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4ckt.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "4CKT",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 93,
+      "phospho_atom_count": 20,
+      "min_distance_A": "1.327",
+      "token_chain_id": "C",
+      "token_residue_start": "6",
+      "token_residue_end": "8",
+      "token_residue_start_number": 6,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 8,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

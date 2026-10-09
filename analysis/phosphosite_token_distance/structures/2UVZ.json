@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2UVZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "7c6168c94a9fa1f605ec51cbc8cd0ede4d0065562812b489d524c3919282c479",
+  "coordinate_bytes": 391253,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2uvz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

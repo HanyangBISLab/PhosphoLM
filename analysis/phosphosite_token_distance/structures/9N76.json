@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9N76",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "283b3fbba802447a4d19f872676786c12a716aa1ef0c5b6d68f081481fa1f582",
+  "coordinate_bytes": 25006954,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9n76.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "WI",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9N76",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 252,
+      "phospho_atom_count": 10,
+      "min_distance_A": "3.813",
+      "token_chain_id": "LS",
+      "token_residue_start": "125",
+      "token_residue_end": "126",
+      "token_residue_start_number": 125,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 126,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 12
+    }
+  ],
+  "statuses": {
+    "outside_cutoff": 41,
+    "no_phospho_atoms": 84,
+    "within_cutoff": 1,
+    "no_token_atoms": 3
+  },
+  "location_warnings": []
+}

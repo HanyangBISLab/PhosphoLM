@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ROZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b96e8c025f85dc3955246efb3f09dbac041c42c7c7268f91b71b4646c9401c8e",
+  "coordinate_bytes": 649396,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8roz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 7,
+    "outside_cutoff": 14,
+    "no_token_atoms": 108
+  },
+  "location_warnings": []
+}

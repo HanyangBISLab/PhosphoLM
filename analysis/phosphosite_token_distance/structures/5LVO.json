@@ -1,0 +1,16 @@
+{
+  "pdb_id": "5LVO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9e1fde106b8123d38fc3eebfe1278a9fff79f140f2a1f0226c3037be416e0a9d",
+  "coordinate_bytes": 829705,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5lvo.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

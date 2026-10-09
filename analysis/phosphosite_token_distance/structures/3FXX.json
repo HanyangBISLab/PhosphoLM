@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3FXX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "03a1d4f202d563baaa0dd2689aaf52dd8441a49ee0c220dca7cb45950b7ecff7",
+  "coordinate_bytes": 367011,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3fxx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

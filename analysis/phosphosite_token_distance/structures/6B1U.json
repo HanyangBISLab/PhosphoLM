@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6B1U",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2ddec1c3dc843fa5c74624fd0779f5f5462a97a2efc4987b7447a737c5622a28",
+  "coordinate_bytes": 3015248,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6b1u.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

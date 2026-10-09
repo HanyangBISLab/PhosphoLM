@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1KC2",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2849850a8e011347ca173a606ca5859d6834783d4581020ee2e3cecac7508c1f",
+  "coordinate_bytes": 150225,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1kc2.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

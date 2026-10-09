@@ -1,0 +1,39 @@
+{
+  "pdb_id": "6GGH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4e2ff0cc4b06052ce596de0eeeedcefc69e076261849288fc5c6e542ee3c80a3",
+  "coordinate_bytes": 1024085,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6ggh.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "PTR",
+      "pdb_id": "6GGH",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 36,
+      "phospho_atom_count": 64,
+      "min_distance_A": "8.046",
+      "token_chain_id": "A",
+      "token_residue_start": "917",
+      "token_residue_end": "918",
+      "token_residue_start_number": 917,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 918,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

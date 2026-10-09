@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1H4X",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "81388e847c52a6dbcd40448633fef36e540a31961fbface0e6ea909c1df85f27",
+  "coordinate_bytes": 295859,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1h4x.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "ELD",
+      "phospho_monomer": "SEP",
+      "pdb_id": "1H4X",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 50,
+      "phospho_atom_count": 25,
+      "min_distance_A": "6.087",
+      "token_chain_id": "A",
+      "token_residue_start": "20",
+      "token_residue_end": "22",
+      "token_residue_start_number": 20,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 22,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 2
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 2,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

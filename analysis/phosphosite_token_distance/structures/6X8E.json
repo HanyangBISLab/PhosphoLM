@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6X8E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "14e61f9f1ab7407789b3a8f92ffb081d97cc8436a085f8b741867e45fdc100c3",
+  "coordinate_bytes": 604472,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6x8e.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 4,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

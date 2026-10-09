@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3F3Z",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "523278fa11ddde6e9141d3cb2e36c62bfe043412f5d89477f924249d4567953e",
+  "coordinate_bytes": 305171,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3f3z.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 8
+  },
+  "location_warnings": []
+}

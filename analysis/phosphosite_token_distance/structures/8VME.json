@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8VME",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "a35304d80caf9a8db75d9ffbcb3994d41deb127f6f71aae7050702691c5c6de0",
+  "coordinate_bytes": 774209,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8vme.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "CH",
+      "phospho_monomer": "SEP",
+      "pdb_id": "8VME",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 16,
+      "phospho_atom_count": 10,
+      "min_distance_A": "8.748",
+      "token_chain_id": "A",
+      "token_residue_start": "178",
+      "token_residue_end": "179",
+      "token_residue_start_number": 178,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 179,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "within_cutoff": 1,
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

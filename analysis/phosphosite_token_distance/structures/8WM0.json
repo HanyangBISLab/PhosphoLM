@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8WM0",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bb8709ef5f9785703a7129389e168f74a031fa23a9c99207ab3b3fa11902f029",
+  "coordinate_bytes": 556948,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8wm0.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,20 @@
+{
+  "pdb_id": "6V7Q",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "bc115023da868eb44d05700f12bde53df7c2956ea7a72f4f6846ee62bc204a74",
+  "coordinate_bytes": 503461,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6V7Q.cif",
+    "resolved_url": "https://files.rcsb.org/download/6V7Q.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "outside_cutoff": 1,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

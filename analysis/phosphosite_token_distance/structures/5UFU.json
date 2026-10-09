@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5UFU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2c4325cbcb14a3ccfbfbad445a49539238d3ddabea332c07046f722e416c23e5",
+  "coordinate_bytes": 1311897,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5ufu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "no_phospho_atoms": 14,
+    "outside_cutoff": 7
+  },
+  "location_warnings": []
+}

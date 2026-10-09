@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9ESO",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "5bde87260b52a82fd06416e3c93c82752f5bc513b9bc242209240082a25da7d0",
+  "coordinate_bytes": 995420,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9eso.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_phospho_atoms": 10,
+    "outside_cutoff": 5,
+    "no_token_atoms": 114
+  },
+  "location_warnings": []
+}

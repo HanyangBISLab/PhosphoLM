@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8ATL",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fa4f2bf102736ba6887e45a1af1457992233ccae17f6c820eaf7cb7dc86e9b3c",
+  "coordinate_bytes": 553497,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8atl.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "outside_cutoff": 8,
+    "no_phospho_atoms": 4
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2BFX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "39a9488e4727782a870554876ce3080cb019d8f1f069430166a8c696e41f6fd4",
+  "coordinate_bytes": 593527,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2bfx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

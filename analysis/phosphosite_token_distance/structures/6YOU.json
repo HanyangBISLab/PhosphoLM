@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6YOU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "ce58ac797a071062978a4367525e516e85e112f7938ba9d8436f08fc6073e4a0",
+  "coordinate_bytes": 657992,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6you.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "outside_cutoff": 4,
+    "no_phospho_atoms": 2
+  },
+  "location_warnings": []
+}

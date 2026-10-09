@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6C9F",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "fb178a5ace48bbd34f781381080d3dd62a42d548e410a1f5ee100597edaa275f",
+  "coordinate_bytes": 1397314,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6c9f.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "no_phospho_atoms": 12,
+    "outside_cutoff": 6
+  },
+  "location_warnings": []
+}

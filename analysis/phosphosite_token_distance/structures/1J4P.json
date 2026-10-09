@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1J4P",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "46c6f6c3af254a35113c8c57c4284a3cd948ef5af0b3f208a4a3d34bf945cf0e",
+  "coordinate_bytes": 296560,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1j4p.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

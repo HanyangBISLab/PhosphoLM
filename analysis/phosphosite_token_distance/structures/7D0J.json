@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7D0J",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e0b895eb05a221419986168bf51fa51c702c5e6334ba0ead739e739865f4dce0",
+  "coordinate_bytes": 7201191,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7d0j.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "AAA",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7D0J",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 75,
+      "phospho_atom_count": 11,
+      "min_distance_A": "7.991",
+      "token_chain_id": "S",
+      "token_residue_start": "27",
+      "token_residue_end": "29",
+      "token_residue_start_number": 27,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 29,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 5
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 66,
+    "no_phospho_atoms": 42,
+    "outside_cutoff": 20,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

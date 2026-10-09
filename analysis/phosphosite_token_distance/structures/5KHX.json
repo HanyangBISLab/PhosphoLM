@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5KHX",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "f07a7f802c1cf6e162d811d6e46c2d9fa151d93aef2350f79e2448cc288d8fbc",
+  "coordinate_bytes": 507875,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5khx.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

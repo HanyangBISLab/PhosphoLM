@@ -1,0 +1,39 @@
+{
+  "pdb_id": "9UW3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "8f77a04235ea1e1ce086c34b92db46c737decf15fc91bac184bd454033ea6f09",
+  "coordinate_bytes": 616273,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9uw3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "IKP",
+      "phospho_monomer": "SEP",
+      "pdb_id": "9UW3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 24,
+      "phospho_atom_count": 20,
+      "min_distance_A": "9.279",
+      "token_chain_id": "A",
+      "token_residue_start": "103",
+      "token_residue_end": "105",
+      "token_residue_start_number": 103,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 105,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 11,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

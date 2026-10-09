@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3NAK",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "11ccaa15e84e1d891ac8430a0941f44aa7fbafad781bc4598dce0ccace288abd",
+  "coordinate_bytes": 1084305,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3nak.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}

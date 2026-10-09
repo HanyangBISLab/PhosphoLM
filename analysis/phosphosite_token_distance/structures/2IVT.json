@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2IVT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "645ec3eae5b94aefe837c650653f5ce624c94828ff020b6cacd3acfc770811e6",
+  "coordinate_bytes": 307031,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2ivt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

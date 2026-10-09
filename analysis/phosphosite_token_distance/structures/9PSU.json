@@ -1,0 +1,18 @@
+{
+  "pdb_id": "9PSU",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "48f6a73b4118333b48072884cbe1c3e7686895f7531821f139c5b33f100d9bc5",
+  "coordinate_bytes": 1933729,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/9psu.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 3
+  },
+  "location_warnings": []
+}

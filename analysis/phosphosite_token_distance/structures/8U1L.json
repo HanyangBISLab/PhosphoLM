@@ -1,0 +1,18 @@
+{
+  "pdb_id": "8U1L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "214507c9290844b3919fd9f1b205967650a51b5e768df44332558614a309d23f",
+  "coordinate_bytes": 1439903,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8u1l.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "outside_cutoff": 11,
+    "no_phospho_atoms": 22,
+    "no_token_atoms": 96
+  },
+  "location_warnings": []
+}

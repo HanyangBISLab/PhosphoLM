@@ -1,0 +1,18 @@
+{
+  "pdb_id": "3OB1",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "b8cff8eb312c3d2410974b0a42d56967f47b6ef6e2b69de818c58f64531352d3",
+  "coordinate_bytes": 533323,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/3ob1.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 123,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

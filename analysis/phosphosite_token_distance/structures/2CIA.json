@@ -1,0 +1,39 @@
+{
+  "pdb_id": "2CIA",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "235a5a0a8fc03619f7c452bf69190293fbb6df1f5ff761bb2e3b054d71b01feb",
+  "coordinate_bytes": 172448,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2cia.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "PTR",
+      "pdb_id": "2CIA",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 16,
+      "min_distance_A": "2.724",
+      "token_chain_id": "A",
+      "token_residue_start": "309",
+      "token_residue_end": "311",
+      "token_residue_start_number": 309,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 311,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "within_cutoff": 1,
+    "outside_cutoff": 2
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,39 @@
+{
+  "pdb_id": "8V2L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d029dfa81757085ea5644a4fa030a5fbf61f65b22e4bc2c353a18436ca830638",
+  "coordinate_bytes": 1019486,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8v2l.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "NH",
+      "phospho_monomer": "TPO",
+      "pdb_id": "8V2L",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 72,
+      "phospho_atom_count": 88,
+      "min_distance_A": "9.899",
+      "token_chain_id": "D",
+      "token_residue_start": "305",
+      "token_residue_end": "306",
+      "token_residue_start_number": 305,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 306,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 4,
+      "token_occurrence_count": 4
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "outside_cutoff": 5,
+    "no_phospho_atoms": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

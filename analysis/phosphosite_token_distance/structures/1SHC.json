@@ -1,0 +1,39 @@
+{
+  "pdb_id": "1SHC",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "4919b4cfbc14c381a559fb0f7ce69b4d5c7a8ae93f03db0b63173a7e9d52dfbb",
+  "coordinate_bytes": 350344,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1shc.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LDF",
+      "phospho_monomer": "PTR",
+      "pdb_id": "1SHC",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 51,
+      "phospho_atom_count": 25,
+      "min_distance_A": "9.420",
+      "token_chain_id": "A",
+      "token_residue_start": "69",
+      "token_residue_end": "71",
+      "token_residue_start_number": 69,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 71,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 117,
+    "no_phospho_atoms": 8,
+    "outside_cutoff": 3,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

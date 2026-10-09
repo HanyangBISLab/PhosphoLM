@@ -1,0 +1,18 @@
+{
+  "pdb_id": "7ZRH",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e0f1960b0cfeb619de29988f53f06977be368c71b7a25d0d96483a80cfa15ab0",
+  "coordinate_bytes": 1153189,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7zrh.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 78,
+    "outside_cutoff": 17,
+    "no_phospho_atoms": 34
+  },
+  "location_warnings": []
+}

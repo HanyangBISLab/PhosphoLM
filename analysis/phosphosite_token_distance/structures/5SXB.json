@@ -1,0 +1,18 @@
+{
+  "pdb_id": "5SXB",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2348f476708643b74bfaef85e951d5a149355ee9442f141685a281fe940af325",
+  "coordinate_bytes": 1146516,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5sxb.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 108,
+    "outside_cutoff": 7,
+    "no_phospho_atoms": 14
+  },
+  "location_warnings": []
+}

@@ -1,0 +1,17 @@
+{
+  "pdb_id": "6OPI",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "38b2ffc52adc49c71294495f0d4cab22a854153632146418250e28758020b0da",
+  "coordinate_bytes": 345210,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/6opi.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 9
+  },
+  "location_warnings": []
+}

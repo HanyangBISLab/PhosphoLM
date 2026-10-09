@@ -1,0 +1,18 @@
+{
+  "pdb_id": "4C0S",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "d812daaaa07d0bfebf70328f80feb612f812ab8c545214c90de8e778ceb30eaf",
+  "coordinate_bytes": 780372,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/4c0s.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 12,
+    "no_phospho_atoms": 6
+  },
+  "location_warnings": []
+}

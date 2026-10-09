@@ -1,0 +1,20 @@
+{
+  "pdb_id": "1P4E",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e66f058114b56706f0f975648a238a3e155b8b2a9dd3e3bf34874e9a952be0f1",
+  "coordinate_bytes": 1741746,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/1P4E.cif",
+    "resolved_url": "https://files.rcsb.org/download/1P4E.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 126,
+    "no_phospho_atoms": 2,
+    "outside_cutoff": 1
+  },
+  "location_warnings": []
+}

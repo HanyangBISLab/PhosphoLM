@@ -1,0 +1,39 @@
+{
+  "pdb_id": "5TJ3",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "9fd20d17ba0527760033a90764aa597f19390ecdc77067cf4540b184135b22cf",
+  "coordinate_bytes": 936368,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/5tj3.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "LIR",
+      "phospho_monomer": "TPO",
+      "pdb_id": "5TJ3",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 27,
+      "phospho_atom_count": 11,
+      "min_distance_A": "8.747",
+      "token_chain_id": "A",
+      "token_residue_start": "264",
+      "token_residue_end": "266",
+      "token_residue_start_number": 264,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 266,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 1,
+      "token_occurrence_count": 1
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 114,
+    "no_phospho_atoms": 10,
+    "within_cutoff": 1,
+    "outside_cutoff": 4
+  },
+  "location_warnings": []
+}

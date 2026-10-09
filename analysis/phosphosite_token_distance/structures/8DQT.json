@@ -1,0 +1,16 @@
+{
+  "pdb_id": "8DQT",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "52e55d9aca88be612d8da77d614961e251dc881c58d3a212f6992b1394b46113",
+  "coordinate_bytes": 360753,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/8dqt.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

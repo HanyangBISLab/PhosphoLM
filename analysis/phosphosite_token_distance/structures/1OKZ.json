@@ -1,0 +1,16 @@
+{
+  "pdb_id": "1OKZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "e8493e4cbba2c3d29cba94b151d85e763bdabe9b4129033893578d82031dfa87",
+  "coordinate_bytes": 306088,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1okz.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

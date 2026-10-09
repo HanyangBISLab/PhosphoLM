@@ -1,0 +1,18 @@
+{
+  "pdb_id": "1QPE",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "be7d3e749abbd515d5ba4a3755420f855856d9231012109ef1682020d0074af3",
+  "coordinate_bytes": 300136,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/1qpe.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 3
+  },
+  "location_warnings": []
+}

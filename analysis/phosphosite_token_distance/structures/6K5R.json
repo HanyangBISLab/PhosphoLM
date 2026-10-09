@@ -1,0 +1,18 @@
+{
+  "pdb_id": "6K5R",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "2dedbe3acbc11d7de33980c95068d9fb6e3fdf91a8c433732cfc99d4793849b4",
+  "coordinate_bytes": 2591162,
+  "provenance": {
+    "kind": "download",
+    "source": "https://files.rcsb.org/download/6K5R.cif",
+    "resolved_url": "https://files.rcsb.org/download/6K5R.cif",
+    "last_modified": null
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 129
+  },
+  "location_warnings": []
+}

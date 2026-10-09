@@ -1,0 +1,39 @@
+{
+  "pdb_id": "7UKZ",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "df80cf8b64d8c2be42804d8e773f858e25a0f9a17bed01a53b5299a38495755a",
+  "coordinate_bytes": 1443793,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/7ukz.cif"
+  },
+  "complete": true,
+  "rows": [
+    {
+      "token": "GDF",
+      "phospho_monomer": "TPO",
+      "pdb_id": "7UKZ",
+      "within_cutoff": "true",
+      "distance_status": "within_cutoff",
+      "token_atom_count": 138,
+      "phospho_atom_count": 66,
+      "min_distance_A": "8.794",
+      "token_chain_id": "C",
+      "token_residue_start": "223",
+      "token_residue_end": "225",
+      "token_residue_start_number": 223,
+      "token_residue_start_insertion_code": "",
+      "token_residue_end_number": 225,
+      "token_residue_end_insertion_code": "",
+      "token_occurrence_index": 3,
+      "token_occurrence_count": 6
+    }
+  ],
+  "statuses": {
+    "no_token_atoms": 120,
+    "no_phospho_atoms": 6,
+    "outside_cutoff": 2,
+    "within_cutoff": 1
+  },
+  "location_warnings": []
+}

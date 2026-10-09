@@ -1,0 +1,18 @@
+{
+  "pdb_id": "2R5L",
+  "fingerprint": "da4b365290280a6d07dd807c64968344f18350144d53bcef86eadda0a71de022",
+  "coordinate_sha256": "afacc3bfbaf5d166b55ac5f29bfa6d4f6411bde0f937d61ff0cc614a20feac7e",
+  "coordinate_bytes": 620823,
+  "provenance": {
+    "kind": "local_copy",
+    "source": "/home/jeevan/2r5l.cif"
+  },
+  "complete": true,
+  "rows": [],
+  "statuses": {
+    "no_token_atoms": 111,
+    "outside_cutoff": 6,
+    "no_phospho_atoms": 12
+  },
+  "location_warnings": []
+}
